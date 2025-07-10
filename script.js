@@ -110,8 +110,8 @@ function validateCurrentInput() {
                 }, 2000);
             } else {
                 // Flash red and clear
-                inputBox.style.borderColor = '#8e44ad';
-                inputBox.style.backgroundColor = 'rgba(142, 68, 173, 0.1)';
+                inputBox.style.borderColor = '#dc322f';
+                inputBox.style.backgroundColor = 'rgba(220, 50, 47, 0.1)';
                 setTimeout(() => {
                     inputBox.style.borderColor = '';
                     inputBox.style.backgroundColor = '';
