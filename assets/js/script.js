@@ -68,7 +68,7 @@ function moveToNextChar() {
         showMeaning();
         setTimeout(() => {
             loadNewWord();
-        }, 2500);
+        }, 1500);
     }
 }
 
@@ -107,7 +107,7 @@ function validateCurrentInput() {
                 typedSegments[currentCharIndex] = expectedSegment;
                 setTimeout(() => {
                     moveToNextChar();
-                }, 2000);
+                }, 1200);
             } else {
                 // Flash red and clear
                 inputBox.style.borderColor = "#dc322f";
@@ -163,12 +163,9 @@ function showHelp() {
 
 function hideHelp() {
     const modal = document.getElementById("help-modal");
+    modal.style.display = "none";
     modal.classList.remove("show");
-    // Add a small delay before hiding to allow animation to complete
-    setTimeout(() => {
-        modal.style.display = "none";
-        document.body.style.overflow = "auto";
-    }, 300);
+    document.body.style.overflow = "auto";
 }
 
 // Close modal on Escape key
