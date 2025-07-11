@@ -2,8 +2,8 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Kannada Typing Trainer</title>
-        <link rel="stylesheet" href="style.css" />
+        <title>Learn Kannada</title>
+        <link rel="stylesheet" href="assets/css/style.css" />
     </head>
     <body>
         <div class="center-container">
@@ -19,6 +19,125 @@
                 />
             </div>
         </div>
-        <script src="script.js"></script>
+
+        <!-- Footer section with help and links -->
+        <div class="footer">
+            <div class="footer-item" id="help-icon" onclick="showHelp()">
+                <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                >
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                    <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                </svg>
+                <span>Help</span>
+            </div>
+
+            <div class="footer-item">
+                <a
+                    href="https://github.com/thomascamminady/kannadacoach.git"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <svg
+                        width="20"
+                        height="20"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                    >
+                        <path
+                            d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"
+                        ></path>
+                    </svg>
+                    <span>GitHub</span>
+                </a>
+            </div>
+
+            <div class="footer-item">
+                <a
+                    href="https://camminady.dev"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <svg
+                        width="20"
+                        height="20"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                    >
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <line x1="2" y1="12" x2="22" y2="12"></line>
+                        <path
+                            d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
+                        ></path>
+                    </svg>
+                    <span>camminady.dev</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Help modal -->
+        <div id="help-modal" class="modal" onclick="hideHelp()">
+            <div class="modal-content" onclick="event.stopPropagation()">
+                <div class="modal-header">
+                    <h2>How to Use</h2>
+                    <span class="close" onclick="hideHelp()">&times;</span>
+                </div>
+                <div class="modal-body">
+                    <p><strong>Welcome to the Kannada Learning App!</strong></p>
+                    <ul>
+                        <li>
+                            Type the English transliteration of the Kannada word
+                            shown
+                        </li>
+                        <li>
+                            Use the <strong>spacebar</strong> to move to the
+                            next character
+                        </li>
+                        <li>
+                            Correct characters turn
+                            <span style="color: #859900">green</span>
+                        </li>
+                        <li>
+                            Incorrect input shows a
+                            <span style="color: #dc322f">red</span> flash
+                        </li>
+                        <li>
+                            After 4 wrong attempts, the correct answer is shown
+                        </li>
+                        <li>
+                            English meaning appears when you complete a word
+                        </li>
+                        <li>
+                            Your transliteration appears below each Kannada
+                            letter
+                        </li>
+                    </ul>
+                    <p>
+                        <em
+                            >Keep practicing to improve your Kannada
+                            transliteration skills!</em
+                        >
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <script src="assets/js/script.js"></script>
     </body>
 </html>

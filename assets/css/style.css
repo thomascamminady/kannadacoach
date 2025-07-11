@@ -67,7 +67,7 @@ body {
         margin-bottom: 1.5rem;
         gap: 0.8rem;
     }
-    
+
     .transliteration {
         font-size: 0.9rem;
         padding: 0.3rem 0.5rem;
@@ -125,7 +125,9 @@ body {
 }
 
 @media (max-width: 768px) {
-    .meaning, .hint {
+
+    .meaning,
+    .hint {
         margin-bottom: 1rem;
         padding: 0.6rem 1rem;
     }
@@ -214,12 +216,15 @@ body {
 }
 
 @keyframes kannada-pulse {
-    0%, 100% { 
+
+    0%,
+    100% {
         opacity: 1;
         transform: scale(1);
         box-shadow: 0 4px 20px rgba(88, 110, 117, 0.2);
     }
-    50% { 
+
+    50% {
         opacity: 0.8;
         transform: scale(1.05);
         box-shadow: 0 6px 25px rgba(88, 110, 117, 0.3);
@@ -227,6 +232,7 @@ body {
 }
 
 @media (max-width: 768px) {
+
     .kannada-typed-correct,
     .kannada-current-char,
     .kannada-pending-char {
@@ -234,5 +240,213 @@ body {
         margin: 0.1rem;
         min-width: 1.8rem;
         border-radius: 8px;
+    }
+}
+
+/* Footer styles */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(253, 246, 227, 0.95);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(147, 161, 161, 0.2);
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    z-index: 100;
+}
+
+.footer-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #586e75;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0.5rem 1rem;
+    border-radius: 15px;
+    background: rgba(88, 110, 117, 0.05);
+    border: 1px solid rgba(147, 161, 161, 0.2);
+}
+
+.footer-item:hover {
+    color: #268bd2;
+    background: rgba(38, 139, 210, 0.1);
+    border-color: rgba(38, 139, 210, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(38, 139, 210, 0.2);
+}
+
+.footer-item a {
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.footer-item svg {
+    flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+    .footer {
+        gap: 1rem;
+        padding: 0.8rem;
+    }
+
+    .footer-item {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+        gap: 0.4rem;
+    }
+
+    .footer-item svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .footer-item span {
+        display: none;
+    }
+}
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    animation: fadeIn 0.3s ease;
+}
+
+.modal.show {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.modal-content {
+    background: #fdf6e3;
+    border-radius: 20px;
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    animation: slideIn 0.3s ease;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem 1rem;
+    border-bottom: 1px solid #eee8d5;
+}
+
+.modal-header h2 {
+    margin: 0;
+    color: #073642;
+    font-size: 1.5rem;
+}
+
+.close {
+    font-size: 2rem;
+    color: #93a1a1;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    line-height: 1;
+}
+
+.close:hover {
+    color: #dc322f;
+}
+
+.modal-body {
+    padding: 1.5rem 2rem 2rem;
+    color: #586e75;
+    line-height: 1.6;
+}
+
+.modal-body ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+.modal-body li {
+    margin: 0.5rem 0;
+}
+
+.modal-body p {
+    margin: 1rem 0;
+}
+
+.modal-body em {
+    color: #268bd2;
+    font-style: italic;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px) scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .modal-content {
+        width: 95%;
+        max-height: 70vh;
+    }
+
+    .modal-header {
+        padding: 1rem 1.5rem 0.5rem;
+    }
+
+    .modal-header h2 {
+        font-size: 1.3rem;
+    }
+
+    .modal-body {
+        padding: 1rem 1.5rem 1.5rem;
+    }
+}
+
+/* Adjust center-container to account for footer */
+.center-container {
+    padding-bottom: 80px;
+    /* Add space for footer */
+}
+
+@media (max-width: 768px) {
+    .center-container {
+        padding-bottom: 70px;
     }
 }

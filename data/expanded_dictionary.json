@@ -1,0 +1,6403 @@
+[
+  {
+    "kannada": "ಅಂಕ",
+    "transliteration": "amka",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಕಣ",
+    "transliteration": "amkana",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಕ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಗ",
+    "transliteration": "amga",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಗಡಿ",
+    "transliteration": "amgadai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಗ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಗಾಲು",
+    "transliteration": "amgaaalau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಗಾ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಅಂಗುಳು",
+    "transliteration": "amgaulau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಗು",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಅಂಗೈ",
+    "transliteration": "amgaai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಗೈ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಚಲ",
+    "transliteration": "amchala",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಚ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಚೆ",
+    "transliteration": "amchae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಚೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಟು",
+    "transliteration": "amtau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಅಂಡ",
+    "transliteration": "amda",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಅಂತಃಕರಣ",
+    "transliteration": "amtahkarana",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ತ",
+      "ಃ",
+      "ಕ",
+      "ರ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಅಂತಃಕಲಹ",
+    "transliteration": "amtahkalaha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ತ",
+      "ಃ",
+      "ಕ",
+      "ಲ",
+      "ಹ"
+    ]
+  },
+  {
+    "kannada": "ಅಂದಾಜು",
+    "transliteration": "amdaaajau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ದಾ",
+      "ಜು"
+    ]
+  },
+  {
+    "kannada": "ಅಂಬಾರಿ",
+    "transliteration": "ambaaarai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಬಾ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಬಿ",
+    "transliteration": "ambai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಬಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಬಿಗ",
+    "transliteration": "ambaiga",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಬಿ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಬಿಗಾರ",
+    "transliteration": "ambaigaaara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಬಿ",
+      "ಗಾ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಶ",
+    "transliteration": "amsha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಶ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಶಿಕ",
+    "transliteration": "amshaika",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಶಿ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಅಕಚ",
+    "transliteration": "akacha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ",
+      "ಚ"
+    ]
+  },
+  {
+    "kannada": "ಅಕರಣಿ",
+    "transliteration": "akaranai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ",
+      "ರ",
+      "ಣಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕ",
+    "transliteration": "akaka",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕಜ",
+    "transliteration": "akakaja",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕ",
+      "ಜ"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕರೆ",
+    "transliteration": "akakarae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕಲು",
+    "transliteration": "akakalau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕಳೆ",
+    "transliteration": "akakalae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕಿ",
+    "transliteration": "akakai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಟೋಬರ್",
+    "transliteration": "akataoobara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಟೋ",
+      "ಬ",
+      "ರ್"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಷರ",
+    "transliteration": "akashara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಷ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಅಗಡು",
+    "transliteration": "agadau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಅಗಪೆ",
+    "transliteration": "agapae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ಪೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಗರು",
+    "transliteration": "agarau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಅಗಲ",
+    "transliteration": "agala",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಅಗಸೆ",
+    "transliteration": "agasae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ಸೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಗಿಲು",
+    "transliteration": "agailau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗಿ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಅಗುರ್ವು",
+    "transliteration": "agauravau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗು",
+      "ರ್",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಅಗೆ",
+    "transliteration": "agae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಗ್ನಿ",
+    "transliteration": "aganai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ್",
+      "ನಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಗ್ನಿಪರ್ವತ",
+    "transliteration": "aganaiparavata",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ್",
+      "ನಿ",
+      "ಪ",
+      "ರ್",
+      "ವ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಅಚ್ಚಿ",
+    "transliteration": "achachai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಚ್",
+      "ಚಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಚ್ಚು",
+    "transliteration": "achachau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಚ್",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಅಜ್ಜ",
+    "transliteration": "ajaja",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಜ್",
+      "ಜ"
+    ]
+  },
+  {
+    "kannada": "ಅಜ್ಜಿ",
+    "transliteration": "ajajai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಜ್",
+      "ಜಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಟಕಾವು",
+    "transliteration": "atakaaavau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಟ",
+      "ಕಾ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಅಟ್ಟಂಗಡಿ",
+    "transliteration": "atatamgadai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಟ್",
+      "ಟ",
+      "ಂ",
+      "ಗ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಟ್ಟಟ್ಟಿ",
+    "transliteration": "atatatatai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಟ್",
+      "ಟ",
+      "ಟ್",
+      "ಟಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಟ್ಟಣಿಗೆ",
+    "transliteration": "atatanaigae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಟ್",
+      "ಟ",
+      "ಣಿ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಟ್ಟಿಗ",
+    "transliteration": "atataiga",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಟ್",
+      "ಟಿ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಅಡಕೆ",
+    "transliteration": "adakae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡ",
+      "ಕೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಡಗು",
+    "transliteration": "adagau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಅಡವಿ",
+    "transliteration": "adavai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡ",
+      "ವಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಡಾವುಡಿ",
+    "transliteration": "adaaavaudai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡಾ",
+      "ವು",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಡಿ",
+    "transliteration": "adai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಡುಸು",
+    "transliteration": "adausau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡು",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಅಡ್ಡ",
+    "transliteration": "adada",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಡ್",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಅಣಕ",
+    "transliteration": "anaka",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಣ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಅಣಬೆ",
+    "transliteration": "anabae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಣ",
+      "ಬೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಣಿ",
+    "transliteration": "anai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಣಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಣೆಕಟ್ಟು",
+    "transliteration": "anaekatatau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಣೆ",
+      "ಕ",
+      "ಟ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಅಣ್ಣ",
+    "transliteration": "anana",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಣ್",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಅತ್ತರು",
+    "transliteration": "atatarau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ತ್",
+      "ತ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಅತ್ತೆ",
+    "transliteration": "atatae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ತ್",
+      "ತೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಧಿಕಾರ",
+    "transliteration": "adhaikaaara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಧಿ",
+      "ಕಾ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಅಧ್ಯಾಪಕ",
+    "transliteration": "adhayaaapaka",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಧ್",
+      "ಯಾ",
+      "ಪ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಅನಾನಸ್",
+    "transliteration": "anaaanasa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನಾ",
+      "ನ",
+      "ಸ್"
+    ]
+  },
+  {
+    "kannada": "ಅನುಗ್ರಹ",
+    "transliteration": "anaugaraha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನು",
+      "ಗ್",
+      "ರ",
+      "ಹ"
+    ]
+  },
+  {
+    "kannada": "ಅನುಭವ",
+    "transliteration": "anaubhava",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನು",
+      "ಭ",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಅನುಮತಿ",
+    "transliteration": "anaumatai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನು",
+      "ಮ",
+      "ತಿ"
+    ]
+  },
+  {
+    "kannada": "ಅನ್ನ",
+    "transliteration": "anana",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನ್",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಅಪರಾಧ",
+    "transliteration": "aparaaadha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪ",
+      "ರಾ",
+      "ಧ"
+    ]
+  },
+  {
+    "kannada": "ಅಪರಾಧಿ",
+    "transliteration": "aparaaadhai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪ",
+      "ರಾ",
+      "ಧಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಪರಾಧಿತ್ವ",
+    "transliteration": "aparaaadhaitava",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪ",
+      "ರಾ",
+      "ಧಿ",
+      "ತ್",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಅಪಹರಣ",
+    "transliteration": "apaharana",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪ",
+      "ಹ",
+      "ರ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಅಪ್ಪ",
+    "transliteration": "apapa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪ್",
+      "ಪ"
+    ]
+  },
+  {
+    "kannada": "ಅಪ್ಸರೆ",
+    "transliteration": "apasarae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪ್",
+      "ಸ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಬ್ಬರ",
+    "transliteration": "ababara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಬ್",
+      "ಬ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಅಬ್ಬಿ",
+    "transliteration": "ababai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಬ್",
+      "ಬಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಬ್ಬೆ",
+    "transliteration": "ababae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಬ್",
+      "ಬೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಭ್ಯಾಸ",
+    "transliteration": "abhayaaasa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಭ್",
+      "ಯಾ",
+      "ಸ"
+    ]
+  },
+  {
+    "kannada": "ಅಮ್ಮ",
+    "transliteration": "amama",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಮ್",
+      "ಮ"
+    ]
+  },
+  {
+    "kannada": "ಅರಣ್ಯ",
+    "transliteration": "aranaya",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಣ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಅರಣ​",
+    "transliteration": "arana​",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಣ",
+      "​"
+    ]
+  },
+  {
+    "kannada": "ಅರಮನೆ",
+    "transliteration": "aramanae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಮ",
+      "ನೆ"
+    ]
+  },
+  {
+    "kannada": "ಅರಳೆ",
+    "transliteration": "aralae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ಅರಸ",
+    "transliteration": "arasa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಸ"
+    ]
+  },
+  {
+    "kannada": "ಅರಸಿನ",
+    "transliteration": "arasaina",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಸಿ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಅರಸು",
+    "transliteration": "arasau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಅರಿಮೆ",
+    "transliteration": "araimae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರಿ",
+      "ಮೆ"
+    ]
+  },
+  {
+    "kannada": "ಅರಿಲ್",
+    "transliteration": "araila",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರಿ",
+      "ಲ್"
+    ]
+  },
+  {
+    "kannada": "ಅರಿಲ್ಸುತ್ತುಗ",
+    "transliteration": "arailasautatauga",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರಿ",
+      "ಲ್",
+      "ಸು",
+      "ತ್",
+      "ತು",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಅರ್ಥ",
+    "transliteration": "aratha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ್",
+      "ಥ"
+    ]
+  },
+  {
+    "kannada": "ಅರ್ಶಸ್ಸು",
+    "transliteration": "arashasasau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ್",
+      "ಶ",
+      "ಸ್",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಅಲೆ",
+    "transliteration": "alae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಲೆ"
+    ]
+  },
+  {
+    "kannada": "ಅಳುಪು",
+    "transliteration": "alaupau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಳು",
+      "ಪು"
+    ]
+  },
+  {
+    "kannada": "ಅಳೆ",
+    "transliteration": "alae",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ಅವಧಿ",
+    "transliteration": "avadhai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ಧಿ"
+    ]
+  },
+  {
+    "kannada": "ಅವಲಕ್ಕಿ",
+    "transliteration": "avalakakai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ಲ",
+      "ಕ್",
+      "ಕಿ"
+    ]
+  },
+  {
+    "kannada": "ಅವಲ್",
+    "transliteration": "avala",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ಲ್"
+    ]
+  },
+  {
+    "kannada": "ಅವಸರ",
+    "transliteration": "avasara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ಸ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಅಶಿರ",
+    "transliteration": "ashaira",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಶಿ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಅಶ್ರು",
+    "transliteration": "asharau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಶ್",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಅಶ್ವ",
+    "transliteration": "ashava",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಶ್",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಅಸ",
+    "transliteration": "asa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಗ",
+    "transliteration": "asaga",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಡ",
+    "transliteration": "asada",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಡಿ",
+    "transliteration": "asadai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಡು",
+    "transliteration": "asadau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಅಸಿ",
+    "transliteration": "asai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಿಟೋನ್",
+    "transliteration": "asaitaoona",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸಿ",
+      "ಟೋ",
+      "ನ್"
+    ]
+  },
+  {
+    "kannada": "ಅಸುರು",
+    "transliteration": "asaurau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸು",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಅಸ್ಥಿ",
+    "transliteration": "asathai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ್",
+      "ಥಿ"
+    ]
+  },
+  {
+    "kannada": "ಅಸ್ಸೋಸಿಯೆಷನ್_ಫುಟ್‌ಬಾಲ್",
+    "transliteration": "asasaoosaiyaeshana_phauta‌baaala",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ್",
+      "ಸೋ",
+      "ಸಿ",
+      "ಯೆ",
+      "ಷ",
+      "ನ್",
+      "_",
+      "ಫು",
+      "ಟ್",
+      "‌",
+      "ಬಾ",
+      "ಲ್"
+    ]
+  },
+  {
+    "kannada": "ಅಹಂಕಾರ",
+    "transliteration": "ahamkaaara",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಹ",
+      "ಂ",
+      "ಕಾ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಆಕಾಂಕ್ಷೆ",
+    "transliteration": "aakaaamkashae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಕಾ",
+      "ಂ",
+      "ಕ್",
+      "ಷೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಕಾಶ",
+    "transliteration": "aakaaasha",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಕಾ",
+      "ಶ"
+    ]
+  },
+  {
+    "kannada": "ಆಕಾಶವಾಣಿ",
+    "transliteration": "aakaaashavaaanai",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಕಾ",
+      "ಶ",
+      "ವಾ",
+      "ಣಿ"
+    ]
+  },
+  {
+    "kannada": "ಆಕ್ರೋಶ",
+    "transliteration": "aakaraoosha",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಕ್",
+      "ರೋ",
+      "ಶ"
+    ]
+  },
+  {
+    "kannada": "ಆಗಸ",
+    "transliteration": "aagasa",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಗ",
+      "ಸ"
+    ]
+  },
+  {
+    "kannada": "ಆಗಸ್ಟ್",
+    "transliteration": "aagasata",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಗ",
+      "ಸ್",
+      "ಟ್"
+    ]
+  },
+  {
+    "kannada": "ಆಟ",
+    "transliteration": "aata",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಆಟಗಾರ",
+    "transliteration": "aatagaaara",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಟ",
+      "ಗಾ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಆಟಿಕೆ",
+    "transliteration": "aataikae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಟಿ",
+      "ಕೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಡಂಗಿ",
+    "transliteration": "aadamgai",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಡ",
+      "ಂ",
+      "ಗಿ"
+    ]
+  },
+  {
+    "kannada": "ಆಡು",
+    "transliteration": "aadau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಆಡೇಲು",
+    "transliteration": "aadaeelau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಡೇ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಆದಿ",
+    "transliteration": "aadai",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ದಿ"
+    ]
+  },
+  {
+    "kannada": "ಆನಂದ",
+    "transliteration": "aanamda",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ನ",
+      "ಂ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಆನೆ",
+    "transliteration": "aanae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ನೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಮೆ",
+    "transliteration": "aamae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಮೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಮ್ಲಜನಕ",
+    "transliteration": "aamalajanaka",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಮ್",
+      "ಲ",
+      "ಜ",
+      "ನ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಆಯುಧ",
+    "transliteration": "aayaudha",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಯು",
+      "ಧ"
+    ]
+  },
+  {
+    "kannada": "ಆಯ್ಕೆ",
+    "transliteration": "aayakae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಯ್",
+      "ಕೆ"
+    ]
+  },
+  {
+    "kannada": "ಆರಂಬಗಾರ",
+    "transliteration": "aarambagaaara",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರ",
+      "ಂ",
+      "ಬ",
+      "ಗಾ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಆರಂಭ",
+    "transliteration": "aarambha",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರ",
+      "ಂ",
+      "ಭ"
+    ]
+  },
+  {
+    "kannada": "ಆರೋಗಣೆ",
+    "transliteration": "aaraooganae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರೋ",
+      "ಗ",
+      "ಣೆ"
+    ]
+  },
+  {
+    "kannada": "ಆರೋಗ್ಯ",
+    "transliteration": "aaraoogaya",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರೋ",
+      "ಗ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಆರೋಗ್ಯದ",
+    "transliteration": "aaraoogayada",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರೋ",
+      "ಗ್",
+      "ಯ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಆರ್ಟಿಲಿ",
+    "transliteration": "aaratailai",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರ್",
+      "ಟಿ",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಆರ್ಯ",
+    "transliteration": "aaraya",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಆಲೋಚನೆ",
+    "transliteration": "aalaoochanae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಲೋ",
+      "ಚ",
+      "ನೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಳು",
+    "transliteration": "aalau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಆವರಿ",
+    "transliteration": "aavarai",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ವ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಆವಶ್ಯಕ್ತೇ",
+    "transliteration": "aavashayakataee",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ವ",
+      "ಶ್",
+      "ಯ",
+      "ಕ್",
+      "ತೇ"
+    ]
+  },
+  {
+    "kannada": "ಆವು",
+    "transliteration": "aavau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಆವೆ",
+    "transliteration": "aavae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ವೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಸವ",
+    "transliteration": "aasava",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಸ",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಆಸೆ",
+    "transliteration": "aasae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಸೆ"
+    ]
+  },
+  {
+    "kannada": "ಆಸ್ಪತ್ರೆ",
+    "transliteration": "aasapatarae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಸ್",
+      "ಪ",
+      "ತ್",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಇಂಗಾಲ",
+    "transliteration": "imgaaala",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಂ",
+      "ಗಾ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಇಂಗು",
+    "transliteration": "imgau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಂ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಇಂದು",
+    "transliteration": "imdau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಂ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಇಂದ್ರಚಾಪ",
+    "transliteration": "imdarachaaapa",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಂ",
+      "ದ್",
+      "ರ",
+      "ಚಾ",
+      "ಪ"
+    ]
+  },
+  {
+    "kannada": "ಇಂದ್ರಧನುಸ್ಸು",
+    "transliteration": "imdaradhanausasau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಂ",
+      "ದ್",
+      "ರ",
+      "ಧ",
+      "ನು",
+      "ಸ್",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಇಗ್ಗಾಲಿ",
+    "transliteration": "igagaaalai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಗ್",
+      "ಗಾ",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಇಚ್ಛೆ",
+    "transliteration": "ichachhae",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಚ್",
+      "ಛೆ"
+    ]
+  },
+  {
+    "kannada": "ಇಟ್ಟಿಗೆ",
+    "transliteration": "itataigae",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಟ್",
+      "ಟಿ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಇಡ್ಡಲಿ",
+    "transliteration": "idadalai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಡ್",
+      "ಡ",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಇಡ್ಲಿ",
+    "transliteration": "idalai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಡ್",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಇತಿಹಾಸ",
+    "transliteration": "itaihaaasa",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ತಿ",
+      "ಹಾ",
+      "ಸ"
+    ]
+  },
+  {
+    "kannada": "ಇರಾದೆ",
+    "transliteration": "iraaadae",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ರಾ",
+      "ದೆ"
+    ]
+  },
+  {
+    "kannada": "ಇರಿ",
+    "transliteration": "irai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಇರಿತ",
+    "transliteration": "iraita",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ರಿ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಇರುಳು",
+    "transliteration": "iraulau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ರು",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಇಲಿ",
+    "transliteration": "ilai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಇಶಾರೆ",
+    "transliteration": "ishaaarae",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಶಾ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಇಸಮು",
+    "transliteration": "isamau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಸ",
+      "ಮು"
+    ]
+  },
+  {
+    "kannada": "ಈಟಿ",
+    "transliteration": "iitai",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಟಿ"
+    ]
+  },
+  {
+    "kannada": "ಈಡಿ",
+    "transliteration": "iidai",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಈರುಳ್ಳಿ",
+    "transliteration": "iiraulalai",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ರು",
+      "ಳ್",
+      "ಳಿ"
+    ]
+  },
+  {
+    "kannada": "ಈರ್ಷ್ಯೆ",
+    "transliteration": "iirashayae",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ರ್",
+      "ಷ್",
+      "ಯೆ"
+    ]
+  },
+  {
+    "kannada": "ಈಲಿ",
+    "transliteration": "iilai",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಈಶ್ವರ",
+    "transliteration": "iishavara",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಶ್",
+      "ವ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಉಂಗುರ",
+    "transliteration": "umgaura",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಂ",
+      "ಗು",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಉಂಡೆ",
+    "transliteration": "umdae",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಂ",
+      "ಡೆ"
+    ]
+  },
+  {
+    "kannada": "ಉಗುರು",
+    "transliteration": "ugaurau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಗು",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಉಗುಳು",
+    "transliteration": "ugaulau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಗು",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಉಚ್ಚಿ",
+    "transliteration": "uchachai",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಚ್",
+      "ಚಿ"
+    ]
+  },
+  {
+    "kannada": "ಉಚ್ಚಿಕೆ",
+    "transliteration": "uchachaikae",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಚ್",
+      "ಚಿ",
+      "ಕೆ"
+    ]
+  },
+  {
+    "kannada": "ಉಣ್ಣೆ",
+    "transliteration": "unanae",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಣ್",
+      "ಣೆ"
+    ]
+  },
+  {
+    "kannada": "ಉತ್ತರ",
+    "transliteration": "utatara",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ತ್",
+      "ತ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಉತ್ಸವ",
+    "transliteration": "utasava",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ತ್",
+      "ಸ",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಉದಕ",
+    "transliteration": "udaka",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ದ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಉದರ",
+    "transliteration": "udara",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ದ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಉದ್ದು",
+    "transliteration": "udadau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ದ್",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಉದ್ದೇಶ",
+    "transliteration": "udadaeesha",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ದ್",
+      "ದೇ",
+      "ಶ"
+    ]
+  },
+  {
+    "kannada": "ಉಪಯೋಗ",
+    "transliteration": "upayaooga",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಪ",
+      "ಯೋ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಉಪ್ಪು",
+    "transliteration": "upapau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಪ್",
+      "ಪು"
+    ]
+  },
+  {
+    "kannada": "ಉಮೇದು",
+    "transliteration": "umaeedau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಮೇ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಉರಿಬೆಟ್ಟ",
+    "transliteration": "uraibaetata",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ರಿ",
+      "ಬೆ",
+      "ಟ್",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಉಸಿರಾಟ",
+    "transliteration": "usairaaata",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಸಿ",
+      "ರಾ",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಉಸಿರು",
+    "transliteration": "usairau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಸಿ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಉಸುಕು",
+    "transliteration": "usaukau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಸು",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಊಟ",
+    "transliteration": "uuta",
+    "english": "Common word",
+    "segments": [
+      "ಊ",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಊರು",
+    "transliteration": "uurau",
+    "english": "Common word",
+    "segments": [
+      "ಊ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಋಣ",
+    "transliteration": "ಋna",
+    "english": "Common word",
+    "segments": [
+      "ಋ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಋತು",
+    "transliteration": "ಋtau",
+    "english": "Common word",
+    "segments": [
+      "ಋ",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಋಷಭ",
+    "transliteration": "ಋshabha",
+    "english": "Common word",
+    "segments": [
+      "ಋ",
+      "ಷ",
+      "ಭ"
+    ]
+  },
+  {
+    "kannada": "ಋಷಿ",
+    "transliteration": "ಋshai",
+    "english": "Common word",
+    "segments": [
+      "ಋ",
+      "ಷಿ"
+    ]
+  },
+  {
+    "kannada": "ಎಡ",
+    "transliteration": "eda",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಗಲು",
+    "transliteration": "amgalau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಗ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಅಂಚು",
+    "transliteration": "amchau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕುಳಿಸು",
+    "transliteration": "akakaulaisau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ್",
+      "ಕು",
+      "ಳಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಅಗಲು",
+    "transliteration": "agalau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಅಗಿ",
+    "transliteration": "agai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗಿ"
+    ]
+  },
+  {
+    "kannada": "ಅನುಭವಿಸು",
+    "transliteration": "anaubhavaisau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನು",
+      "ಭ",
+      "ವಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಅಳು",
+    "transliteration": "alau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಆಗಮಿಸು",
+    "transliteration": "aagamaisau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಗ",
+      "ಮಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಆಗು",
+    "transliteration": "aagau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಆಚರಿಸು",
+    "transliteration": "aacharaisau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಚ",
+      "ರಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಆಯಿಸು",
+    "transliteration": "aayaisau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಯಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಆಲೋಚಿಸು",
+    "transliteration": "aalaoochaisau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಲೋ",
+      "ಚಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಇಚ್ಛಿಸು",
+    "transliteration": "ichachhaisau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಚ್",
+      "ಛಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಇರು",
+    "transliteration": "irau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಇಳಿ",
+    "transliteration": "ilai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಳಿ"
+    ]
+  },
+  {
+    "kannada": "ಈಜು",
+    "transliteration": "iijau",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಜು"
+    ]
+  },
+  {
+    "kannada": "ಈಡಾಡು",
+    "transliteration": "iidaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಡಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಈರು",
+    "transliteration": "iirau",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಉಜ್ಜು",
+    "transliteration": "ujajau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಜ್",
+      "ಜು"
+    ]
+  },
+  {
+    "kannada": "ಉಣ್ಣು",
+    "transliteration": "unanau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಣ್",
+      "ಣು"
+    ]
+  },
+  {
+    "kannada": "ಉಪಯೋಗಿಸು",
+    "transliteration": "upayaoogaisau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಪ",
+      "ಯೋ",
+      "ಗಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಉಸಿರಾಡು",
+    "transliteration": "usairaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಸಿ",
+      "ರಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಊದು",
+    "transliteration": "uudau",
+    "english": "Common word",
+    "segments": [
+      "ಊ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಎಣಿಸು",
+    "transliteration": "enaisau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಣಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಎಣ್ಣು",
+    "transliteration": "enanau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಣ್",
+      "ಣು"
+    ]
+  },
+  {
+    "kannada": "ಎರಚು",
+    "transliteration": "erachau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ರ",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಎರವಲುಕೊಡು",
+    "transliteration": "eravalaukaodau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ರ",
+      "ವ",
+      "ಲು",
+      "ಕೊ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಎಸು",
+    "transliteration": "esau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಏಳು",
+    "transliteration": "eelau",
+    "english": "Common word",
+    "segments": [
+      "ಏ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಒಕ್ಕಣಿಸು",
+    "transliteration": "okakanaisau",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಕ್",
+      "ಕ",
+      "ಣಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಒಕ್ಕರಿಸು",
+    "transliteration": "okakaraisau",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಕ್",
+      "ಕ",
+      "ರಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಒಗೆ",
+    "transliteration": "ogae",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಒಡೆ",
+    "transliteration": "odae",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಡೆ"
+    ]
+  },
+  {
+    "kannada": "ಒರಗು",
+    "transliteration": "oragau",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ರ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಒರಸು",
+    "transliteration": "orasau",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ರ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಓಡು",
+    "transliteration": "oodau",
+    "english": "Common word",
+    "segments": [
+      "ಓ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಓದು",
+    "transliteration": "oodau",
+    "english": "Common word",
+    "segments": [
+      "ಓ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಓಲಗಿಸು",
+    "transliteration": "oolagaisau",
+    "english": "Common word",
+    "segments": [
+      "ಓ",
+      "ಲ",
+      "ಗಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಕಚ್ಚು",
+    "transliteration": "kachachau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಚ್",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಕಟ್ಟು",
+    "transliteration": "katatau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಟ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಕಡಿ",
+    "transliteration": "kadai",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಕತ್ತರಿಸು",
+    "transliteration": "katataraisau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ತ್",
+      "ತ",
+      "ರಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಕತ್ತು",
+    "transliteration": "katatau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಕರೆ",
+    "transliteration": "karae",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಕಲ್ಪಿಸು",
+    "transliteration": "kalapaisau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಲ್",
+      "ಪಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಕಳಿಸಲು",
+    "transliteration": "kalaisalau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಳಿ",
+      "ಸ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಕಳುಹಿಸು",
+    "transliteration": "kalauhaisau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಳು",
+      "ಹಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಕಾಡು",
+    "transliteration": "kaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಕಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಕಾಣು",
+    "transliteration": "kaaanau",
+    "english": "Common word",
+    "segments": [
+      "ಕಾ",
+      "ಣು"
+    ]
+  },
+  {
+    "kannada": "ಕಾಪಾಡು",
+    "transliteration": "kaaapaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಕಾ",
+      "ಪಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಕುಡಿ",
+    "transliteration": "kaudai",
+    "english": "Common word",
+    "segments": [
+      "ಕು",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಕುಣಿ",
+    "transliteration": "kaunai",
+    "english": "Common word",
+    "segments": [
+      "ಕು",
+      "ಣಿ"
+    ]
+  },
+  {
+    "kannada": "ಕುಳಿರ್",
+    "transliteration": "kaulaira",
+    "english": "Common word",
+    "segments": [
+      "ಕು",
+      "ಳಿ",
+      "ರ್"
+    ]
+  },
+  {
+    "kannada": "ಕುಸುಬು",
+    "transliteration": "kausaubau",
+    "english": "Common word",
+    "segments": [
+      "ಕು",
+      "ಸು",
+      "ಬು"
+    ]
+  },
+  {
+    "kannada": "ಕೂರು",
+    "transliteration": "kauurau",
+    "english": "Common word",
+    "segments": [
+      "ಕೂ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಕೆಮ್ಮು",
+    "transliteration": "kaemamau",
+    "english": "Common word",
+    "segments": [
+      "ಕೆ",
+      "ಮ್",
+      "ಮು"
+    ]
+  },
+  {
+    "kannada": "ಕೆರೆ",
+    "transliteration": "kaerae",
+    "english": "Common word",
+    "segments": [
+      "ಕೆ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಕೇಳು",
+    "transliteration": "kaeelau",
+    "english": "Common word",
+    "segments": [
+      "ಕೇ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಕೊಡಹು",
+    "transliteration": "kaodahau",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಡ",
+      "ಹು"
+    ]
+  },
+  {
+    "kannada": "ಕೊಡು",
+    "transliteration": "kaodau",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಕೊಬ್ಬು",
+    "transliteration": "kaobabau",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಬ್",
+      "ಬು"
+    ]
+  },
+  {
+    "kannada": "ಕೊಲ್ಲು",
+    "transliteration": "kaolalau",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಲ್",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಕ್ರೀಡಿಸು",
+    "transliteration": "karaiidaisau",
+    "english": "Common word",
+    "segments": [
+      "ಕ್",
+      "ರೀ",
+      "ಡಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಗೆಬರು",
+    "transliteration": "gaebarau",
+    "english": "Common word",
+    "segments": [
+      "ಗೆ",
+      "ಬ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಗೆಲ್ಲು",
+    "transliteration": "gaelalau",
+    "english": "Common word",
+    "segments": [
+      "ಗೆ",
+      "ಲ್",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಘೋಷಿಸು",
+    "transliteration": "ghaooshaisau",
+    "english": "Common word",
+    "segments": [
+      "ಘೋ",
+      "ಷಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಚದರು",
+    "transliteration": "chadarau",
+    "english": "Common word",
+    "segments": [
+      "ಚ",
+      "ದ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಚಲ್ಲು",
+    "transliteration": "chalalau",
+    "english": "Common word",
+    "segments": [
+      "ಚ",
+      "ಲ್",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಚೀಪು",
+    "transliteration": "chaiipau",
+    "english": "Common word",
+    "segments": [
+      "ಚೀ",
+      "ಪು"
+    ]
+  },
+  {
+    "kannada": "ಜ್ವಲಿಸು",
+    "transliteration": "javalaisau",
+    "english": "Common word",
+    "segments": [
+      "ಜ್",
+      "ವ",
+      "ಲಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಟೊಣೆ",
+    "transliteration": "taonae",
+    "english": "Common word",
+    "segments": [
+      "ಟೊ",
+      "ಣೆ"
+    ]
+  },
+  {
+    "kannada": "ತಡೆ",
+    "transliteration": "tadae",
+    "english": "Common word",
+    "segments": [
+      "ತ",
+      "ಡೆ"
+    ]
+  },
+  {
+    "kannada": "ತಲಪು",
+    "transliteration": "talapau",
+    "english": "Common word",
+    "segments": [
+      "ತ",
+      "ಲ",
+      "ಪು"
+    ]
+  },
+  {
+    "kannada": "ತಿಕ್ಕು",
+    "transliteration": "taikakau",
+    "english": "Common word",
+    "segments": [
+      "ತಿ",
+      "ಕ್",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ತಿನ್ನಿಸು",
+    "transliteration": "tainanaisau",
+    "english": "Common word",
+    "segments": [
+      "ತಿ",
+      "ನ್",
+      "ನಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ತಿನ್ನು",
+    "transliteration": "tainanau",
+    "english": "Common word",
+    "segments": [
+      "ತಿ",
+      "ನ್",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ತಿರುಗು",
+    "transliteration": "tairaugau",
+    "english": "Common word",
+    "segments": [
+      "ತಿ",
+      "ರು",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ತಿಳಿ",
+    "transliteration": "tailai",
+    "english": "Common word",
+    "segments": [
+      "ತಿ",
+      "ಳಿ"
+    ]
+  },
+  {
+    "kannada": "ತುಂಬು",
+    "transliteration": "taumbau",
+    "english": "Common word",
+    "segments": [
+      "ತು",
+      "ಂ",
+      "ಬು"
+    ]
+  },
+  {
+    "kannada": "ತೇಲು",
+    "transliteration": "taeelau",
+    "english": "Common word",
+    "segments": [
+      "ತೇ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ತೊಳೆ",
+    "transliteration": "taolae",
+    "english": "Common word",
+    "segments": [
+      "ತೊ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ತೋಡು",
+    "transliteration": "taoodau",
+    "english": "Common word",
+    "segments": [
+      "ತೋ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ತೋರಿಸು",
+    "transliteration": "taooraisau",
+    "english": "Common word",
+    "segments": [
+      "ತೋ",
+      "ರಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ತ್ಯಜಿಸು",
+    "transliteration": "tayajaisau",
+    "english": "Common word",
+    "segments": [
+      "ತ್",
+      "ಯ",
+      "ಜಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ದಟ್ಟಿಸು",
+    "transliteration": "datataisau",
+    "english": "Common word",
+    "segments": [
+      "ದ",
+      "ಟ್",
+      "ಟಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ದಹಿಸು",
+    "transliteration": "dahaisau",
+    "english": "Common word",
+    "segments": [
+      "ದ",
+      "ಹಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ದಾಟು",
+    "transliteration": "daaatau",
+    "english": "Common word",
+    "segments": [
+      "ದಾ",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ದಿಗಿಲು",
+    "transliteration": "daigailau",
+    "english": "Common word",
+    "segments": [
+      "ದಿ",
+      "ಗಿ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ದ್ಯುತಿಸಂಶ್ಲೇಷಿಸು",
+    "transliteration": "dayautaisamshalaeeshaisau",
+    "english": "Common word",
+    "segments": [
+      "ದ್",
+      "ಯು",
+      "ತಿ",
+      "ಸ",
+      "ಂ",
+      "ಶ್",
+      "ಲೇ",
+      "ಷಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಧಾವಿಸು",
+    "transliteration": "dhaaavaisau",
+    "english": "Common word",
+    "segments": [
+      "ಧಾ",
+      "ವಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ನಗು",
+    "transliteration": "nagau",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ನಡೆ",
+    "transliteration": "nadae",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಡೆ"
+    ]
+  },
+  {
+    "kannada": "ನಿಲ್ಲು",
+    "transliteration": "nailalau",
+    "english": "Common word",
+    "segments": [
+      "ನಿ",
+      "ಲ್",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ನುಡಿ",
+    "transliteration": "naudai",
+    "english": "Common word",
+    "segments": [
+      "ನು",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ನೂಕು",
+    "transliteration": "nauukau",
+    "english": "Common word",
+    "segments": [
+      "ನೂ",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ನೋಡು",
+    "transliteration": "naoodau",
+    "english": "Common word",
+    "segments": [
+      "ನೋ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಪಂಣು",
+    "transliteration": "pamnau",
+    "english": "Common word",
+    "segments": [
+      "ಪ",
+      "ಂ",
+      "ಣು"
+    ]
+  },
+  {
+    "kannada": "ಪಡು",
+    "transliteration": "padau",
+    "english": "Common word",
+    "segments": [
+      "ಪ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಪರೀಕ್ಷಿಸು",
+    "transliteration": "paraiikashaisau",
+    "english": "Common word",
+    "segments": [
+      "ಪ",
+      "ರೀ",
+      "ಕ್",
+      "ಷಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಪ್ರಯತ್ನಿಸು",
+    "transliteration": "parayatanaisau",
+    "english": "Common word",
+    "segments": [
+      "ಪ್",
+      "ರ",
+      "ಯ",
+      "ತ್",
+      "ನಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಬಡಿ",
+    "transliteration": "badai",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಬದುಕು",
+    "transliteration": "badaukau",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ದು",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಬಯಸು",
+    "transliteration": "bayasau",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ಯ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಬರು",
+    "transliteration": "barau",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಬರೆ",
+    "transliteration": "barae",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಬಳಸು",
+    "transliteration": "balasau",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ಳ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಬಾಚು",
+    "transliteration": "baaachau",
+    "english": "Common word",
+    "segments": [
+      "ಬಾ",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಬಾಡು",
+    "transliteration": "baaadau",
+    "english": "Common word",
+    "segments": [
+      "ಬಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಬಾಳು",
+    "transliteration": "baaalau",
+    "english": "Common word",
+    "segments": [
+      "ಬಾ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಬಿಡು",
+    "transliteration": "baidau",
+    "english": "Common word",
+    "segments": [
+      "ಬಿ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಬಿತ್ತು",
+    "transliteration": "baitatau",
+    "english": "Common word",
+    "segments": [
+      "ಬಿ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಬಿದಿರು",
+    "transliteration": "baidairau",
+    "english": "Common word",
+    "segments": [
+      "ಬಿ",
+      "ದಿ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಬಿರಿ",
+    "transliteration": "bairai",
+    "english": "Common word",
+    "segments": [
+      "ಬಿ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಬೀರು",
+    "transliteration": "baiirau",
+    "english": "Common word",
+    "segments": [
+      "ಬೀ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಬೀಳು",
+    "transliteration": "baiilau",
+    "english": "Common word",
+    "segments": [
+      "ಬೀ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಬೀಸು",
+    "transliteration": "baiisau",
+    "english": "Common word",
+    "segments": [
+      "ಬೀ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಬೆಳಗು",
+    "transliteration": "baelagau",
+    "english": "Common word",
+    "segments": [
+      "ಬೆ",
+      "ಳ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಬೇಟೆಯಾಡು",
+    "transliteration": "baeetaeyaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಬೇ",
+      "ಟೆ",
+      "ಯಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಬೋಧಿಸು",
+    "transliteration": "baoodhaisau",
+    "english": "Common word",
+    "segments": [
+      "ಬೋ",
+      "ಧಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಮಡಿಮಾಡು",
+    "transliteration": "madaimaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಡಿ",
+      "ಮಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಮರಳು",
+    "transliteration": "maralau",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ರ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಮಲಗಿಸು",
+    "transliteration": "malagaisau",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಲ",
+      "ಗಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಮಲಗು",
+    "transliteration": "malagau",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಲ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಮಲೆ",
+    "transliteration": "malae",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಲೆ"
+    ]
+  },
+  {
+    "kannada": "ಮಾಡು",
+    "transliteration": "maaadau",
+    "english": "Common word",
+    "segments": [
+      "ಮಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಮಾತನಾಡು",
+    "transliteration": "maaatanaaadau",
+    "english": "Common word",
+    "segments": [
+      "ಮಾ",
+      "ತ",
+      "ನಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಮಾರು",
+    "transliteration": "maaarau",
+    "english": "Common word",
+    "segments": [
+      "ಮಾ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಮಿಂಚಿಸು",
+    "transliteration": "maimchaisau",
+    "english": "Common word",
+    "segments": [
+      "ಮಿ",
+      "ಂ",
+      "ಚಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಮೀ",
+    "transliteration": "maii",
+    "english": "Common word",
+    "segments": [
+      "ಮೀ"
+    ]
+  },
+  {
+    "kannada": "ಮೀರು",
+    "transliteration": "maiirau",
+    "english": "Common word",
+    "segments": [
+      "ಮೀ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಮುಟ್ಟು",
+    "transliteration": "mautatau",
+    "english": "Common word",
+    "segments": [
+      "ಮು",
+      "ಟ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಮೂಸು",
+    "transliteration": "mauusau",
+    "english": "Common word",
+    "segments": [
+      "ಮೂ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಮೆಚ್ಚು",
+    "transliteration": "maechachau",
+    "english": "Common word",
+    "segments": [
+      "ಮೆ",
+      "ಚ್",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಮೇಯು",
+    "transliteration": "maeeyau",
+    "english": "Common word",
+    "segments": [
+      "ಮೇ",
+      "ಯು"
+    ]
+  },
+  {
+    "kannada": "ಯೋಚಿಸು",
+    "transliteration": "yaoochaisau",
+    "english": "Common word",
+    "segments": [
+      "ಯೋ",
+      "ಚಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ರಕ್ಷಿಸು",
+    "transliteration": "rakashaisau",
+    "english": "Common word",
+    "segments": [
+      "ರ",
+      "ಕ್",
+      "ಷಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ರವಾನಿಸು",
+    "transliteration": "ravaaanaisau",
+    "english": "Common word",
+    "segments": [
+      "ರ",
+      "ವಾ",
+      "ನಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ರೋದಿಸು",
+    "transliteration": "raoodaisau",
+    "english": "Common word",
+    "segments": [
+      "ರೋ",
+      "ದಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಲೇಪಿಸು",
+    "transliteration": "laeepaisau",
+    "english": "Common word",
+    "segments": [
+      "ಲೇ",
+      "ಪಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ವಕ್ಕಣಿಸು",
+    "transliteration": "vakakanaisau",
+    "english": "Common word",
+    "segments": [
+      "ವ",
+      "ಕ್",
+      "ಕ",
+      "ಣಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಸಹಿಸು",
+    "transliteration": "sahaisau",
+    "english": "Common word",
+    "segments": [
+      "ಸ",
+      "ಹಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಸಾಕು",
+    "transliteration": "saaakau",
+    "english": "Common word",
+    "segments": [
+      "ಸಾ",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಸಾಯಿಸು",
+    "transliteration": "saaayaisau",
+    "english": "Common word",
+    "segments": [
+      "ಸಾ",
+      "ಯಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಸಾಯು",
+    "transliteration": "saaayau",
+    "english": "Common word",
+    "segments": [
+      "ಸಾ",
+      "ಯು"
+    ]
+  },
+  {
+    "kannada": "ಸಾರು",
+    "transliteration": "saaarau",
+    "english": "Common word",
+    "segments": [
+      "ಸಾ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಸೀರು",
+    "transliteration": "saiirau",
+    "english": "Common word",
+    "segments": [
+      "ಸೀ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಸೀಳು",
+    "transliteration": "saiilau",
+    "english": "Common word",
+    "segments": [
+      "ಸೀ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಸುಡು",
+    "transliteration": "saudau",
+    "english": "Common word",
+    "segments": [
+      "ಸು",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಸುರಿಸು",
+    "transliteration": "sauraisau",
+    "english": "Common word",
+    "segments": [
+      "ಸು",
+      "ರಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಸೆಳೆ",
+    "transliteration": "saelae",
+    "english": "Common word",
+    "segments": [
+      "ಸೆ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ಹಚ್ಚು",
+    "transliteration": "hachachau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ಚ್",
+      "ಚು"
+    ]
+  },
+  {
+    "kannada": "ಹನಿ",
+    "transliteration": "hanai",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ನಿ"
+    ]
+  },
+  {
+    "kannada": "ಹರಿ",
+    "transliteration": "harai",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಹಾಡು",
+    "transliteration": "haaadau",
+    "english": "Common word",
+    "segments": [
+      "ಹಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಹಾರು",
+    "transliteration": "haaarau",
+    "english": "Common word",
+    "segments": [
+      "ಹಾ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಹಿಂಡು",
+    "transliteration": "haimdau",
+    "english": "Common word",
+    "segments": [
+      "ಹಿ",
+      "ಂ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಹಿಚುಕು",
+    "transliteration": "haichaukau",
+    "english": "Common word",
+    "segments": [
+      "ಹಿ",
+      "ಚು",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಹಿಡಿ",
+    "transliteration": "haidai",
+    "english": "Common word",
+    "segments": [
+      "ಹಿ",
+      "ಡಿ"
+    ]
+  },
+  {
+    "kannada": "ಹುಟ್ಟು",
+    "transliteration": "hautatau",
+    "english": "Common word",
+    "segments": [
+      "ಹು",
+      "ಟ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಹುಡುಕು",
+    "transliteration": "haudaukau",
+    "english": "Common word",
+    "segments": [
+      "ಹು",
+      "ಡು",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಹೆದರು",
+    "transliteration": "haedarau",
+    "english": "Common word",
+    "segments": [
+      "ಹೆ",
+      "ದ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಹೆಪ್ಪುಗಟ್ಟು",
+    "transliteration": "haepapaugatatau",
+    "english": "Common word",
+    "segments": [
+      "ಹೆ",
+      "ಪ್",
+      "ಪು",
+      "ಗ",
+      "ಟ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಹೆಸರಿಸು",
+    "transliteration": "haesaraisau",
+    "english": "Common word",
+    "segments": [
+      "ಹೆ",
+      "ಸ",
+      "ರಿ",
+      "ಸು"
+    ]
+  },
+  {
+    "kannada": "ಹೇಳು",
+    "transliteration": "haeelau",
+    "english": "Common word",
+    "segments": [
+      "ಹೇ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಹೊಡೆ",
+    "transliteration": "haodae",
+    "english": "Common word",
+    "segments": [
+      "ಹೊ",
+      "ಡೆ"
+    ]
+  },
+  {
+    "kannada": "ಹೊರಡು",
+    "transliteration": "haoradau",
+    "english": "Common word",
+    "segments": [
+      "ಹೊ",
+      "ರ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಹೊಳೆ",
+    "transliteration": "haolae",
+    "english": "Common word",
+    "segments": [
+      "ಹೊ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ಹೋಗು",
+    "transliteration": "haoogau",
+    "english": "Common word",
+    "segments": [
+      "ಹೋ",
+      "ಗು"
+    ]
+  },
+  {
+    "kannada": "ಹೋರಾಡು",
+    "transliteration": "haooraaadau",
+    "english": "Common word",
+    "segments": [
+      "ಹೋ",
+      "ರಾ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಅಂಕಿತ",
+    "transliteration": "amkaita",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಕಿ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಟಂಟಾದ",
+    "transliteration": "amtamtaaada",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಟ",
+      "ಂ",
+      "ಟಾ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಟಾದ",
+    "transliteration": "amtaaada",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಟಾ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಅಂಟುವ",
+    "transliteration": "amtauva",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ಟು",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಅಕಟ",
+    "transliteration": "akata",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಕ",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಅಗತ್ಯ",
+    "transliteration": "agataya",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಗ",
+      "ತ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಅನಂತ",
+    "transliteration": "anamta",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನ",
+      "ಂ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಅನ್ಯ",
+    "transliteration": "anaya",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಅರ್ಧ",
+    "transliteration": "aradha",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ರ್",
+      "ಧ"
+    ]
+  },
+  {
+    "kannada": "ಅಷ್ಟಮ",
+    "transliteration": "ashatama",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಷ್",
+      "ಟ",
+      "ಮ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಹ್ಯ",
+    "transliteration": "asahaya",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸ",
+      "ಹ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಅಸಾಧ್ಯ",
+    "transliteration": "asaaadhaya",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಸಾ",
+      "ಧ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಆಂಗ್ಲ",
+    "transliteration": "aamgala",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ಂ",
+      "ಗ್",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಆವಶ್ಯಕ",
+    "transliteration": "aavashayaka",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ವ",
+      "ಶ್",
+      "ಯ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಉಗ್ರ",
+    "transliteration": "ugara",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ಗ್",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಉತ್ತಮ",
+    "transliteration": "utatama",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ತ್",
+      "ತ",
+      "ಮ"
+    ]
+  },
+  {
+    "kannada": "ಉದ್ದ",
+    "transliteration": "udada",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ದ್",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಉದ್ದೇಶಪೂರ್ವಕ",
+    "transliteration": "udadaeeshapauuravaka",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ದ್",
+      "ದೇ",
+      "ಶ",
+      "ಪೂ",
+      "ರ್",
+      "ವ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಉರಿಯುವ",
+    "transliteration": "uraiyauva",
+    "english": "Common word",
+    "segments": [
+      "ಉ",
+      "ರಿ",
+      "ಯು",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಎಲ್ಲ",
+    "transliteration": "elala",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಲ್",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಏಕ",
+    "transliteration": "eeka",
+    "english": "Common word",
+    "segments": [
+      "ಏ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಒಜ್ಜೆ",
+    "transliteration": "ojajae",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಜ್",
+      "ಜೆ"
+    ]
+  },
+  {
+    "kannada": "ಒಣ",
+    "transliteration": "ona",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಒದ್ದೆ",
+    "transliteration": "odadae",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ದ್",
+      "ದೆ"
+    ]
+  },
+  {
+    "kannada": "ಒಳ್ಳೆ",
+    "transliteration": "olalae",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಳ್",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ಕಟು",
+    "transliteration": "katau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಕಠಿಣ",
+    "transliteration": "kathaina",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಠಿ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಕನಿಷ್ಠ",
+    "transliteration": "kanaishatha",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ನಿ",
+      "ಷ್",
+      "ಠ"
+    ]
+  },
+  {
+    "kannada": "ಕಪ್ಪು",
+    "transliteration": "kapapau",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಪ್",
+      "ಪು"
+    ]
+  },
+  {
+    "kannada": "ಕರಾಳ",
+    "transliteration": "karaaala",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ರಾ",
+      "ಳ"
+    ]
+  },
+  {
+    "kannada": "ಕರಿ",
+    "transliteration": "karai",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಕರಿಯ",
+    "transliteration": "karaiya",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ರಿ",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಕಲ್ಲಿನ",
+    "transliteration": "kalalaina",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಲ್",
+      "ಲಿ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಕಿರಿಯ",
+    "transliteration": "kairaiya",
+    "english": "Common word",
+    "segments": [
+      "ಕಿ",
+      "ರಿ",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಕುಳ್ಳ",
+    "transliteration": "kaulala",
+    "english": "Common word",
+    "segments": [
+      "ಕು",
+      "ಳ್",
+      "ಳ"
+    ]
+  },
+  {
+    "kannada": "ಕೃಶ",
+    "transliteration": "karisha",
+    "english": "Common word",
+    "segments": [
+      "ಕೃ",
+      "ಶ"
+    ]
+  },
+  {
+    "kannada": "ಕೆಂಪು",
+    "transliteration": "kaempau",
+    "english": "Common word",
+    "segments": [
+      "ಕೆ",
+      "ಂ",
+      "ಪು"
+    ]
+  },
+  {
+    "kannada": "ಕೆಟ್ಟ",
+    "transliteration": "kaetata",
+    "english": "Common word",
+    "segments": [
+      "ಕೆ",
+      "ಟ್",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಕೆಲವು",
+    "transliteration": "kaelavau",
+    "english": "Common word",
+    "segments": [
+      "ಕೆ",
+      "ಲ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಕೊಂಚ",
+    "transliteration": "kaomcha",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಂ",
+      "ಚ"
+    ]
+  },
+  {
+    "kannada": "ಕೊಳಕು",
+    "transliteration": "kaolakau",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಳ",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಕೊಳೆತ",
+    "transliteration": "kaolaeta",
+    "english": "Common word",
+    "segments": [
+      "ಕೊ",
+      "ಳೆ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಕೋಮಲ",
+    "transliteration": "kaoomala",
+    "english": "Common word",
+    "segments": [
+      "ಕೋ",
+      "ಮ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಕ್ರೂರ",
+    "transliteration": "karauura",
+    "english": "Common word",
+    "segments": [
+      "ಕ್",
+      "ರೂ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಕ್ಲುಪ್ತ",
+    "transliteration": "kalaupata",
+    "english": "Common word",
+    "segments": [
+      "ಕ್",
+      "ಲು",
+      "ಪ್",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಕ್ಷುಲ್ಲಕ",
+    "transliteration": "kashaulalaka",
+    "english": "Common word",
+    "segments": [
+      "ಕ್",
+      "ಷು",
+      "ಲ್",
+      "ಲ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಖಾಸಗಿ",
+    "transliteration": "khaaasagai",
+    "english": "Common word",
+    "segments": [
+      "ಖಾ",
+      "ಸ",
+      "ಗಿ"
+    ]
+  },
+  {
+    "kannada": "ಗತ",
+    "transliteration": "gata",
+    "english": "Common word",
+    "segments": [
+      "ಗ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಗರ್ಭಿಣಿ",
+    "transliteration": "garabhainai",
+    "english": "Common word",
+    "segments": [
+      "ಗ",
+      "ರ್",
+      "ಭಿ",
+      "ಣಿ"
+    ]
+  },
+  {
+    "kannada": "ಗಲೀಜು",
+    "transliteration": "galaiijau",
+    "english": "Common word",
+    "segments": [
+      "ಗ",
+      "ಲೀ",
+      "ಜು"
+    ]
+  },
+  {
+    "kannada": "ಗಿಡ್ಡ",
+    "transliteration": "gaidada",
+    "english": "Common word",
+    "segments": [
+      "ಗಿ",
+      "ಡ್",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಗುಂಡು",
+    "transliteration": "gaumdau",
+    "english": "Common word",
+    "segments": [
+      "ಗು",
+      "ಂ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಗೂಢ",
+    "transliteration": "gauudha",
+    "english": "Common word",
+    "segments": [
+      "ಗೂ",
+      "ಢ"
+    ]
+  },
+  {
+    "kannada": "ಗೊಡ್ಡ",
+    "transliteration": "gaodada",
+    "english": "Common word",
+    "segments": [
+      "ಗೊ",
+      "ಡ್",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಘೋರ",
+    "transliteration": "ghaoora",
+    "english": "Common word",
+    "segments": [
+      "ಘೋ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಚತುರ್ಥ",
+    "transliteration": "chatauratha",
+    "english": "Common word",
+    "segments": [
+      "ಚ",
+      "ತು",
+      "ರ್",
+      "ಥ"
+    ]
+  },
+  {
+    "kannada": "ಚರಿತ್ರಹೀನ",
+    "transliteration": "charaitarahaiina",
+    "english": "Common word",
+    "segments": [
+      "ಚ",
+      "ರಿ",
+      "ತ್",
+      "ರ",
+      "ಹೀ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಚಾಲಾಕು",
+    "transliteration": "chaaalaaakau",
+    "english": "Common word",
+    "segments": [
+      "ಚಾ",
+      "ಲಾ",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಚಿಕ್ಕ",
+    "transliteration": "chaikaka",
+    "english": "Common word",
+    "segments": [
+      "ಚಿ",
+      "ಕ್",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಚೊಕ್ಕ",
+    "transliteration": "chaokaka",
+    "english": "Common word",
+    "segments": [
+      "ಚೊ",
+      "ಕ್",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಚೌಕ",
+    "transliteration": "chaauka",
+    "english": "Common word",
+    "segments": [
+      "ಚೌ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಜಾರಿ",
+    "transliteration": "jaaarai",
+    "english": "Common word",
+    "segments": [
+      "ಜಾ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಜಾಸ್ತಿ",
+    "transliteration": "jaaasatai",
+    "english": "Common word",
+    "segments": [
+      "ಜಾ",
+      "ಸ್",
+      "ತಿ"
+    ]
+  },
+  {
+    "kannada": "ಜಿಗಟಾದ",
+    "transliteration": "jaigataaada",
+    "english": "Common word",
+    "segments": [
+      "ಜಿ",
+      "ಗ",
+      "ಟಾ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಜೈನ",
+    "transliteration": "jaaina",
+    "english": "Common word",
+    "segments": [
+      "ಜೈ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಡಕೋಟಾ",
+    "transliteration": "dakaootaaa",
+    "english": "Common word",
+    "segments": [
+      "ಡ",
+      "ಕೋ",
+      "ಟಾ"
+    ]
+  },
+  {
+    "kannada": "ತೃಪ್ತ",
+    "transliteration": "taripata",
+    "english": "Common word",
+    "segments": [
+      "ತೃ",
+      "ಪ್",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ತೆಂಕಣ",
+    "transliteration": "taemkana",
+    "english": "Common word",
+    "segments": [
+      "ತೆ",
+      "ಂ",
+      "ಕ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ತೆಳು",
+    "transliteration": "taelau",
+    "english": "Common word",
+    "segments": [
+      "ತೆ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ದಕ್ಷಿಣ",
+    "transliteration": "dakashaina",
+    "english": "Common word",
+    "segments": [
+      "ದ",
+      "ಕ್",
+      "ಷಿ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ದಪ್ಪ",
+    "transliteration": "dapapa",
+    "english": "Common word",
+    "segments": [
+      "ದ",
+      "ಪ್",
+      "ಪ"
+    ]
+  },
+  {
+    "kannada": "ದಶಮ",
+    "transliteration": "dashama",
+    "english": "Common word",
+    "segments": [
+      "ದ",
+      "ಶ",
+      "ಮ"
+    ]
+  },
+  {
+    "kannada": "ದಿವ್ಯ",
+    "transliteration": "daivaya",
+    "english": "Common word",
+    "segments": [
+      "ದಿ",
+      "ವ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ದೀರ್ಘ",
+    "transliteration": "daiiragha",
+    "english": "Common word",
+    "segments": [
+      "ದೀ",
+      "ರ್",
+      "ಘ"
+    ]
+  },
+  {
+    "kannada": "ದುಃಖ",
+    "transliteration": "dauhkha",
+    "english": "Common word",
+    "segments": [
+      "ದು",
+      "ಃ",
+      "ಖ"
+    ]
+  },
+  {
+    "kannada": "ದುಷ್ಠ",
+    "transliteration": "daushatha",
+    "english": "Common word",
+    "segments": [
+      "ದು",
+      "ಷ್",
+      "ಠ"
+    ]
+  },
+  {
+    "kannada": "ದೂರ",
+    "transliteration": "dauura",
+    "english": "Common word",
+    "segments": [
+      "ದೂ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ದೃಢ",
+    "transliteration": "daridha",
+    "english": "Common word",
+    "segments": [
+      "ದೃ",
+      "ಢ"
+    ]
+  },
+  {
+    "kannada": "ದೊಡ್ಡ",
+    "transliteration": "daodada",
+    "english": "Common word",
+    "segments": [
+      "ದೊ",
+      "ಡ್",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ನಪುಂಸಕ",
+    "transliteration": "napaumsaka",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಪು",
+      "ಂ",
+      "ಸ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ನಮ್ರ",
+    "transliteration": "namara",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಮ್",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ನರ",
+    "transliteration": "nara",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ನಲ್",
+    "transliteration": "nala",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಲ್"
+    ]
+  },
+  {
+    "kannada": "ನವಮ",
+    "transliteration": "navama",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ವ",
+      "ಮ"
+    ]
+  },
+  {
+    "kannada": "ನವೀನ",
+    "transliteration": "navaiina",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ವೀ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ನಿಜ",
+    "transliteration": "naija",
+    "english": "Common word",
+    "segments": [
+      "ನಿ",
+      "ಜ"
+    ]
+  },
+  {
+    "kannada": "ನಿರಂತರ",
+    "transliteration": "nairamtara",
+    "english": "Common word",
+    "segments": [
+      "ನಿ",
+      "ರ",
+      "ಂ",
+      "ತ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ನಿರಭ್ರ",
+    "transliteration": "nairabhara",
+    "english": "Common word",
+    "segments": [
+      "ನಿ",
+      "ರ",
+      "ಭ್",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ನೀಟು",
+    "transliteration": "naiitau",
+    "english": "Common word",
+    "segments": [
+      "ನೀ",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ನೀಲಿ",
+    "transliteration": "naiilai",
+    "english": "Common word",
+    "segments": [
+      "ನೀ",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ನುಣ್ಣಗೆ",
+    "transliteration": "naunanagae",
+    "english": "Common word",
+    "segments": [
+      "ನು",
+      "ಣ್",
+      "ಣ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ನೇರ",
+    "transliteration": "naeera",
+    "english": "Common word",
+    "segments": [
+      "ನೇ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ನ್ಯೂನ",
+    "transliteration": "nayauuna",
+    "english": "Common word",
+    "segments": [
+      "ನ್",
+      "ಯೂ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಪಚ್ಚೆ",
+    "transliteration": "pachachae",
+    "english": "Common word",
+    "segments": [
+      "ಪ",
+      "ಚ್",
+      "ಚೆ"
+    ]
+  },
+  {
+    "kannada": "ಪಾಗದ",
+    "transliteration": "paaagada",
+    "english": "Common word",
+    "segments": [
+      "ಪಾ",
+      "ಗ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಪುಳಿ",
+    "transliteration": "paulai",
+    "english": "Common word",
+    "segments": [
+      "ಪು",
+      "ಳಿ"
+    ]
+  },
+  {
+    "kannada": "ಪೂರ್ಣ",
+    "transliteration": "pauurana",
+    "english": "Common word",
+    "segments": [
+      "ಪೂ",
+      "ರ್",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಪ್ರಥಮ",
+    "transliteration": "parathama",
+    "english": "Common word",
+    "segments": [
+      "ಪ್",
+      "ರ",
+      "ಥ",
+      "ಮ"
+    ]
+  },
+  {
+    "kannada": "ಪ್ರಾಕೃತ",
+    "transliteration": "paraaakarita",
+    "english": "Common word",
+    "segments": [
+      "ಪ್",
+      "ರಾ",
+      "ಕೃ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಪ್ರಾಚೀನ",
+    "transliteration": "paraaachaiina",
+    "english": "Common word",
+    "segments": [
+      "ಪ್",
+      "ರಾ",
+      "ಚೀ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಪ್ರಿಯ",
+    "transliteration": "paraiya",
+    "english": "Common word",
+    "segments": [
+      "ಪ್",
+      "ರಿ",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಬದ್ಧ",
+    "transliteration": "badadha",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ದ್",
+      "ಧ"
+    ]
+  },
+  {
+    "kannada": "ಬಾಲ",
+    "transliteration": "baaala",
+    "english": "Common word",
+    "segments": [
+      "ಬಾ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಬಿಳಿ",
+    "transliteration": "bailai",
+    "english": "Common word",
+    "segments": [
+      "ಬಿ",
+      "ಳಿ"
+    ]
+  },
+  {
+    "kannada": "ಬೂದು",
+    "transliteration": "bauudau",
+    "english": "Common word",
+    "segments": [
+      "ಬೂ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಬೆಚ್ಚ",
+    "transliteration": "baechacha",
+    "english": "Common word",
+    "segments": [
+      "ಬೆ",
+      "ಚ್",
+      "ಚ"
+    ]
+  },
+  {
+    "kannada": "ಬೆತ್ತಲೆ",
+    "transliteration": "baetatalae",
+    "english": "Common word",
+    "segments": [
+      "ಬೆ",
+      "ತ್",
+      "ತ",
+      "ಲೆ"
+    ]
+  },
+  {
+    "kannada": "ಬೇರೆ",
+    "transliteration": "baeerae",
+    "english": "Common word",
+    "segments": [
+      "ಬೇ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಭಯಂಕರ",
+    "transliteration": "bhayamkara",
+    "english": "Common word",
+    "segments": [
+      "ಭ",
+      "ಯ",
+      "ಂ",
+      "ಕ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಭಯಾನಕ",
+    "transliteration": "bhayaaanaka",
+    "english": "Common word",
+    "segments": [
+      "ಭ",
+      "ಯಾ",
+      "ನ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಮಗ್ನ",
+    "transliteration": "magana",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಗ್",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಮಡಿದ",
+    "transliteration": "madaida",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಡಿ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ಮಧುರ",
+    "transliteration": "madhaura",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಧು",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಮಹಾ",
+    "transliteration": "mahaaa",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಹಾ"
+    ]
+  },
+  {
+    "kannada": "ಮಾಜಿ",
+    "transliteration": "maaajai",
+    "english": "Common word",
+    "segments": [
+      "ಮಾ",
+      "ಜಿ"
+    ]
+  },
+  {
+    "kannada": "ಮೀಸಲು",
+    "transliteration": "maiisalau",
+    "english": "Common word",
+    "segments": [
+      "ಮೀ",
+      "ಸ",
+      "ಲು"
+    ]
+  },
+  {
+    "kannada": "ಮುಂದಿನ",
+    "transliteration": "maumdaina",
+    "english": "Common word",
+    "segments": [
+      "ಮು",
+      "ಂ",
+      "ದಿ",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ಮುಖ್ಯ",
+    "transliteration": "maukhaya",
+    "english": "Common word",
+    "segments": [
+      "ಮು",
+      "ಖ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಮುಗ್ಧ",
+    "transliteration": "maugadha",
+    "english": "Common word",
+    "segments": [
+      "ಮು",
+      "ಗ್",
+      "ಧ"
+    ]
+  },
+  {
+    "kannada": "ಮೂಕ",
+    "transliteration": "mauuka",
+    "english": "Common word",
+    "segments": [
+      "ಮೂ",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಮೂಢ",
+    "transliteration": "mauudha",
+    "english": "Common word",
+    "segments": [
+      "ಮೂ",
+      "ಢ"
+    ]
+  },
+  {
+    "kannada": "ಮೂರ್ಖ",
+    "transliteration": "mauurakha",
+    "english": "Common word",
+    "segments": [
+      "ಮೂ",
+      "ರ್",
+      "ಖ"
+    ]
+  },
+  {
+    "kannada": "ಮೃತ",
+    "transliteration": "marita",
+    "english": "Common word",
+    "segments": [
+      "ಮೃ",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಮೃದು",
+    "transliteration": "maridau",
+    "english": "Common word",
+    "segments": [
+      "ಮೃ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಮೊಂಡ",
+    "transliteration": "maomda",
+    "english": "Common word",
+    "segments": [
+      "ಮೊ",
+      "ಂ",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಮೊಂಡು",
+    "transliteration": "maomdau",
+    "english": "Common word",
+    "segments": [
+      "ಮೊ",
+      "ಂ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಯುಕ್ತ",
+    "transliteration": "yaukata",
+    "english": "Common word",
+    "segments": [
+      "ಯು",
+      "ಕ್",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ಯೋಗ್ಯ",
+    "transliteration": "yaoogaya",
+    "english": "Common word",
+    "segments": [
+      "ಯೋ",
+      "ಗ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ರದ್ದು",
+    "transliteration": "radadau",
+    "english": "Common word",
+    "segments": [
+      "ರ",
+      "ದ್",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ರಮಣೀಯ",
+    "transliteration": "ramanaiiya",
+    "english": "Common word",
+    "segments": [
+      "ರ",
+      "ಮ",
+      "ಣೀ",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ರಿಕ್ತ",
+    "transliteration": "raikata",
+    "english": "Common word",
+    "segments": [
+      "ರಿ",
+      "ಕ್",
+      "ತ"
+    ]
+  },
+  {
+    "kannada": "ರುದ್ರ_ರಮಣೀಯ",
+    "transliteration": "raudara_ramanaiiya",
+    "english": "Common word",
+    "segments": [
+      "ರು",
+      "ದ್",
+      "ರ",
+      "_",
+      "ರ",
+      "ಮ",
+      "ಣೀ",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ರುದ್ರರಮಣೀಯ",
+    "transliteration": "raudararamanaiiya",
+    "english": "Common word",
+    "segments": [
+      "ರು",
+      "ದ್",
+      "ರ",
+      "ರ",
+      "ಮ",
+      "ಣೀ",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಲಘು",
+    "transliteration": "laghau",
+    "english": "Common word",
+    "segments": [
+      "ಲ",
+      "ಘು"
+    ]
+  },
+  {
+    "kannada": "ಲಬ್ಧ",
+    "transliteration": "labadha",
+    "english": "Common word",
+    "segments": [
+      "ಲ",
+      "ಬ್",
+      "ಧ"
+    ]
+  },
+  {
+    "kannada": "ಲಾಯ್ಕ್",
+    "transliteration": "laaayaka",
+    "english": "Common word",
+    "segments": [
+      "ಲಾ",
+      "ಯ್",
+      "ಕ್"
+    ]
+  },
+  {
+    "kannada": "ವಜ್ಜೆ",
+    "transliteration": "vajajae",
+    "english": "Common word",
+    "segments": [
+      "ವ",
+      "ಜ್",
+      "ಜೆ"
+    ]
+  },
+  {
+    "kannada": "ವಿಕಟ",
+    "transliteration": "vaikata",
+    "english": "Common word",
+    "segments": [
+      "ವಿ",
+      "ಕ",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಅನ್ಯಥಾ",
+    "transliteration": "anayathaaa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ನ್",
+      "ಯ",
+      "ಥಾ"
+    ]
+  },
+  {
+    "kannada": "ಅಪೂಟ್",
+    "transliteration": "apauuta",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಪೂ",
+      "ಟ್"
+    ]
+  },
+  {
+    "kannada": "ಅಲ್ಲಿ",
+    "transliteration": "alalai",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಲ್",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಇಲ್ಲಿ",
+    "transliteration": "ilalai",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಲ್",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಈಗ",
+    "transliteration": "iiga",
+    "english": "Common word",
+    "segments": [
+      "ಈ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಎಂದು",
+    "transliteration": "emdau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಂ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಏಕೆ",
+    "transliteration": "eekae",
+    "english": "Common word",
+    "segments": [
+      "ಏ",
+      "ಕೆ"
+    ]
+  },
+  {
+    "kannada": "ಒಳಗೆ",
+    "transliteration": "olagae",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಳ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಕಾರಣ",
+    "transliteration": "kaaarana",
+    "english": "Common word",
+    "segments": [
+      "ಕಾ",
+      "ರ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ಕೂಡ",
+    "transliteration": "kauuda",
+    "english": "Common word",
+    "segments": [
+      "ಕೂ",
+      "ಡ"
+    ]
+  },
+  {
+    "kannada": "ಕೇವಲ",
+    "transliteration": "kaeevala",
+    "english": "Common word",
+    "segments": [
+      "ಕೇ",
+      "ವ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಕ್ರಿಸ್ತ_ಪೂರ್ವ",
+    "transliteration": "karaisata_pauurava",
+    "english": "Common word",
+    "segments": [
+      "ಕ್",
+      "ರಿ",
+      "ಸ್",
+      "ತ",
+      "_",
+      "ಪೂ",
+      "ರ್",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಚಿಟ್ಟನೆ",
+    "transliteration": "chaitatanae",
+    "english": "Common word",
+    "segments": [
+      "ಚಿ",
+      "ಟ್",
+      "ಟ",
+      "ನೆ"
+    ]
+  },
+  {
+    "kannada": "ಚೆನ್ನಾಗಿ",
+    "transliteration": "chaenanaaagai",
+    "english": "Common word",
+    "segments": [
+      "ಚೆ",
+      "ನ್",
+      "ನಾ",
+      "ಗಿ"
+    ]
+  },
+  {
+    "kannada": "ಜೊತೆ",
+    "transliteration": "jaotae",
+    "english": "Common word",
+    "segments": [
+      "ಜೊ",
+      "ತೆ"
+    ]
+  },
+  {
+    "kannada": "ತಕ್ಷಣ",
+    "transliteration": "takashana",
+    "english": "Common word",
+    "segments": [
+      "ತ",
+      "ಕ್",
+      "ಷ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ತತ್ಕ್ಷಣ",
+    "transliteration": "tatakashana",
+    "english": "Common word",
+    "segments": [
+      "ತ",
+      "ತ್",
+      "ಕ್",
+      "ಷ",
+      "ಣ"
+    ]
+  },
+  {
+    "kannada": "ದಯವಿಟ್ಟು",
+    "transliteration": "dayavaitatau",
+    "english": "Common word",
+    "segments": [
+      "ದ",
+      "ಯ",
+      "ವಿ",
+      "ಟ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ದಿನೇ_ದಿನೇ",
+    "transliteration": "dainaee_dainaee",
+    "english": "Common word",
+    "segments": [
+      "ದಿ",
+      "ನೇ",
+      "_",
+      "ದಿ",
+      "ನೇ"
+    ]
+  },
+  {
+    "kannada": "ನಂತರ",
+    "transliteration": "namtara",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಂ",
+      "ತ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ನಾಳೆ",
+    "transliteration": "naaalae",
+    "english": "Common word",
+    "segments": [
+      "ನಾ",
+      "ಳೆ"
+    ]
+  },
+  {
+    "kannada": "ನಿಜವಾಗಿ",
+    "transliteration": "naijavaaagai",
+    "english": "Common word",
+    "segments": [
+      "ನಿ",
+      "ಜ",
+      "ವಾ",
+      "ಗಿ"
+    ]
+  },
+  {
+    "kannada": "ಪದೇ_ಪದೇ",
+    "transliteration": "padaee_padaee",
+    "english": "Common word",
+    "segments": [
+      "ಪ",
+      "ದೇ",
+      "_",
+      "ಪ",
+      "ದೇ"
+    ]
+  },
+  {
+    "kannada": "ಪುನಃ",
+    "transliteration": "paunah",
+    "english": "Common word",
+    "segments": [
+      "ಪು",
+      "ನ",
+      "ಃ"
+    ]
+  },
+  {
+    "kannada": "ಬಿಮ್ಮಗೆ",
+    "transliteration": "baimamagae",
+    "english": "Common word",
+    "segments": [
+      "ಬಿ",
+      "ಮ್",
+      "ಮ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಬೇಗ",
+    "transliteration": "baeega",
+    "english": "Common word",
+    "segments": [
+      "ಬೇ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಮತ್ತೆ",
+    "transliteration": "matatae",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ತ್",
+      "ತೆ"
+    ]
+  },
+  {
+    "kannada": "ಮಧ್ಯ",
+    "transliteration": "madhaya",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ಧ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಮಾತ್ರ",
+    "transliteration": "maaatara",
+    "english": "Common word",
+    "segments": [
+      "ಮಾ",
+      "ತ್",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಮೇಲೆ",
+    "transliteration": "maeelae",
+    "english": "Common word",
+    "segments": [
+      "ಮೇ",
+      "ಲೆ"
+    ]
+  },
+  {
+    "kannada": "ಯಾವಾಗ",
+    "transliteration": "yaaavaaaga",
+    "english": "Common word",
+    "segments": [
+      "ಯಾ",
+      "ವಾ",
+      "ಗ"
+    ]
+  },
+  {
+    "kannada": "ಸದ್ಯ",
+    "transliteration": "sadaya",
+    "english": "Common word",
+    "segments": [
+      "ಸ",
+      "ದ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಸರ್ವತ್ರ",
+    "transliteration": "saravatara",
+    "english": "Common word",
+    "segments": [
+      "ಸ",
+      "ರ್",
+      "ವ",
+      "ತ್",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಸಹ",
+    "transliteration": "saha",
+    "english": "Common word",
+    "segments": [
+      "ಸ",
+      "ಹ"
+    ]
+  },
+  {
+    "kannada": "ಸುಮ್ಮನೆ",
+    "transliteration": "saumamanae",
+    "english": "Common word",
+    "segments": [
+      "ಸು",
+      "ಮ್",
+      "ಮ",
+      "ನೆ"
+    ]
+  },
+  {
+    "kannada": "ಸೊಲ್ಪ",
+    "transliteration": "saolapa",
+    "english": "Common word",
+    "segments": [
+      "ಸೊ",
+      "ಲ್",
+      "ಪ"
+    ]
+  },
+  {
+    "kannada": "ಸ್ವತಃ",
+    "transliteration": "savatah",
+    "english": "Common word",
+    "segments": [
+      "ಸ್",
+      "ವ",
+      "ತ",
+      "ಃ"
+    ]
+  },
+  {
+    "kannada": "ಸ್ವಲ್ಪ",
+    "transliteration": "savalapa",
+    "english": "Common word",
+    "segments": [
+      "ಸ್",
+      "ವ",
+      "ಲ್",
+      "ಪ"
+    ]
+  },
+  {
+    "kannada": "ಹತ್ತಿರ",
+    "transliteration": "hatataira",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ತ್",
+      "ತಿ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಹೀಗೆ",
+    "transliteration": "haiigae",
+    "english": "Common word",
+    "segments": [
+      "ಹೀ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಹೇಗೆ",
+    "transliteration": "haeegae",
+    "english": "Common word",
+    "segments": [
+      "ಹೇ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಹೊರಗೆ",
+    "transliteration": "haoragae",
+    "english": "Common word",
+    "segments": [
+      "ಹೊ",
+      "ರ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಅ",
+    "transliteration": "a",
+    "english": "Common word",
+    "segments": [
+      "ಅ"
+    ]
+  },
+  {
+    "kannada": "ಅಂವ",
+    "transliteration": "amva",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಂ",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಅದು",
+    "transliteration": "adau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಅವನು",
+    "transliteration": "avanau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ಅವರು",
+    "transliteration": "avarau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಅವಳು",
+    "transliteration": "avalau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಅವು",
+    "transliteration": "avau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಅವುಗಳು",
+    "transliteration": "avaugalau",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ವು",
+      "ಗ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಆನು",
+    "transliteration": "aanau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ಇದು",
+    "transliteration": "idau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಇವ",
+    "transliteration": "iva",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಇವನು",
+    "transliteration": "ivanau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ವ",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ಇವರು",
+    "transliteration": "ivarau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ವ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಇವಳು",
+    "transliteration": "ivalau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ವ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಇವು",
+    "transliteration": "ivau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಇವುಗಳು",
+    "transliteration": "ivaugalau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ವು",
+      "ಗ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಎಂಗಳ",
+    "transliteration": "emgala",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಂ",
+      "ಗ",
+      "ಳ"
+    ]
+  },
+  {
+    "kannada": "ಎಲ್ಲಿ",
+    "transliteration": "elalai",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಲ್",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಏನು",
+    "transliteration": "eenau",
+    "english": "Common word",
+    "segments": [
+      "ಏ",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ತನ್ನ",
+    "transliteration": "tanana",
+    "english": "Common word",
+    "segments": [
+      "ತ",
+      "ನ್",
+      "ನ"
+    ]
+  },
+  {
+    "kannada": "ನಾನು",
+    "transliteration": "naaanau",
+    "english": "Common word",
+    "segments": [
+      "ನಾ",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ನಾವು",
+    "transliteration": "naaavau",
+    "english": "Common word",
+    "segments": [
+      "ನಾ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ನೀನು",
+    "transliteration": "naiinau",
+    "english": "Common word",
+    "segments": [
+      "ನೀ",
+      "ನು"
+    ]
+  },
+  {
+    "kannada": "ನೀವು",
+    "transliteration": "naiivau",
+    "english": "Common word",
+    "segments": [
+      "ನೀ",
+      "ವು"
+    ]
+  },
+  {
+    "kannada": "ಯಾರು",
+    "transliteration": "yaaarau",
+    "english": "Common word",
+    "segments": [
+      "ಯಾ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಆರು",
+    "transliteration": "aarau",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಇಪ್ಪತ್ತು",
+    "transliteration": "ipapatatau",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಪ್",
+      "ಪ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಎಂಟು",
+    "transliteration": "emtau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಂ",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಎರಡು",
+    "transliteration": "eradau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ರ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಐದು",
+    "transliteration": "ಐdau",
+    "english": "Common word",
+    "segments": [
+      "ಐ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಒಂದು",
+    "transliteration": "omdau",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಂ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಒಂಬತ್ತು",
+    "transliteration": "ombatatau",
+    "english": "Common word",
+    "segments": [
+      "ಒ",
+      "ಂ",
+      "ಬ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಕೋಟಿ",
+    "transliteration": "kaootai",
+    "english": "Common word",
+    "segments": [
+      "ಕೋ",
+      "ಟಿ"
+    ]
+  },
+  {
+    "kannada": "ನಾಲ್ಕು",
+    "transliteration": "naaalakau",
+    "english": "Common word",
+    "segments": [
+      "ನಾ",
+      "ಲ್",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ನೂರು",
+    "transliteration": "nauurau",
+    "english": "Common word",
+    "segments": [
+      "ನೂ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಮೂರು",
+    "transliteration": "mauurau",
+    "english": "Common word",
+    "segments": [
+      "ಮೂ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಲಕ್ಷ",
+    "transliteration": "lakasha",
+    "english": "Common word",
+    "segments": [
+      "ಲ",
+      "ಕ್",
+      "ಷ"
+    ]
+  },
+  {
+    "kannada": "ಶೂನ್ಯ",
+    "transliteration": "shauunaya",
+    "english": "Common word",
+    "segments": [
+      "ಶೂ",
+      "ನ್",
+      "ಯ"
+    ]
+  },
+  {
+    "kannada": "ಸಾವಿರ",
+    "transliteration": "saaavaira",
+    "english": "Common word",
+    "segments": [
+      "ಸಾ",
+      "ವಿ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಸೊನ್ನೆ",
+    "transliteration": "saonanae",
+    "english": "Common word",
+    "segments": [
+      "ಸೊ",
+      "ನ್",
+      "ನೆ"
+    ]
+  },
+  {
+    "kannada": "ಹತ್ತು",
+    "transliteration": "hatatau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಹತ್ತೊಂಬತ್ತು",
+    "transliteration": "hatataombatatau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ತ್",
+      "ತೊ",
+      "ಂ",
+      "ಬ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಹದಿನಾರು",
+    "transliteration": "hadainaaarau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ದಿ",
+      "ನಾ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಹದಿನಾಲ್ಕು",
+    "transliteration": "hadainaaalakau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ದಿ",
+      "ನಾ",
+      "ಲ್",
+      "ಕು"
+    ]
+  },
+  {
+    "kannada": "ಹದಿನೆಂಟು",
+    "transliteration": "hadainaemtau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ದಿ",
+      "ನೆ",
+      "ಂ",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಹದಿನೇಳು",
+    "transliteration": "hadainaeelau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ದಿ",
+      "ನೇ",
+      "ಳು"
+    ]
+  },
+  {
+    "kannada": "ಹದಿನೈದು",
+    "transliteration": "hadainaaidau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ದಿ",
+      "ನೈ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಹದಿಮೂರು",
+    "transliteration": "hadaimauurau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ದಿ",
+      "ಮೂ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಹನ್ನೆರಡು",
+    "transliteration": "hananaeradau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ನ್",
+      "ನೆ",
+      "ರ",
+      "ಡು"
+    ]
+  },
+  {
+    "kannada": "ಹನ್ನೊಂದು",
+    "transliteration": "hananaomdau",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ನ್",
+      "ನೊ",
+      "ಂ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "೦",
+    "transliteration": "೦",
+    "english": "Common word",
+    "segments": [
+      "೦"
+    ]
+  },
+  {
+    "kannada": "ಅಥವ",
+    "transliteration": "athava",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಥ",
+      "ವ"
+    ]
+  },
+  {
+    "kannada": "ಅಥವಾ",
+    "transliteration": "athavaaa",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಥ",
+      "ವಾ"
+    ]
+  },
+  {
+    "kannada": "ಆದರೆ",
+    "transliteration": "aadarae",
+    "english": "Common word",
+    "segments": [
+      "ಆ",
+      "ದ",
+      "ರೆ"
+    ]
+  },
+  {
+    "kannada": "ಇಲ್ಲವೆ",
+    "transliteration": "ilalavae",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ಲ್",
+      "ಲ",
+      "ವೆ"
+    ]
+  },
+  {
+    "kannada": "ಮತ್ತು",
+    "transliteration": "matatau",
+    "english": "Common word",
+    "segments": [
+      "ಮ",
+      "ತ್",
+      "ತು"
+    ]
+  },
+  {
+    "kannada": "ಯಾ",
+    "transliteration": "yaaa",
+    "english": "Common word",
+    "segments": [
+      "ಯಾ"
+    ]
+  },
+  {
+    "kannada": "ವಾ",
+    "transliteration": "vaaa",
+    "english": "Common word",
+    "segments": [
+      "ವಾ"
+    ]
+  },
+  {
+    "kannada": "ಹಾಗೂ",
+    "transliteration": "haaagauu",
+    "english": "Common word",
+    "segments": [
+      "ಹಾ",
+      "ಗೂ"
+    ]
+  },
+  {
+    "kannada": "ಅಲ್ಲ",
+    "transliteration": "alala",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಲ್",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "-ಅಲ್ಲಿ",
+    "transliteration": "-alalai",
+    "english": "Common word",
+    "segments": [
+      "-",
+      "ಅ",
+      "ಲ್",
+      "ಲಿ"
+    ]
+  },
+  {
+    "kannada": "ಹೌದು",
+    "transliteration": "haaudau",
+    "english": "Common word",
+    "segments": [
+      "ಹೌ",
+      "ದು"
+    ]
+  },
+  {
+    "kannada": "ಅಯ್ಯೋ",
+    "transliteration": "ayayaoo",
+    "english": "Common word",
+    "segments": [
+      "ಅ",
+      "ಯ್",
+      "ಯೋ"
+    ]
+  },
+  {
+    "kannada": "ಧನ್ಯವಾದ",
+    "transliteration": "dhanayavaaada",
+    "english": "Common word",
+    "segments": [
+      "ಧ",
+      "ನ್",
+      "ಯ",
+      "ವಾ",
+      "ದ"
+    ]
+  },
+  {
+    "kannada": "ನನ್ನಿ",
+    "transliteration": "nananai",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ನ್",
+      "ನಿ"
+    ]
+  },
+  {
+    "kannada": "ನಮಸ್ಕಾರ",
+    "transliteration": "namasakaaara",
+    "english": "Common word",
+    "segments": [
+      "ನ",
+      "ಮ",
+      "ಸ್",
+      "ಕಾ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಶಾಟ",
+    "transliteration": "shaaata",
+    "english": "Common word",
+    "segments": [
+      "ಶಾ",
+      "ಟ"
+    ]
+  },
+  {
+    "kannada": "ಸರಿ",
+    "transliteration": "sarai",
+    "english": "Common word",
+    "segments": [
+      "ಸ",
+      "ರಿ"
+    ]
+  },
+  {
+    "kannada": "ಹುಷಾರು",
+    "transliteration": "haushaaarau",
+    "english": "Common word",
+    "segments": [
+      "ಹು",
+      "ಷಾ",
+      "ರು"
+    ]
+  },
+  {
+    "kannada": "ಆ",
+    "transliteration": "aa",
+    "english": "Common word",
+    "segments": [
+      "ಆ"
+    ]
+  },
+  {
+    "kannada": "ಇತರ",
+    "transliteration": "itara",
+    "english": "Common word",
+    "segments": [
+      "ಇ",
+      "ತ",
+      "ರ"
+    ]
+  },
+  {
+    "kannada": "ಈ",
+    "transliteration": "ii",
+    "english": "Common word",
+    "segments": [
+      "ಈ"
+    ]
+  },
+  {
+    "kannada": "ಎಷ್ಟು",
+    "transliteration": "eshatau",
+    "english": "Common word",
+    "segments": [
+      "ಎ",
+      "ಷ್",
+      "ಟು"
+    ]
+  },
+  {
+    "kannada": "ಕೆಲ",
+    "transliteration": "kaela",
+    "english": "Common word",
+    "segments": [
+      "ಕೆ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಹಲ",
+    "transliteration": "hala",
+    "english": "Common word",
+    "segments": [
+      "ಹ",
+      "ಲ"
+    ]
+  },
+  {
+    "kannada": "ಪಕ್ಕ",
+    "transliteration": "pakaka",
+    "english": "Common word",
+    "segments": [
+      "ಪ",
+      "ಕ್",
+      "ಕ"
+    ]
+  },
+  {
+    "kannada": "ಕಡೆಗೆ",
+    "transliteration": "kadaegae",
+    "english": "Common word",
+    "segments": [
+      "ಕ",
+      "ಡೆ",
+      "ಗೆ"
+    ]
+  },
+  {
+    "kannada": "ಬಗ್ಗೆ",
+    "transliteration": "bagagae",
+    "english": "Common word",
+    "segments": [
+      "ಬ",
+      "ಗ್",
+      "ಗೆ"
+    ]
+  }
+]

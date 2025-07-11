@@ -7,11 +7,11 @@ let incorrectAttempts = 0;
 // Load dictionary from JSON file
 async function loadDictionary() {
     try {
-        const response = await fetch('dictionary.json');
+        const response = await fetch("data/dictionary.json");
         words = await response.json();
         loadNewWord();
     } catch (error) {
-        console.error('Error loading dictionary:', error);
+        console.error("Error loading dictionary:", error);
     }
 }
 
@@ -62,7 +62,7 @@ function moveToNextChar() {
     document.getElementById("input-box").value = "";
     hideHint();
     updateKannadaDisplay();
-    
+
     // Show meaning and auto-advance to next word if completed
     if (currentCharIndex >= currentWord.segments.length) {
         showMeaning();
@@ -89,10 +89,10 @@ function handleKey(event) {
 function validateCurrentInput() {
     const inputBox = document.getElementById("input-box");
     const currentSegment = inputBox.value.trim();
-    
+
     if (currentSegment && currentCharIndex < currentWord.segments.length) {
         const expectedSegment = currentWord.segments[currentCharIndex].tr;
-        
+
         if (currentSegment === expectedSegment) {
             // Correct input
             typedSegments[currentCharIndex] = currentSegment;
@@ -100,7 +100,7 @@ function validateCurrentInput() {
         } else {
             // Incorrect input
             incorrectAttempts++;
-            
+
             if (incorrectAttempts >= 4) {
                 // Show correct answer and move on
                 showHint();
@@ -110,11 +110,11 @@ function validateCurrentInput() {
                 }, 2000);
             } else {
                 // Flash red and clear
-                inputBox.style.borderColor = '#dc322f';
-                inputBox.style.backgroundColor = 'rgba(220, 50, 47, 0.1)';
+                inputBox.style.borderColor = "#dc322f";
+                inputBox.style.backgroundColor = "rgba(220, 50, 47, 0.1)";
                 setTimeout(() => {
-                    inputBox.style.borderColor = '';
-                    inputBox.style.backgroundColor = '';
+                    inputBox.style.borderColor = "";
+                    inputBox.style.backgroundColor = "";
                     inputBox.value = "";
                 }, 500);
             }
@@ -124,15 +124,17 @@ function validateCurrentInput() {
 
 function updateKannadaDisplay() {
     let kannadaHTML = "";
-    
+
     for (let i = 0; i < currentWord.segments.length; i++) {
         const segment = currentWord.segments[i];
-        
+
         if (i < currentCharIndex) {
             // Character has been typed correctly
             kannadaHTML += `<div class='kannada-char-container'>
                 <span class='kannada-typed-correct'>${segment.kn}</span>
-                <span class='transliteration'>${typedSegments[i] || segment.tr}</span>
+                <span class='transliteration'>${
+                    typedSegments[i] || segment.tr
+                }</span>
             </div>`;
         } else if (i === currentCharIndex) {
             // Current character position
@@ -146,9 +148,39 @@ function updateKannadaDisplay() {
             </div>`;
         }
     }
-    
+
     document.getElementById("kannada-word").innerHTML = kannadaHTML;
 }
+
+// Help modal functions
+function showHelp() {
+    const modal = document.getElementById("help-modal");
+    modal.style.display = "flex";
+    modal.classList.add("show");
+    // Prevent body scrolling when modal is open
+    document.body.style.overflow = "hidden";
+}
+
+function hideHelp() {
+    const modal = document.getElementById("help-modal");
+    modal.classList.remove("show");
+    // Add a small delay before hiding to allow animation to complete
+    setTimeout(() => {
+        modal.style.display = "none";
+        document.body.style.overflow = "auto";
+    }, 300);
+}
+
+// Close modal on Escape key
+document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape") {
+        const modal = document.getElementById("help-modal");
+        if (modal.classList.contains("show")) {
+            event.preventDefault();
+            hideHelp();
+        }
+    }
+});
 
 // Initialize app
 loadDictionary();

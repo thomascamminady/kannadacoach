@@ -1,0 +1,108 @@
+[
+    {
+        "kn": "ಕನ್ನಡ",
+        "tr": "kannada",
+        "en": "Kannada (language)",
+        "segments": [
+            {
+                "kn": "ಕ",
+                "tr": "ka"
+            },
+            {
+                "kn": "ನ್ನ",
+                "tr": "nna"
+            },
+            {
+                "kn": "ಡ",
+                "tr": "da"
+            }
+        ]
+    },
+    {
+        "kn": "ನಮಸ್ಕಾರ",
+        "tr": "namaskara",
+        "en": "Hello / Greetings",
+        "segments": [
+            {
+                "kn": "ನ",
+                "tr": "na"
+            },
+            {
+                "kn": "ಮ",
+                "tr": "ma"
+            },
+            {
+                "kn": "ಸ್ಕಾ",
+                "tr": "ska"
+            },
+            {
+                "kn": "ರ",
+                "tr": "ra"
+            }
+        ]
+    },
+    {
+        "kn": "ಗುಡುಗು",
+        "tr": "gudugu",
+        "en": "Thunder",
+        "segments": [
+            {
+                "kn": "ಗು",
+                "tr": "gu"
+            },
+            {
+                "kn": "ಡು",
+                "tr": "du"
+            },
+            {
+                "kn": "ಗು",
+                "tr": "gu"
+            }
+        ]
+    },
+    {
+        "kn": "ಮಗು",
+        "tr": "magu",
+        "en": "Child",
+        "segments": [
+            {
+                "kn": "ಮ",
+                "tr": "ma"
+            },
+            {
+                "kn": "ಗು",
+                "tr": "gu"
+            }
+        ]
+    },
+    {
+        "kn": "ಶಾಲೆ",
+        "tr": "shaale",
+        "en": "School",
+        "segments": [
+            {
+                "kn": "ಶಾ",
+                "tr": "shaa"
+            },
+            {
+                "kn": "ಲೆ",
+                "tr": "le"
+            }
+        ]
+    },
+    {
+        "kn": "ಅಜ್ಜ",
+        "tr": "ajja",
+        "en": "Grandfather",
+        "segments": [
+            {
+                "kn": "ಅ",
+                "tr": "a"
+            },
+            {
+                "kn": "ಜ್ಜ",
+                "tr": "jja"
+            }
+        ]
+    }
+]
