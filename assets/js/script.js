@@ -244,10 +244,10 @@ function validateCurrentInput() {
         } else {
             // Flash character and input red, then clear
             flashCurrentCharacter("incorrect");
-            inputBox.classList.add("error");
+            elements.inputBox.classList.add("error");
             setTimeout(() => {
-                inputBox.classList.remove("error");
-                inputBox.value = "";
+                elements.inputBox.classList.remove("error");
+                elements.inputBox.value = "";
             }, CONFIG.ERROR_FLASH_DURATION);
         }
     }

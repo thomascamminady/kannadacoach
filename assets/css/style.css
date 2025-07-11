@@ -190,6 +190,7 @@ body {
 .input-section input::placeholder {
     color: var(--text-color);
     opacity: 0.5;
+    font-size: 0.8em; /* Make placeholder text smaller */
 }
 
 .input-section input.error {

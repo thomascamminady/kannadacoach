@@ -404,16 +404,56 @@ def create_simple_segments(kannada_word):
     return segments
 
 
+def fix_anusvara_segments(segments):
+    """Fix anusvara (ಂ) segments by combining them with the previous segment."""
+    fixed_segments = []
+    i = 0
+
+    while i < len(segments):
+        current_segment = segments[i]
+
+        # Check if this segment is just "ಂ"
+        if current_segment["kn"] == "ಂ" and fixed_segments:
+            # Combine with previous segment
+            prev_segment = fixed_segments[-1]
+            prev_segment["kn"] += "ಂ"
+            # Update transliteration to use 'n' instead of 'm' or the raw character
+            if prev_segment["tr"].endswith("e"):
+                prev_segment["tr"] = prev_segment["tr"][:-1] + "en"
+            elif prev_segment["tr"].endswith("a"):
+                prev_segment["tr"] = prev_segment["tr"][:-1] + "an"
+            elif prev_segment["tr"].endswith("i"):
+                prev_segment["tr"] = prev_segment["tr"][:-1] + "in"
+            elif prev_segment["tr"].endswith("u"):
+                prev_segment["tr"] = prev_segment["tr"][:-1] + "un"
+            elif prev_segment["tr"].endswith("o"):
+                prev_segment["tr"] = prev_segment["tr"][:-1] + "on"
+            else:
+                prev_segment["tr"] += "n"
+            # Skip the anusvara segment as it's now combined
+        else:
+            fixed_segments.append(current_segment)
+
+        i += 1
+
+    return fixed_segments
+
+
 def create_comprehensive_dictionary():
     """Create a comprehensive dictionary from the word list."""
     dictionary = []
 
     for kannada, transliteration, english in KANNADA_WORDS:
+        segments = create_simple_segments(kannada)
+
+        # Fix anusvara segments
+        segments = fix_anusvara_segments(segments)
+
         entry = {
             "kn": kannada,
             "tr": transliteration,
             "en": english,
-            "segments": create_simple_segments(kannada),
+            "segments": segments,
         }
         dictionary.append(entry)
 

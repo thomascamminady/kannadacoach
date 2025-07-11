@@ -5,24 +5,8 @@
     "en": "hello/greetings",
     "segments": [
       {
-        "kn": "ನ",
-        "tr": "na"
-      },
-      {
-        "kn": "ಮ",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
-      },
-      {
-        "kn": "ಕಾ",
-        "tr": "kaaa"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ನಮಸ್ಕಾರ",
+        "tr": "namasakaaara"
       }
     ]
   },
@@ -32,24 +16,8 @@
     "en": "thank you",
     "segments": [
       {
-        "kn": "ಧ",
-        "tr": "dha"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಯ",
-        "tr": "ya"
-      },
-      {
-        "kn": "ವಾ",
-        "tr": "vaaa"
-      },
-      {
-        "kn": "ದ",
-        "tr": "da"
+        "kn": "ಧನ್ಯವಾದ",
+        "tr": "dhanayavaaada"
       }
     ]
   },
@@ -59,20 +27,8 @@
     "en": "sorry/excuse me",
     "segments": [
       {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಷ",
-        "tr": "sha"
-      },
-      {
-        "kn": "ಮಿ",
-        "tr": "mai"
-      },
-      {
-        "kn": "ಸಿ",
-        "tr": "sai"
+        "kn": "ಕ್ಷಮಿಸಿ",
+        "tr": "kashamaisai"
       }
     ]
   },
@@ -93,16 +49,8 @@
     "en": "no",
     "segments": [
       {
-        "kn": "ಇ",
-        "tr": "i"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲ",
-        "tr": "la"
+        "kn": "ಇಲ್ಲ",
+        "tr": "ilala"
       }
     ]
   },
@@ -123,16 +71,8 @@
     "en": "father",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಪ",
-        "tr": "pa"
+        "kn": "ಅಪ್ಪ",
+        "tr": "apapa"
       }
     ]
   },
@@ -142,16 +82,8 @@
     "en": "mother",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಮ್",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಮ",
-        "tr": "ma"
+        "kn": "ಅಮ್ಮ",
+        "tr": "amama"
       }
     ]
   },
@@ -161,16 +93,8 @@
     "en": "elder brother",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣ",
-        "tr": "na"
+        "kn": "ಅಣ್ಣ",
+        "tr": "anana"
       }
     ]
   },
@@ -180,16 +104,8 @@
     "en": "elder sister",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಅಕ್ಕ",
+        "tr": "akaka"
       }
     ]
   },
@@ -199,12 +115,8 @@
     "en": "younger sister",
     "segments": [
       {
-        "kn": "ತಂ",
-        "tr": "tam"
-      },
-      {
-        "kn": "ಗಿ",
-        "tr": "gai"
+        "kn": "ತಂಗಿ",
+        "tr": "tamgai"
       }
     ]
   },
@@ -214,16 +126,8 @@
     "en": "younger brother",
     "segments": [
       {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಮ್",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಮ",
-        "tr": "ma"
+        "kn": "ತಮ್ಮ",
+        "tr": "tamama"
       }
     ]
   },
@@ -255,20 +159,8 @@
     "en": "children",
     "segments": [
       {
-        "kn": "ಮ",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಳು",
-        "tr": "lau"
+        "kn": "ಮಕ್ಕಳು",
+        "tr": "makakalau"
       }
     ]
   },
@@ -278,16 +170,8 @@
     "en": "grandfather",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಜ್",
-        "tr": "ja"
-      },
-      {
-        "kn": "ಜ",
-        "tr": "ja"
+        "kn": "ಅಜ್ಜ",
+        "tr": "ajaja"
       }
     ]
   },
@@ -297,16 +181,8 @@
     "en": "grandmother",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಜ್",
-        "tr": "ja"
-      },
-      {
-        "kn": "ಜಿ",
-        "tr": "jai"
+        "kn": "ಅಜ್ಜಿ",
+        "tr": "ajajai"
       }
     ]
   },
@@ -382,16 +258,8 @@
     "en": "rice",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ನ",
-        "tr": "na"
+        "kn": "ಅನ್ನ",
+        "tr": "anana"
       }
     ]
   },
@@ -401,16 +269,8 @@
     "en": "bread",
     "segments": [
       {
-        "kn": "ರೊ",
-        "tr": "rao"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಟಿ",
-        "tr": "tai"
+        "kn": "ರೊಟ್ಟಿ",
+        "tr": "raotatai"
       }
     ]
   },
@@ -420,12 +280,8 @@
     "en": "meat",
     "segments": [
       {
-        "kn": "ಮಾಂ",
-        "tr": "maaam"
-      },
-      {
-        "kn": "ಸ",
-        "tr": "sa"
+        "kn": "ಮಾಂಸ",
+        "tr": "maaamsa"
       }
     ]
   },
@@ -435,16 +291,8 @@
     "en": "fruit",
     "segments": [
       {
-        "kn": "ಹ",
-        "tr": "ha"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣು",
-        "tr": "nau"
+        "kn": "ಹಣ್ಣು",
+        "tr": "hananau"
       }
     ]
   },
@@ -531,16 +379,8 @@
     "en": "eye",
     "segments": [
       {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣು",
-        "tr": "nau"
+        "kn": "ಕಣ್ಣು",
+        "tr": "kananau"
       }
     ]
   },
@@ -583,16 +423,8 @@
     "en": "tooth",
     "segments": [
       {
-        "kn": "ಹ",
-        "tr": "ha"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲು",
-        "tr": "lau"
+        "kn": "ಹಲ್ಲು",
+        "tr": "halalau"
       }
     ]
   },
@@ -624,16 +456,8 @@
     "en": "black",
     "segments": [
       {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಪು",
-        "tr": "pau"
+        "kn": "ಕಪ್ಪು",
+        "tr": "kapapau"
       }
     ]
   },
@@ -643,12 +467,8 @@
     "en": "red",
     "segments": [
       {
-        "kn": "ಕೆಂ",
-        "tr": "kaem"
-      },
-      {
-        "kn": "ಪು",
-        "tr": "pau"
+        "kn": "ಕೆಂಪು",
+        "tr": "kaempau"
       }
     ]
   },
@@ -691,12 +511,8 @@
     "en": "brown",
     "segments": [
       {
-        "kn": "ಕಂ",
-        "tr": "kam"
-      },
-      {
-        "kn": "ದು",
-        "tr": "dau"
+        "kn": "ಕಂದು",
+        "tr": "kamdau"
       }
     ]
   },
@@ -706,12 +522,8 @@
     "en": "one",
     "segments": [
       {
-        "kn": "ಒಂ",
-        "tr": "om"
-      },
-      {
-        "kn": "ದು",
-        "tr": "dau"
+        "kn": "ಒಂದು",
+        "tr": "omdau"
       }
     ]
   },
@@ -743,16 +555,8 @@
     "en": "four",
     "segments": [
       {
-        "kn": "ನಾ",
-        "tr": "naaa"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಕು",
-        "tr": "kau"
+        "kn": "ನಾಲ್ಕು",
+        "tr": "naaalakau"
       }
     ]
   },
@@ -795,12 +599,8 @@
     "en": "eight",
     "segments": [
       {
-        "kn": "ಎಂ",
-        "tr": "em"
-      },
-      {
-        "kn": "ಟು",
-        "tr": "tau"
+        "kn": "ಎಂಟು",
+        "tr": "emtau"
       }
     ]
   },
@@ -810,20 +610,8 @@
     "en": "nine",
     "segments": [
       {
-        "kn": "ಒಂ",
-        "tr": "om"
-      },
-      {
-        "kn": "ಬ",
-        "tr": "ba"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ತು",
-        "tr": "tau"
+        "kn": "ಒಂಬತ್ತು",
+        "tr": "ombatatau"
       }
     ]
   },
@@ -833,16 +621,8 @@
     "en": "ten",
     "segments": [
       {
-        "kn": "ಹ",
-        "tr": "ha"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ತು",
-        "tr": "tau"
+        "kn": "ಹತ್ತು",
+        "tr": "hatatau"
       }
     ]
   },
@@ -896,16 +676,8 @@
     "en": "night",
     "segments": [
       {
-        "kn": "ರಾ",
-        "tr": "raaa"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರಿ",
-        "tr": "rai"
+        "kn": "ರಾತ್ರಿ",
+        "tr": "raaatarai"
       }
     ]
   },
@@ -915,20 +687,8 @@
     "en": "morning",
     "segments": [
       {
-        "kn": "ಬೆ",
-        "tr": "bae"
-      },
-      {
-        "kn": "ಳಿ",
-        "tr": "lai"
-      },
-      {
-        "kn": "ಗ್",
-        "tr": "ga"
-      },
-      {
-        "kn": "ಗೆ",
-        "tr": "gae"
+        "kn": "ಬೆಳಿಗ್ಗೆ",
+        "tr": "baelaigagae"
       }
     ]
   },
@@ -938,24 +698,8 @@
     "en": "afternoon",
     "segments": [
       {
-        "kn": "ಮ",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಧ್",
-        "tr": "dha"
-      },
-      {
-        "kn": "ಯಾ",
-        "tr": "yaaa"
-      },
-      {
-        "kn": "ಹ್",
-        "tr": "ha"
-      },
-      {
-        "kn": "ನ",
-        "tr": "na"
+        "kn": "ಮಧ್ಯಾಹ್ನ",
+        "tr": "madhayaaahana"
       }
     ]
   },
@@ -965,12 +709,8 @@
     "en": "evening",
     "segments": [
       {
-        "kn": "ಸಂ",
-        "tr": "sam"
-      },
-      {
-        "kn": "ಜೆ",
-        "tr": "jae"
+        "kn": "ಸಂಜೆ",
+        "tr": "samjae"
       }
     ]
   },
@@ -991,16 +731,8 @@
     "en": "month",
     "segments": [
       {
-        "kn": "ತಿಂ",
-        "tr": "taim"
-      },
-      {
-        "kn": "ಗ",
-        "tr": "ga"
-      },
-      {
-        "kn": "ಳು",
-        "tr": "lau"
+        "kn": "ತಿಂಗಳು",
+        "tr": "taimgalau"
       }
     ]
   },
@@ -1010,16 +742,8 @@
     "en": "year",
     "segments": [
       {
-        "kn": "ವ",
-        "tr": "va"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಷ",
-        "tr": "sha"
+        "kn": "ವರ್ಷ",
+        "tr": "varasha"
       }
     ]
   },
@@ -1051,16 +775,8 @@
     "en": "eat",
     "segments": [
       {
-        "kn": "ತಿ",
-        "tr": "tai"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ನು",
-        "tr": "nau"
+        "kn": "ತಿನ್ನು",
+        "tr": "tainanau"
       }
     ]
   },
@@ -1147,20 +863,8 @@
     "en": "wake up",
     "segments": [
       {
-        "kn": "ಎ",
-        "tr": "e"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ದೇ",
-        "tr": "daee"
-      },
-      {
-        "kn": "ಳು",
-        "tr": "lau"
+        "kn": "ಎದ್ದೇಳು",
+        "tr": "edadaeelau"
       }
     ]
   },
@@ -1225,28 +929,8 @@
     "en": "take",
     "segments": [
       {
-        "kn": "ತೆ",
-        "tr": "tae"
-      },
-      {
-        "kn": "ಗೆ",
-        "tr": "gae"
-      },
-      {
-        "kn": "ದು",
-        "tr": "dau"
-      },
-      {
-        "kn": "ಕೊ",
-        "tr": "kao"
-      },
-      {
-        "kn": "ಳ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಳು",
-        "tr": "lau"
+        "kn": "ತೆಗೆದುಕೊಳ್ಳು",
+        "tr": "taegaedaukaolalau"
       }
     ]
   },
@@ -1256,16 +940,8 @@
     "en": "small",
     "segments": [
       {
-        "kn": "ಚಿ",
-        "tr": "chai"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಚಿಕ್ಕ",
+        "tr": "chaikaka"
       }
     ]
   },
@@ -1275,16 +951,8 @@
     "en": "big",
     "segments": [
       {
-        "kn": "ದೊ",
-        "tr": "dao"
-      },
-      {
-        "kn": "ಡ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ಡ",
-        "tr": "da"
+        "kn": "ದೊಡ್ಡ",
+        "tr": "daodada"
       }
     ]
   },
@@ -1316,16 +984,8 @@
     "en": "beautiful",
     "segments": [
       {
-        "kn": "ಸುಂ",
-        "tr": "saum"
-      },
-      {
-        "kn": "ದ",
-        "tr": "da"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಸುಂದರ",
+        "tr": "saumdara"
       }
     ]
   },
@@ -1335,20 +995,8 @@
     "en": "good",
     "segments": [
       {
-        "kn": "ಒ",
-        "tr": "o"
-      },
-      {
-        "kn": "ಳ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಳೆ",
-        "tr": "lae"
-      },
-      {
-        "kn": "ಯ",
-        "tr": "ya"
+        "kn": "ಒಳ್ಳೆಯ",
+        "tr": "olalaeya"
       }
     ]
   },
@@ -1358,16 +1006,8 @@
     "en": "bad",
     "segments": [
       {
-        "kn": "ಕೆ",
-        "tr": "kae"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಟ",
-        "tr": "ta"
+        "kn": "ಕೆಟ್ಟ",
+        "tr": "kaetata"
       }
     ]
   },
@@ -1388,20 +1028,8 @@
     "en": "cold",
     "segments": [
       {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣ",
-        "tr": "na"
-      },
-      {
-        "kn": "ಗೆ",
-        "tr": "gae"
+        "kn": "ತಣ್ಣಗೆ",
+        "tr": "tananagae"
       }
     ]
   },
@@ -1411,20 +1039,8 @@
     "en": "tall",
     "segments": [
       {
-        "kn": "ಎ",
-        "tr": "e"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಎತ್ತರ",
+        "tr": "etatara"
       }
     ]
   },
@@ -1445,16 +1061,8 @@
     "en": "sun",
     "segments": [
       {
-        "kn": "ಸೂ",
-        "tr": "sauu"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಯ",
-        "tr": "ya"
+        "kn": "ಸೂರ್ಯ",
+        "tr": "sauuraya"
       }
     ]
   },
@@ -1464,16 +1072,8 @@
     "en": "moon",
     "segments": [
       {
-        "kn": "ಚಂ",
-        "tr": "cham"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಚಂದ್ರ",
+        "tr": "chamdara"
       }
     ]
   },
@@ -1483,24 +1083,8 @@
     "en": "star",
     "segments": [
       {
-        "kn": "ನ",
-        "tr": "na"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಷ",
-        "tr": "sha"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ನಕ್ಷತ್ರ",
+        "tr": "nakashatara"
       }
     ]
   },
@@ -1554,12 +1138,8 @@
     "en": "fog",
     "segments": [
       {
-        "kn": "ಮಂ",
-        "tr": "mam"
-      },
-      {
-        "kn": "ಜು",
-        "tr": "jau"
+        "kn": "ಮಂಜು",
+        "tr": "mamjau"
       }
     ]
   },
@@ -1569,12 +1149,8 @@
     "en": "fire",
     "segments": [
       {
-        "kn": "ಬೆಂ",
-        "tr": "baem"
-      },
-      {
-        "kn": "ಕಿ",
-        "tr": "kai"
+        "kn": "ಬೆಂಕಿ",
+        "tr": "baemkai"
       }
     ]
   },
@@ -1584,16 +1160,8 @@
     "en": "soil",
     "segments": [
       {
-        "kn": "ಮ",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣು",
-        "tr": "nau"
+        "kn": "ಮಣ್ಣು",
+        "tr": "mananau"
       }
     ]
   },
@@ -1603,16 +1171,8 @@
     "en": "stone",
     "segments": [
       {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲು",
-        "tr": "lau"
+        "kn": "ಕಲ್ಲು",
+        "tr": "kalalau"
       }
     ]
   },
@@ -1633,20 +1193,8 @@
     "en": "ocean",
     "segments": [
       {
-        "kn": "ಸ",
-        "tr": "sa"
-      },
-      {
-        "kn": "ಮು",
-        "tr": "mau"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಸಮುದ್ರ",
+        "tr": "samaudara"
       }
     ]
   },
@@ -1656,20 +1204,8 @@
     "en": "mountain",
     "segments": [
       {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ವ",
-        "tr": "va"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
+        "kn": "ಪರ್ವತ",
+        "tr": "paravata"
       }
     ]
   },
@@ -1690,12 +1226,8 @@
     "en": "lion",
     "segments": [
       {
-        "kn": "ಸಿಂ",
-        "tr": "saim"
-      },
-      {
-        "kn": "ಹ",
-        "tr": "ha"
+        "kn": "ಸಿಂಹ",
+        "tr": "saimha"
       }
     ]
   },
@@ -1727,16 +1259,8 @@
     "en": "cat",
     "segments": [
       {
-        "kn": "ಬೆ",
-        "tr": "bae"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕು",
-        "tr": "kau"
+        "kn": "ಬೆಕ್ಕು",
+        "tr": "baekakau"
       }
     ]
   },
@@ -1768,16 +1292,8 @@
     "en": "buffalo",
     "segments": [
       {
-        "kn": "ಎ",
-        "tr": "e"
-      },
-      {
-        "kn": "ಮ್",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಮೆ",
-        "tr": "mae"
+        "kn": "ಎಮ್ಮೆ",
+        "tr": "emamae"
       }
     ]
   },
@@ -1820,12 +1336,8 @@
     "en": "pig",
     "segments": [
       {
-        "kn": "ಹಂ",
-        "tr": "ham"
-      },
-      {
-        "kn": "ದಿ",
-        "tr": "dai"
+        "kn": "ಹಂದಿ",
+        "tr": "hamdai"
       }
     ]
   },
@@ -1835,16 +1347,8 @@
     "en": "bird",
     "segments": [
       {
-        "kn": "ಹ",
-        "tr": "ha"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕಿ",
-        "tr": "kai"
+        "kn": "ಹಕ್ಕಿ",
+        "tr": "hakakai"
       }
     ]
   },
@@ -1876,20 +1380,8 @@
     "en": "town",
     "segments": [
       {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಟ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಣ",
-        "tr": "na"
+        "kn": "ಪಟ್ಟಣ",
+        "tr": "patatana"
       }
     ]
   },
@@ -1910,24 +1402,8 @@
     "en": "market",
     "segments": [
       {
-        "kn": "ಮಾ",
-        "tr": "maaa"
-      },
-      {
-        "kn": "ರು",
-        "tr": "rau"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಟೆ",
-        "tr": "tae"
+        "kn": "ಮಾರುಕಟ್ಟೆ",
+        "tr": "maaaraukatatae"
       }
     ]
   },
@@ -1948,24 +1424,8 @@
     "en": "hospital",
     "segments": [
       {
-        "kn": "ಆ",
-        "tr": "aa"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
-      },
-      {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರೆ",
-        "tr": "rae"
+        "kn": "ಆಸ್ಪತ್ರೆ",
+        "tr": "aasapatarae"
       }
     ]
   },
@@ -1986,16 +1446,8 @@
     "en": "church",
     "segments": [
       {
-        "kn": "ಚ",
-        "tr": "cha"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಚ್",
-        "tr": "cha"
+        "kn": "ಚರ್ಚ್",
+        "tr": "characha"
       }
     ]
   },
@@ -2016,16 +1468,8 @@
     "en": "bank",
     "segments": [
       {
-        "kn": "ಬ್",
-        "tr": "ba"
-      },
-      {
-        "kn": "ಯಾಂ",
-        "tr": "yaaam"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
+        "kn": "ಬ್ಯಾಂಕ್",
+        "tr": "bayaaamka"
       }
     ]
   },
@@ -2035,32 +1479,12 @@
     "en": "post office",
     "segments": [
       {
-        "kn": "ಪೋ",
-        "tr": "paoo"
+        "kn": "ಪೋಸ್ಟ್",
+        "tr": "paoosata"
       },
       {
-        "kn": "ಸ್",
-        "tr": "sa"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ಆ",
-        "tr": "aa"
-      },
-      {
-        "kn": "ಫೀ",
-        "tr": "phaii"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
+        "kn": "ಆಫೀಸ್",
+        "tr": "aaphaiisa"
       }
     ]
   },
@@ -2070,36 +1494,12 @@
     "en": "railway station",
     "segments": [
       {
-        "kn": "ರೈ",
-        "tr": "raai"
+        "kn": "ರೈಲ್ವೆ",
+        "tr": "raailavae"
       },
       {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ವೆ",
-        "tr": "vae"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ನಿ",
-        "tr": "nai"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ದಾ",
-        "tr": "daaa"
-      },
-      {
-        "kn": "ಣ",
-        "tr": "na"
+        "kn": "ನಿಲ್ದಾಣ",
+        "tr": "nailadaaana"
       }
     ]
   },
@@ -2109,32 +1509,12 @@
     "en": "bus station",
     "segments": [
       {
-        "kn": "ಬ",
-        "tr": "ba"
+        "kn": "ಬಸ್",
+        "tr": "basa"
       },
       {
-        "kn": "ಸ್",
-        "tr": "sa"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ನಿ",
-        "tr": "nai"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ದಾ",
-        "tr": "daaa"
-      },
-      {
-        "kn": "ಣ",
-        "tr": "na"
+        "kn": "ನಿಲ್ದಾಣ",
+        "tr": "nailadaaana"
       }
     ]
   },
@@ -2144,24 +1524,8 @@
     "en": "how are you",
     "segments": [
       {
-        "kn": "ಹೇ",
-        "tr": "haee"
-      },
-      {
-        "kn": "ಗಿ",
-        "tr": "gai"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ದೀ",
-        "tr": "daii"
-      },
-      {
-        "kn": "ರಿ",
-        "tr": "rai"
+        "kn": "ಹೇಗಿದ್ದೀರಿ",
+        "tr": "haeegaidadaiirai"
       }
     ]
   },
@@ -2171,32 +1535,8 @@
     "en": "I am fine",
     "segments": [
       {
-        "kn": "ಚೆ",
-        "tr": "chae"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ನಾ",
-        "tr": "naaa"
-      },
-      {
-        "kn": "ಗಿ",
-        "tr": "gai"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ದೇ",
-        "tr": "daee"
-      },
-      {
-        "kn": "ನೆ",
-        "tr": "nae"
+        "kn": "ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+        "tr": "chaenanaaagaidadaeenae"
       }
     ]
   },
@@ -2206,24 +1546,8 @@
     "en": "I don't know",
     "segments": [
       {
-        "kn": "ಗೊ",
-        "tr": "gao"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ತಿ",
-        "tr": "tai"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲ",
-        "tr": "la"
+        "kn": "ಗೊತ್ತಿಲ್ಲ",
+        "tr": "gaotatailala"
       }
     ]
   },
@@ -2233,32 +1557,8 @@
     "en": "I don't understand",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಥ",
-        "tr": "tha"
-      },
-      {
-        "kn": "ವಾ",
-        "tr": "vaaa"
-      },
-      {
-        "kn": "ಗಿ",
-        "tr": "gai"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲ",
-        "tr": "la"
+        "kn": "ಅರ್ಥವಾಗಿಲ್ಲ",
+        "tr": "arathavaaagailala"
       }
     ]
   },
@@ -2283,32 +1583,12 @@
     "en": "my name is",
     "segments": [
       {
-        "kn": "ನ",
-        "tr": "na"
+        "kn": "ನನ್ನ",
+        "tr": "nanana"
       },
       {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ನ",
-        "tr": "na"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ಹೆ",
-        "tr": "hae"
-      },
-      {
-        "kn": "ಸ",
-        "tr": "sa"
-      },
-      {
-        "kn": "ರು",
-        "tr": "rau"
+        "kn": "ಹೆಸರು",
+        "tr": "haesarau"
       }
     ]
   },
@@ -2318,28 +1598,12 @@
     "en": "how much price",
     "segments": [
       {
-        "kn": "ಎ",
-        "tr": "e"
+        "kn": "ಎಷ್ಟು",
+        "tr": "eshatau"
       },
       {
-        "kn": "ಷ್",
-        "tr": "sha"
-      },
-      {
-        "kn": "ಟು",
-        "tr": "tau"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ಬೆ",
-        "tr": "bae"
-      },
-      {
-        "kn": "ಲೆ",
-        "tr": "lae"
+        "kn": "ಬೆಲೆ",
+        "tr": "baelae"
       }
     ]
   },
@@ -2349,20 +1613,8 @@
     "en": "where is",
     "segments": [
       {
-        "kn": "ಎ",
-        "tr": "e"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲಿ",
-        "tr": "lai"
-      },
-      {
-        "kn": "ದೆ",
-        "tr": "dae"
+        "kn": "ಎಲ್ಲಿದೆ",
+        "tr": "elalaidae"
       }
     ]
   },
@@ -2416,20 +1668,8 @@
     "en": "book",
     "segments": [
       {
-        "kn": "ಪು",
-        "tr": "pau"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಪುಸ್ತಕ",
+        "tr": "pausataka"
       }
     ]
   },
@@ -2450,24 +1690,8 @@
     "en": "student",
     "segments": [
       {
-        "kn": "ವಿ",
-        "tr": "vai"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ಯಾ",
-        "tr": "yaaa"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಥಿ",
-        "tr": "thai"
+        "kn": "ವಿದ್ಯಾರ್ಥಿ",
+        "tr": "vaidayaaarathai"
       }
     ]
   },
@@ -2477,20 +1701,8 @@
     "en": "teacher",
     "segments": [
       {
-        "kn": "ಶಿ",
-        "tr": "shai"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಷ",
-        "tr": "sha"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಶಿಕ್ಷಕ",
+        "tr": "shaikashaka"
       }
     ]
   },
@@ -2511,20 +1723,8 @@
     "en": "examination",
     "segments": [
       {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ರೀ",
-        "tr": "raii"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಷೆ",
-        "tr": "shae"
+        "kn": "ಪರೀಕ್ಷೆ",
+        "tr": "paraiikashae"
       }
     ]
   },
@@ -2534,20 +1734,8 @@
     "en": "question",
     "segments": [
       {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಶ್",
-        "tr": "sha"
-      },
-      {
-        "kn": "ನೆ",
-        "tr": "nae"
+        "kn": "ಪ್ರಶ್ನೆ",
+        "tr": "parashanae"
       }
     ]
   },
@@ -2557,20 +1745,8 @@
     "en": "answer",
     "segments": [
       {
-        "kn": "ಉ",
-        "tr": "u"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಉತ್ತರ",
+        "tr": "utatara"
       }
     ]
   },
@@ -2580,16 +1756,8 @@
     "en": "letter",
     "segments": [
       {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಪತ್ರ",
+        "tr": "patara"
       }
     ]
   },
@@ -2610,16 +1778,8 @@
     "en": "pen",
     "segments": [
       {
-        "kn": "ಪೆ",
-        "tr": "pae"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ನು",
-        "tr": "nau"
+        "kn": "ಪೆನ್ನು",
+        "tr": "paenanau"
       }
     ]
   },
@@ -2629,20 +1789,8 @@
     "en": "pencil",
     "segments": [
       {
-        "kn": "ಪೆ",
-        "tr": "pae"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಸಿ",
-        "tr": "sai"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
+        "kn": "ಪೆನ್ಸಿಲ್",
+        "tr": "paenasaila"
       }
     ]
   },
@@ -2652,16 +1800,8 @@
     "en": "rice",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕಿ",
-        "tr": "kai"
+        "kn": "ಅಕ್ಕಿ",
+        "tr": "akakai"
       }
     ]
   },
@@ -2671,16 +1811,8 @@
     "en": "rice ball",
     "segments": [
       {
-        "kn": "ಮು",
-        "tr": "mau"
-      },
-      {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ದೆ",
-        "tr": "dae"
+        "kn": "ಮುದ್ದೆ",
+        "tr": "maudadae"
       }
     ]
   },
@@ -2701,16 +1833,8 @@
     "en": "sambar",
     "segments": [
       {
-        "kn": "ಸಾಂ",
-        "tr": "saaam"
-      },
-      {
-        "kn": "ಬಾ",
-        "tr": "baaa"
-      },
-      {
-        "kn": "ರು",
-        "tr": "rau"
+        "kn": "ಸಾಂಬಾರು",
+        "tr": "saaambaaarau"
       }
     ]
   },
@@ -2731,20 +1855,8 @@
     "en": "appalam",
     "segments": [
       {
-        "kn": "ಅ",
-        "tr": "a"
-      },
-      {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಳ",
-        "tr": "la"
+        "kn": "ಅಪ್ಪಳ",
+        "tr": "apapala"
       }
     ]
   },
@@ -2754,16 +1866,8 @@
     "en": "idli",
     "segments": [
       {
-        "kn": "ಇ",
-        "tr": "i"
-      },
-      {
-        "kn": "ಡ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ಲಿ",
-        "tr": "lai"
+        "kn": "ಇಡ್ಲಿ",
+        "tr": "idalai"
       }
     ]
   },
@@ -2784,24 +1888,8 @@
     "en": "upma",
     "segments": [
       {
-        "kn": "ಉ",
-        "tr": "u"
-      },
-      {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಪಿ",
-        "tr": "pai"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಟು",
-        "tr": "tau"
+        "kn": "ಉಪ್ಪಿಟ್ಟು",
+        "tr": "upapaitatau"
       }
     ]
   },
@@ -2833,24 +1921,8 @@
     "en": "banana",
     "segments": [
       {
-        "kn": "ಬಾ",
-        "tr": "baaa"
-      },
-      {
-        "kn": "ಳೆ",
-        "tr": "lae"
-      },
-      {
-        "kn": "ಹ",
-        "tr": "ha"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣು",
-        "tr": "nau"
+        "kn": "ಬಾಳೆಹಣ್ಣು",
+        "tr": "baaalaehananau"
       }
     ]
   },
@@ -2871,32 +1943,12 @@
     "en": "mango",
     "segments": [
       {
-        "kn": "ಮಾ",
-        "tr": "maaa"
+        "kn": "ಮಾವಿನ",
+        "tr": "maaavaina"
       },
       {
-        "kn": "ವಿ",
-        "tr": "vai"
-      },
-      {
-        "kn": "ನ",
-        "tr": "na"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ಹ",
-        "tr": "ha"
-      },
-      {
-        "kn": "ಣ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ಣು",
-        "tr": "nau"
+        "kn": "ಹಣ್ಣು",
+        "tr": "hananau"
       }
     ]
   },
@@ -2917,20 +1969,8 @@
     "en": "grapes",
     "segments": [
       {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ರಾ",
-        "tr": "raaa"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಷಿ",
-        "tr": "shai"
+        "kn": "ದ್ರಾಕ್ಷಿ",
+        "tr": "daraaakashai"
       }
     ]
   },
@@ -2951,20 +1991,8 @@
     "en": "salwar",
     "segments": [
       {
-        "kn": "ಸ",
-        "tr": "sa"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ವಾ",
-        "tr": "vaaa"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
+        "kn": "ಸಲ್ವಾರ್",
+        "tr": "salavaaara"
       }
     ]
   },
@@ -2974,16 +2002,8 @@
     "en": "shirt",
     "segments": [
       {
-        "kn": "ಶ",
-        "tr": "sha"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
+        "kn": "ಶರ್ಟ್",
+        "tr": "sharata"
       }
     ]
   },
@@ -2993,16 +2013,8 @@
     "en": "pant",
     "segments": [
       {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಯಾಂ",
-        "tr": "yaaam"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
+        "kn": "ಪ್ಯಾಂಟ್",
+        "tr": "payaaamta"
       }
     ]
   },
@@ -3012,20 +2024,8 @@
     "en": "sandal",
     "segments": [
       {
-        "kn": "ಚ",
-        "tr": "cha"
-      },
-      {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಲಿ",
-        "tr": "lai"
+        "kn": "ಚಪ್ಪಲಿ",
+        "tr": "chapapalai"
       }
     ]
   },
@@ -3057,12 +2057,8 @@
     "en": "suit",
     "segments": [
       {
-        "kn": "ಸೂ",
-        "tr": "sauu"
-      },
-      {
-        "kn": "ಟ್",
-        "tr": "ta"
+        "kn": "ಸೂಟ್",
+        "tr": "sauuta"
       }
     ]
   },
@@ -3072,16 +2068,8 @@
     "en": "happiness",
     "segments": [
       {
-        "kn": "ಸಂ",
-        "tr": "sam"
-      },
-      {
-        "kn": "ತೋ",
-        "tr": "taoo"
-      },
-      {
-        "kn": "ಷ",
-        "tr": "sha"
+        "kn": "ಸಂತೋಷ",
+        "tr": "samtaoosha"
       }
     ]
   },
@@ -3091,12 +2079,8 @@
     "en": "sadness",
     "segments": [
       {
-        "kn": "ದುಃ",
-        "tr": "dauh"
-      },
-      {
-        "kn": "ಖ",
-        "tr": "kha"
+        "kn": "ದುಃಖ",
+        "tr": "dauhkha"
       }
     ]
   },
@@ -3128,16 +2112,8 @@
     "en": "love",
     "segments": [
       {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ರೀ",
-        "tr": "raii"
-      },
-      {
-        "kn": "ತಿ",
-        "tr": "tai"
+        "kn": "ಪ್ರೀತಿ",
+        "tr": "paraiitai"
       }
     ]
   },
@@ -3147,16 +2123,8 @@
     "en": "hatred",
     "segments": [
       {
-        "kn": "ದ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ವೇ",
-        "tr": "vaee"
-      },
-      {
-        "kn": "ಷ",
-        "tr": "sha"
+        "kn": "ದ್ವೇಷ",
+        "tr": "davaeesha"
       }
     ]
   },
@@ -3166,24 +2134,8 @@
     "en": "surprise",
     "segments": [
       {
-        "kn": "ಆ",
-        "tr": "aa"
-      },
-      {
-        "kn": "ಶ್",
-        "tr": "sha"
-      },
-      {
-        "kn": "ಚ",
-        "tr": "cha"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಯ",
-        "tr": "ya"
+        "kn": "ಆಶ್ಚರ್ಯ",
+        "tr": "aashacharaya"
       }
     ]
   },
@@ -3193,12 +2145,8 @@
     "en": "worry",
     "segments": [
       {
-        "kn": "ಚಿಂ",
-        "tr": "chaim"
-      },
-      {
-        "kn": "ತೆ",
-        "tr": "tae"
+        "kn": "ಚಿಂತೆ",
+        "tr": "chaimtae"
       }
     ]
   },
@@ -3208,16 +2156,8 @@
     "en": "anxiety",
     "segments": [
       {
-        "kn": "ಆ",
-        "tr": "aa"
-      },
-      {
-        "kn": "ತಂ",
-        "tr": "tam"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಆತಂಕ",
+        "tr": "aatamka"
       }
     ]
   },
@@ -3249,16 +2189,8 @@
     "en": "chair",
     "segments": [
       {
-        "kn": "ಕು",
-        "tr": "kau"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಚಿ",
-        "tr": "chai"
+        "kn": "ಕುರ್ಚಿ",
+        "tr": "kaurachai"
       }
     ]
   },
@@ -3290,20 +2222,8 @@
     "en": "book",
     "segments": [
       {
-        "kn": "ಪು",
-        "tr": "pau"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಪುಸ್ತಕ",
+        "tr": "pausataka"
       }
     ]
   },
@@ -3313,20 +2233,8 @@
     "en": "telephone",
     "segments": [
       {
-        "kn": "ಟೆ",
-        "tr": "tae"
-      },
-      {
-        "kn": "ಲಿ",
-        "tr": "lai"
-      },
-      {
-        "kn": "ಫೋ",
-        "tr": "phaoo"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
+        "kn": "ಟೆಲಿಫೋನ್",
+        "tr": "taelaiphaoona"
       }
     ]
   },
@@ -3380,28 +2288,12 @@
     "en": "toothbrush",
     "segments": [
       {
-        "kn": "ಟೂ",
-        "tr": "tauu"
+        "kn": "ಟೂತ್",
+        "tr": "tauuta"
       },
       {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ಬ್",
-        "tr": "ba"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಷ್",
-        "tr": "sha"
+        "kn": "ಬ್ರಷ್",
+        "tr": "barasha"
       }
     ]
   },
@@ -3411,16 +2303,8 @@
     "en": "towel",
     "segments": [
       {
-        "kn": "ಟ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ವೆ",
-        "tr": "vae"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
+        "kn": "ಟವೆಲ್",
+        "tr": "tavaela"
       }
     ]
   },
@@ -3441,12 +2325,8 @@
     "en": "bus",
     "segments": [
       {
-        "kn": "ಬ",
-        "tr": "ba"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
+        "kn": "ಬಸ್",
+        "tr": "basa"
       }
     ]
   },
@@ -3489,16 +2369,8 @@
     "en": "bicycle",
     "segments": [
       {
-        "kn": "ಸೈ",
-        "tr": "saai"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
+        "kn": "ಸೈಕಲ್",
+        "tr": "saaikala"
       }
     ]
   },
@@ -3508,32 +2380,12 @@
     "en": "motorcycle",
     "segments": [
       {
-        "kn": "ಮೋ",
-        "tr": "maoo"
+        "kn": "ಮೋಟಾರ್",
+        "tr": "maootaaara"
       },
       {
-        "kn": "ಟಾ",
-        "tr": "taaa"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": " ",
-        "tr": " "
-      },
-      {
-        "kn": "ಸೈ",
-        "tr": "saai"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
+        "kn": "ಸೈಕಲ್",
+        "tr": "saaikala"
       }
     ]
   },
@@ -3554,16 +2406,8 @@
     "en": "truck",
     "segments": [
       {
-        "kn": "ಟ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
+        "kn": "ಟ್ರಕ್",
+        "tr": "taraka"
       }
     ]
   },
@@ -3573,20 +2417,8 @@
     "en": "doctor",
     "segments": [
       {
-        "kn": "ಡಾ",
-        "tr": "daaa"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಟ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
+        "kn": "ಡಾಕ್ಟರ್",
+        "tr": "daaakatara"
       }
     ]
   },
@@ -3596,16 +2428,8 @@
     "en": "nurse",
     "segments": [
       {
-        "kn": "ನ",
-        "tr": "na"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
+        "kn": "ನರ್ಸ್",
+        "tr": "narasa"
       }
     ]
   },
@@ -3615,24 +2439,8 @@
     "en": "engineer",
     "segments": [
       {
-        "kn": "ಇಂ",
-        "tr": "im"
-      },
-      {
-        "kn": "ಜಿ",
-        "tr": "jai"
-      },
-      {
-        "kn": "ನಿ",
-        "tr": "nai"
-      },
-      {
-        "kn": "ಯ",
-        "tr": "ya"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
+        "kn": "ಇಂಜಿನಿಯರ್",
+        "tr": "imjainaiyara"
       }
     ]
   },
@@ -3653,16 +2461,8 @@
     "en": "police",
     "segments": [
       {
-        "kn": "ಪೋ",
-        "tr": "paoo"
-      },
-      {
-        "kn": "ಲೀ",
-        "tr": "laii"
-      },
-      {
-        "kn": "ಸ್",
-        "tr": "sa"
+        "kn": "ಪೋಲೀಸ್",
+        "tr": "paoolaiisa"
       }
     ]
   },
@@ -3683,20 +2483,8 @@
     "en": "worker",
     "segments": [
       {
-        "kn": "ಕಾ",
-        "tr": "kaaa"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ಮಿ",
-        "tr": "mai"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
+        "kn": "ಕಾರ್ಮಿಕ",
+        "tr": "kaaaramaika"
       }
     ]
   },
@@ -3761,12 +2549,8 @@
     "en": "fog",
     "segments": [
       {
-        "kn": "ಮಂ",
-        "tr": "mam"
-      },
-      {
-        "kn": "ಜು",
-        "tr": "jau"
+        "kn": "ಮಂಜು",
+        "tr": "mamjau"
       }
     ]
   },
@@ -3776,24 +2560,8 @@
     "en": "ice",
     "segments": [
       {
-        "kn": "ಮಂ",
-        "tr": "mam"
-      },
-      {
-        "kn": "ಜು",
-        "tr": "jau"
-      },
-      {
-        "kn": "ಗ",
-        "tr": "ga"
-      },
-      {
-        "kn": "ಡ್",
-        "tr": "da"
-      },
-      {
-        "kn": "ಡೆ",
-        "tr": "dae"
+        "kn": "ಮಂಜುಗಡ್ಡೆ",
+        "tr": "mamjaugadadae"
       }
     ]
   },
@@ -3803,24 +2571,8 @@
     "en": "hail",
     "segments": [
       {
-        "kn": "ಆ",
-        "tr": "aa"
-      },
-      {
-        "kn": "ಲಿ",
-        "tr": "lai"
-      },
-      {
-        "kn": "ಕ",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಲ್",
-        "tr": "la"
-      },
-      {
-        "kn": "ಲು",
-        "tr": "lau"
+        "kn": "ಆಲಿಕಲ್ಲು",
+        "tr": "aalaikalalau"
       }
     ]
   },
@@ -3830,12 +2582,8 @@
     "en": "lightning",
     "segments": [
       {
-        "kn": "ಮಿಂ",
-        "tr": "maim"
-      },
-      {
-        "kn": "ಚು",
-        "tr": "chau"
+        "kn": "ಮಿಂಚು",
+        "tr": "maimchau"
       }
     ]
   },
@@ -3856,24 +2604,8 @@
     "en": "storm",
     "segments": [
       {
-        "kn": "ಚಂ",
-        "tr": "cham"
-      },
-      {
-        "kn": "ಡ",
-        "tr": "da"
-      },
-      {
-        "kn": "ಮಾ",
-        "tr": "maaa"
-      },
-      {
-        "kn": "ರು",
-        "tr": "rau"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
+        "kn": "ಚಂಡಮಾರುತ",
+        "tr": "chamdamaaarauta"
       }
     ]
   },
@@ -3894,20 +2626,8 @@
     "en": "north",
     "segments": [
       {
-        "kn": "ಉ",
-        "tr": "u"
-      },
-      {
-        "kn": "ತ್",
-        "tr": "ta"
-      },
-      {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ರ",
-        "tr": "ra"
+        "kn": "ಉತ್ತರ",
+        "tr": "utatara"
       }
     ]
   },
@@ -3917,20 +2637,8 @@
     "en": "south",
     "segments": [
       {
-        "kn": "ದ",
-        "tr": "da"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಷಿ",
-        "tr": "shai"
-      },
-      {
-        "kn": "ಣ",
-        "tr": "na"
+        "kn": "ದಕ್ಷಿಣ",
+        "tr": "dakashaina"
       }
     ]
   },
@@ -3940,16 +2648,8 @@
     "en": "east",
     "segments": [
       {
-        "kn": "ಪೂ",
-        "tr": "pauu"
-      },
-      {
-        "kn": "ರ್",
-        "tr": "ra"
-      },
-      {
-        "kn": "ವ",
-        "tr": "va"
+        "kn": "ಪೂರ್ವ",
+        "tr": "pauurava"
       }
     ]
   },
@@ -3959,20 +2659,8 @@
     "en": "west",
     "segments": [
       {
-        "kn": "ಪ",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಶ್",
-        "tr": "sha"
-      },
-      {
-        "kn": "ಚಿ",
-        "tr": "chai"
-      },
-      {
-        "kn": "ಮ",
-        "tr": "ma"
+        "kn": "ಪಶ್ಚಿಮ",
+        "tr": "pashachaima"
       }
     ]
   },
@@ -4004,12 +2692,8 @@
     "en": "front",
     "segments": [
       {
-        "kn": "ಮುಂ",
-        "tr": "maum"
-      },
-      {
-        "kn": "ದೆ",
-        "tr": "dae"
+        "kn": "ಮುಂದೆ",
+        "tr": "maumdae"
       }
     ]
   },
@@ -4019,12 +2703,8 @@
     "en": "behind",
     "segments": [
       {
-        "kn": "ಹಿಂ",
-        "tr": "haim"
-      },
-      {
-        "kn": "ದೆ",
-        "tr": "dae"
+        "kn": "ಹಿಂದೆ",
+        "tr": "haimdae"
       }
     ]
   },
@@ -4034,20 +2714,8 @@
     "en": "right",
     "segments": [
       {
-        "kn": "ಬ",
-        "tr": "ba"
-      },
-      {
-        "kn": "ಲ",
-        "tr": "la"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕೆ",
-        "tr": "kae"
+        "kn": "ಬಲಕ್ಕೆ",
+        "tr": "balakakae"
       }
     ]
   },
@@ -4057,20 +2725,8 @@
     "en": "left",
     "segments": [
       {
-        "kn": "ಎ",
-        "tr": "e"
-      },
-      {
-        "kn": "ಡ",
-        "tr": "da"
-      },
-      {
-        "kn": "ಕ್",
-        "tr": "ka"
-      },
-      {
-        "kn": "ಕೆ",
-        "tr": "kae"
+        "kn": "ಎಡಕ್ಕೆ",
+        "tr": "edakakae"
       }
     ]
   },
@@ -4080,12 +2736,8 @@
     "en": "today",
     "segments": [
       {
-        "kn": "ಇಂ",
-        "tr": "im"
-      },
-      {
-        "kn": "ದು",
-        "tr": "dau"
+        "kn": "ಇಂದು",
+        "tr": "imdau"
       }
     ]
   },
@@ -4106,16 +2758,8 @@
     "en": "yesterday",
     "segments": [
       {
-        "kn": "ನಿ",
-        "tr": "nai"
-      },
-      {
-        "kn": "ನ್",
-        "tr": "na"
-      },
-      {
-        "kn": "ನೆ",
-        "tr": "nae"
+        "kn": "ನಿನ್ನೆ",
+        "tr": "nainanae"
       }
     ]
   },
@@ -4136,12 +2780,8 @@
     "en": "later",
     "segments": [
       {
-        "kn": "ಮುಂ",
-        "tr": "maum"
-      },
-      {
-        "kn": "ದೆ",
-        "tr": "dae"
+        "kn": "ಮುಂದೆ",
+        "tr": "maumdae"
       }
     ]
   },
@@ -4162,16 +2802,8 @@
     "en": "never",
     "segments": [
       {
-        "kn": "ಎಂ",
-        "tr": "em"
-      },
-      {
-        "kn": "ದಿ",
-        "tr": "dai"
-      },
-      {
-        "kn": "ಗೂ",
-        "tr": "gauu"
+        "kn": "ಎಂದಿಗೂ",
+        "tr": "emdaigauu"
       }
     ]
   },
@@ -4181,24 +2813,8 @@
     "en": "sometimes",
     "segments": [
       {
-        "kn": "ಕೆ",
-        "tr": "kae"
-      },
-      {
-        "kn": "ಲ",
-        "tr": "la"
-      },
-      {
-        "kn": "ವೊ",
-        "tr": "vao"
-      },
-      {
-        "kn": "ಮ್",
-        "tr": "ma"
-      },
-      {
-        "kn": "ಮೆ",
-        "tr": "mae"
+        "kn": "ಕೆಲವೊಮ್ಮೆ",
+        "tr": "kaelavaomamae"
       }
     ]
   },
@@ -4252,20 +2868,8 @@
     "en": "wrongly",
     "segments": [
       {
-        "kn": "ತ",
-        "tr": "ta"
-      },
-      {
-        "kn": "ಪ್",
-        "tr": "pa"
-      },
-      {
-        "kn": "ಪಾ",
-        "tr": "paaa"
-      },
-      {
-        "kn": "ಗಿ",
-        "tr": "gai"
+        "kn": "ತಪ್ಪಾಗಿ",
+        "tr": "tapapaaagai"
       }
     ]
   }
