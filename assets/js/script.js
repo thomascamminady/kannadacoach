@@ -9,10 +9,18 @@ let incorrectAttempts = 0;
 async function loadDictionary() {
     try {
         const response = await fetch("data/dictionary.json");
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
         words = await response.json();
+        if (!words || words.length === 0) {
+            throw new Error("Dictionary is empty or invalid");
+        }
         loadNewWord();
     } catch (error) {
         console.error("Error loading dictionary:", error);
+        document.getElementById("kannada-word").innerHTML = 
+            '<div style="color: var(--incorrect-color); text-align: center; padding: 20px;">Failed to load dictionary. Please refresh the page.</div>';
     }
 }
 
