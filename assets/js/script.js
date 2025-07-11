@@ -28,7 +28,10 @@ const elements = {
     themeText: null
 };
 
-// Initialize cached DOM elements
+/**
+ * Initialize cached DOM elements and set up event listeners
+ * Called once when the app loads to cache frequently accessed DOM elements
+ */
 function initializeDOMElements() {
     elements.loadingIndicator = document.getElementById('loading-indicator');
     elements.kannadaWord = document.getElementById('kannada-word');
@@ -44,7 +47,10 @@ function initializeDOMElements() {
     addEventListeners();
 }
 
-// Add event listeners
+/**
+ * Add event listeners for global keyboard shortcuts
+ * Handles modal closing with Escape key
+ */
 function addEventListeners() {
     // Close modal on Escape key
     document.addEventListener("keydown", function (event) {
@@ -60,7 +66,11 @@ function addEventListeners() {
     });
 }
 
-// Load dictionary from JSON file
+/**
+ * Load dictionary from JSON file with error handling and loading states
+ * Shows loading indicator while fetching and handles success/error cases
+ * @async
+ */
 async function loadDictionary() {
     try {
         // Show loading indicator
@@ -97,10 +107,18 @@ async function loadDictionary() {
     }
 }
 
+/**
+ * Get a random word from the dictionary
+ * @returns {Object} Random word object with segments and English meaning
+ */
 function getRandomWord() {
     return words[Math.floor(Math.random() * words.length)];
 }
 
+/**
+ * Load a new word and reset the game state
+ * Resets all tracking variables and updates the display
+ */
 function loadNewWord() {
     if (words.length === 0) return;
     currentWord = getRandomWord();
@@ -114,27 +132,47 @@ function loadNewWord() {
     updateKannadaDisplay();
 }
 
+/**
+ * Show the English meaning of the current word
+ * Displays the meaning with visual feedback
+ */
 function showMeaning() {
     elements.meaningDisplay.textContent = currentWord.en;
     elements.meaningDisplay.classList.add("show", "completed");
 }
 
+/**
+ * Hide the English meaning display
+ * Removes the meaning text and visual styling
+ */
 function hideMeaning() {
     elements.meaningDisplay.classList.remove("show", "completed");
     elements.meaningDisplay.textContent = "";
 }
 
+/**
+ * Show the transliteration hint for the current character
+ * Displays the expected answer after incorrect attempts
+ */
 function showHint() {
     const expectedSegment = currentWord.segments[currentCharIndex].tr;
     elements.hintDisplay.textContent = `Answer: ${expectedSegment}`;
     elements.hintDisplay.classList.add("show");
 }
 
+/**
+ * Hide the transliteration hint
+ * Removes the hint text and visual styling
+ */
 function hideHint() {
     elements.hintDisplay.classList.remove("show");
     elements.hintDisplay.textContent = "";
 }
 
+/**
+ * Move to the next character in the current word
+ * Resets attempts, clears input, and checks for word completion
+ */
 function moveToNextChar() {
     incorrectAttempts = 0;
     currentCharIndex++;
@@ -151,6 +189,11 @@ function moveToNextChar() {
     }
 }
 
+/**
+ * Handle keyboard input events
+ * Processes space, enter, and escape key presses
+ * @param {KeyboardEvent} event - The keyboard event object
+ */
 function handleKey(event) {
     if (event.key === " ") {
         event.preventDefault();
@@ -165,6 +208,10 @@ function handleKey(event) {
     }
 }
 
+/**
+ * Validate the current user input against the expected transliteration
+ * Handles correct/incorrect attempts and provides feedback
+ */
 function validateCurrentInput() {
     const currentSegment = elements.inputBox.value.trim();
 
@@ -206,6 +253,10 @@ function validateCurrentInput() {
     }
 }
 
+/**
+ * Update the Kannada word display with current progress
+ * Shows typed, current, and pending characters with appropriate styling
+ */
 function updateKannadaDisplay() {
     let kannadaHTML = "";
 
@@ -244,7 +295,10 @@ function updateKannadaDisplay() {
     elements.kannadaWord.innerHTML = kannadaHTML;
 }
 
-// Help modal functions
+/**
+ * Show the help modal with instructions
+ * Displays the modal and prevents background scrolling
+ */
 function showHelp() {
     elements.helpModal.style.display = "flex";
     elements.helpModal.classList.add("show");
@@ -252,13 +306,20 @@ function showHelp() {
     document.body.style.overflow = "hidden";
 }
 
+/**
+ * Hide the help modal
+ * Closes the modal and restores background scrolling
+ */
 function hideHelp() {
     elements.helpModal.style.display = "none";
     elements.helpModal.classList.remove("show");
     document.body.style.overflow = "auto";
 }
 
-// Alphabet modal functions
+/**
+ * Show the Kannada alphabet reference modal
+ * Displays the alphabet modal and prevents background scrolling
+ */
 function showAlphabet() {
     elements.alphabetModal.style.display = "flex";
     elements.alphabetModal.classList.add("show");
@@ -266,13 +327,20 @@ function showAlphabet() {
     document.body.style.overflow = "hidden";
 }
 
+/**
+ * Hide the alphabet reference modal
+ * Closes the modal and restores background scrolling
+ */
 function hideAlphabet() {
     elements.alphabetModal.style.display = "none";
     elements.alphabetModal.classList.remove("show");
     document.body.style.overflow = "auto";
 }
 
-// Theme toggle functionality
+/**
+ * Toggle between light and dark themes
+ * Switches theme, saves preference, and updates the UI
+ */
 function toggleTheme() {
     const currentTheme = document.documentElement.getAttribute("data-theme");
     const newTheme = currentTheme === "dark" ? "light" : "dark";
@@ -283,6 +351,11 @@ function toggleTheme() {
     updateThemeButton(newTheme);
 }
 
+/**
+ * Update the theme toggle button appearance
+ * Changes icon and text based on current theme
+ * @param {string} theme - Current theme ("light" or "dark")
+ */
 function updateThemeButton(theme) {
     if (theme === "dark") {
         // In dark mode, show moon icon and "Light" text (what it will switch to)
@@ -307,7 +380,10 @@ function updateThemeButton(theme) {
     }
 }
 
-// Initialize theme on page load
+/**
+ * Initialize theme on page load
+ * Loads saved theme preference or detects system preference
+ */
 function initializeTheme() {
     const savedTheme = localStorage.getItem("theme");
     const prefersDark = window.matchMedia(
@@ -324,6 +400,11 @@ initializeDOMElements();
 initializeTheme();
 loadDictionary();
 
+/**
+ * Flash the current character with visual feedback
+ * Adds temporary CSS class for correct/incorrect feedback
+ * @param {string} type - Type of flash ("correct" or "incorrect")
+ */
 function flashCurrentCharacter(type) {
     const currentChar = document.querySelector(".kannada-current-char");
     if (currentChar) {
