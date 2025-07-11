@@ -7,15 +7,35 @@
     </head>
     <body>
         <!-- Loading indicator -->
-        <div id="loading-indicator" class="loading-indicator" aria-live="polite" aria-label="Loading dictionary">
+        <div
+            id="loading-indicator"
+            class="loading-indicator"
+            aria-live="polite"
+            aria-label="Loading dictionary"
+        >
             <div class="loading-spinner"></div>
             <div class="loading-text">Loading dictionary...</div>
         </div>
 
         <div class="center-container">
-            <div class="kannada" id="kannada-word" aria-live="polite" aria-label="Current Kannada word to type"></div>
-            <div class="meaning" id="meaning-display" aria-live="polite" aria-label="English meaning"></div>
-            <div class="hint" id="hint-display" aria-live="polite" aria-label="Transliteration hint"></div>
+            <div
+                class="kannada"
+                id="kannada-word"
+                aria-live="polite"
+                aria-label="Current Kannada word to type"
+            ></div>
+            <div
+                class="meaning"
+                id="meaning-display"
+                aria-live="polite"
+                aria-label="English meaning"
+            ></div>
+            <div
+                class="hint"
+                id="hint-display"
+                aria-live="polite"
+                aria-label="Transliteration hint"
+            ></div>
             <div class="input-section">
                 <input
                     type="text"
@@ -26,14 +46,19 @@
                     role="textbox"
                     autocomplete="off"
                     spellcheck="false"
-                    placeholder="Type transliteration here..."
+                    placeholder="Type letter and hit space"
                 />
             </div>
         </div>
 
-        <!-- Footer section with help and links -->
-        <div class="footer" role="navigation" aria-label="Help and navigation">
-            <button class="footer-item" id="help-icon" onclick="showHelp()" aria-label="Show help and instructions">
+        <!-- Navigation buttons -->
+        <div class="nav-container">
+            <button
+                class="nav-button"
+                id="help-icon"
+                onclick="showHelp()"
+                aria-label="Show help and instructions"
+            >
                 <svg
                     width="20"
                     height="20"
@@ -53,7 +78,7 @@
             </button>
 
             <button
-                class="footer-item"
+                class="nav-button"
                 id="alphabet-icon"
                 onclick="showAlphabet()"
                 aria-label="Show Kannada alphabet reference"
@@ -75,59 +100,60 @@
                     <polyline points="8,10 12,14 16,10"></polyline>
                 </svg>
                 <span>ABC</span>
-            </div>
+            </button>
 
-            <div class="footer-item">
-                <a
-                    href="https://github.com/thomascamminady/kannadacoach.git"
-                    target="_blank"
-                    rel="noopener noreferrer"
+            <button
+                class="nav-button"
+                onclick="window.open('https://github.com/thomascamminady/kannadacoach.git', '_blank')"
+                aria-label="Visit GitHub repository"
+            >
+                <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
                 >
-                    <svg
-                        width="20"
-                        height="20"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        stroke-width="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                    >
-                        <path
-                            d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"
-                        ></path>
-                    </svg>
-                    <span>GitHub</span>
-                </a>
-            </div>
+                    <path
+                        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"
+                    ></path>
+                </svg>
+                <span>GitHub</span>
+            </button>
 
-            <div class="footer-item">
-                <a
-                    href="https://camminady.dev"
-                    target="_blank"
-                    rel="noopener noreferrer"
+            <button
+                class="nav-button"
+                onclick="window.open('https://camminady.dev', '_blank')"
+                aria-label="Visit website"
+            >
+                <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
                 >
-                    <svg
-                        width="20"
-                        height="20"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        stroke-width="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                    >
-                        <circle cx="12" cy="12" r="10"></circle>
-                        <line x1="2" y1="12" x2="22" y2="12"></line>
-                        <path
-                            d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
-                        ></path>
-                    </svg>
-                    <span>camminady.dev</span>
-                </a>
-            </div>
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <line x1="2" y1="12" x2="22" y2="12"></line>
+                    <path
+                        d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
+                    ></path>
+                </svg>
+                <span>Website</span>
+            </button>
 
-            <div class="footer-item" id="theme-toggle" onclick="toggleTheme()">
+            <button
+                class="nav-button"
+                id="theme-toggle"
+                onclick="toggleTheme()"
+                aria-label="Toggle theme"
+            >
                 <svg
                     width="20"
                     height="20"
@@ -150,7 +176,7 @@
                     <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                 </svg>
                 <span id="theme-text">Dark</span>
-            </div>
+            </button>
         </div>
 
         <!-- Help modal -->

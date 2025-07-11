@@ -180,17 +180,30 @@ body {
     color: var(--text-color);
     outline: none;
     transition: all 0.2s ease;
+    /* Remove cursor completely */
+    caret-color: transparent;
+}
+
+/* Text selection styling for input */
+.input-section input::selection {
+    background-color: var(--highlight-color);
+    color: var(--bg-color);
 }
 
 .input-section input:focus {
     border-color: var(--highlight-color);
     animation: input-pulse 1s infinite;
+    /* Keep cursor hidden even when focused */
+    caret-color: transparent;
+    /* Add subtle glow effect that works with both themes */
+    box-shadow: 0 0 0 2px rgba(88, 166, 255, 0.15);
 }
 
 .input-section input::placeholder {
     color: var(--text-color);
     opacity: 0.5;
-    font-size: 0.8em; /* Make placeholder text smaller */
+    font-size: 0.6em;
+    /* Make placeholder text smaller */
 }
 
 .input-section input.error {
@@ -323,18 +336,21 @@ body {
     }
 }
 
-/* Footer styles */
-.footer {
+/* Navigation container and button styles */
+.nav-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
-    padding: 2rem 1rem 1rem;
-    margin-top: auto;
-    background: var(--bg-color);
+    gap: 1rem;
+    position: fixed;
+    bottom: 2rem;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    padding: 0 1rem;
 }
 
-.footer-item {
+.nav-button {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -348,40 +364,32 @@ body {
     border: 1px solid var(--button-border);
 }
 
-.footer-item:hover {
+.nav-button:hover {
     animation: char-pulse 1.5s infinite;
 }
 
-.footer-item a {
-    color: inherit;
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.footer-item svg {
+.nav-button svg {
     flex-shrink: 0;
 }
 
 @media (max-width: 768px) {
-    .footer {
-        gap: 1rem;
-        padding: 0.8rem;
+    .nav-container {
+        gap: 0.5rem;
+        bottom: 1rem;
     }
 
-    .footer-item {
+    .nav-button {
         font-size: 0.8rem;
         padding: 0.4rem 0.8rem;
         gap: 0.4rem;
     }
 
-    .footer-item svg {
+    .nav-button svg {
         width: 16px;
         height: 16px;
     }
 
-    .footer-item span {
+    .nav-button span {
         display: none;
     }
 }
