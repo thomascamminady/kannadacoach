@@ -265,7 +265,6 @@ function initializeTheme() {
 // Initialize app
 initializeTheme();
 loadDictionary();
-initializeTheme();
 
 function flashCurrentCharacter(type) {
     const currentChar = document.querySelector(".kannada-current-char");
