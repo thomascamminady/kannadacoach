@@ -17,7 +17,12 @@ let incorrectAttempts = 0;
 
 // Load dictionary from JSON file
 async function loadDictionary() {
+    const loadingIndicator = document.getElementById('loading-indicator');
     try {
+        // Show loading indicator
+        loadingIndicator.style.display = 'flex';
+        loadingIndicator.classList.remove('hidden');
+        
         const response = await fetch("data/dictionary.json");
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}: ${response.statusText}`);
@@ -26,9 +31,23 @@ async function loadDictionary() {
         if (!words || words.length === 0) {
             throw new Error("Dictionary is empty or invalid");
         }
+        
+        // Hide loading indicator with a smooth transition
+        loadingIndicator.classList.add('hidden');
+        setTimeout(() => {
+            loadingIndicator.style.display = 'none';
+        }, 300);
+        
         loadNewWord();
     } catch (error) {
         console.error("Error loading dictionary:", error);
+        
+        // Hide loading indicator on error
+        loadingIndicator.classList.add('hidden');
+        setTimeout(() => {
+            loadingIndicator.style.display = 'none';
+        }, 300);
+        
         document.getElementById("kannada-word").innerHTML = 
             '<div style="color: var(--incorrect-color); text-align: center; padding: 20px;">Failed to load dictionary. Please refresh the page.</div>';
     }
