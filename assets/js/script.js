@@ -1,3 +1,13 @@
+// Configuration constants
+const CONFIG = {
+    MAX_INCORRECT_ATTEMPTS: 4,
+    FLASH_DURATION: 200,
+    HINT_DISPLAY_DURATION: 1200,
+    MEANING_DISPLAY_DURATION: 1500,
+    ERROR_FLASH_DURATION: 300
+};
+
+// Global state variables
 let words = [];
 let currentWord = {};
 let currentCharIndex = 0;
@@ -78,7 +88,7 @@ function moveToNextChar() {
         showMeaning();
         setTimeout(() => {
             loadNewWord();
-        }, 1500);
+        }, CONFIG.MEANING_DISPLAY_DURATION);
     }
 }
 
@@ -114,18 +124,18 @@ function validateCurrentInput() {
         typedSegments[currentCharIndex] = currentSegment;
         setTimeout(() => {
             moveToNextChar();
-        }, 200);
+        }, CONFIG.FLASH_DURATION);
     } else {
         // Incorrect input
         incorrectAttempts++;
 
-        if (incorrectAttempts >= 4) {
+        if (incorrectAttempts >= CONFIG.MAX_INCORRECT_ATTEMPTS) {
             // Show correct answer and move on
             showHint();
             skippedSegments[currentCharIndex] = true;
             setTimeout(() => {
                 moveToNextChar();
-            }, 1200);
+            }, CONFIG.HINT_DISPLAY_DURATION);
         } else {
             // Flash character and input red, then clear
             flashCurrentCharacter("incorrect");
@@ -133,7 +143,7 @@ function validateCurrentInput() {
             setTimeout(() => {
                 inputBox.classList.remove("error");
                 inputBox.value = "";
-            }, 300);
+            }, CONFIG.ERROR_FLASH_DURATION);
         }
     }
 }
@@ -289,6 +299,6 @@ function flashCurrentCharacter(type) {
         }
         setTimeout(() => {
             currentChar.className = originalClass;
-        }, 200);
+        }, CONFIG.FLASH_DURATION);
     }
 }
