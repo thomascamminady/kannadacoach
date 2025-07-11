@@ -7,27 +7,33 @@
     </head>
     <body>
         <div class="center-container">
-            <div class="kannada" id="kannada-word"></div>
-            <div class="meaning" id="meaning-display"></div>
-            <div class="hint" id="hint-display"></div>
+            <div class="kannada" id="kannada-word" aria-live="polite" aria-label="Current Kannada word to type"></div>
+            <div class="meaning" id="meaning-display" aria-live="polite" aria-label="English meaning"></div>
+            <div class="hint" id="hint-display" aria-live="polite" aria-label="Transliteration hint"></div>
             <div class="input-section">
                 <input
                     type="text"
                     id="input-box"
                     onkeydown="handleKey(event)"
                     autofocus
+                    aria-label="Type the transliteration for the current Kannada character"
+                    role="textbox"
+                    autocomplete="off"
+                    spellcheck="false"
+                    placeholder="Type transliteration here..."
                 />
             </div>
         </div>
 
         <!-- Footer section with help and links -->
-        <div class="footer">
-            <div class="footer-item" id="help-icon" onclick="showHelp()">
+        <div class="footer" role="navigation" aria-label="Help and navigation">
+            <button class="footer-item" id="help-icon" onclick="showHelp()" aria-label="Show help and instructions">
                 <svg
                     width="20"
                     height="20"
                     viewBox="0 0 24 24"
                     fill="none"
+                    aria-hidden="true"
                     stroke="currentColor"
                     stroke-width="2"
                     stroke-linecap="round"
@@ -38,12 +44,13 @@
                     <line x1="12" y1="17" x2="12.01" y2="17"></line>
                 </svg>
                 <span>Help</span>
-            </div>
+            </button>
 
-            <div
+            <button
                 class="footer-item"
                 id="alphabet-icon"
                 onclick="showAlphabet()"
+                aria-label="Show Kannada alphabet reference"
             >
                 <svg
                     width="20"
@@ -54,6 +61,7 @@
                     stroke-width="2"
                     stroke-linecap="round"
                     stroke-linejoin="round"
+                    aria-hidden="true"
                 >
                     <path
                         d="M3 7v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2z"
