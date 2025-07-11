@@ -219,14 +219,31 @@ def get_word_definition(word):
         # Look for Kannada section
         kannada_section = None
         for h2 in soup.find_all("h2"):
-            if "Kannada" in h2.get_text():
+            span = h2.find("span", {"class": "mw-headline"})
+            if span and "Kannada" in span.get_text():
                 kannada_section = h2
                 break
 
         if not kannada_section:
+            # Try alternative approach - look for any definition
+            definitions = []
+            for ol in soup.find_all("ol"):
+                for li in ol.find_all("li"):
+                    text = li.get_text().strip()
+                    if text and len(text) > 5 and not text.startswith("("):
+                        definitions.append(text)
+            
+            if definitions:
+                # Return the first reasonable definition
+                definition = definitions[0]
+                # Clean up the definition
+                definition = re.sub(r"\[.*?\]", "", definition)  # Remove references
+                definition = re.sub(r"\(.*?\)", "", definition)  # Remove parentheses
+                definition = re.sub(r"\s+", " ", definition).strip()
+                return definition[:80] if len(definition) > 80 else definition
             return None
 
-        # Extract definition
+        # Extract definition from Kannada section
         definition = ""
         current = kannada_section.find_next_sibling()
         while current and current.name != "h2":
@@ -236,9 +253,22 @@ def get_word_definition(word):
                 if li:
                     definition = li.get_text().strip()
                     break
+            elif current.name == "p":
+                # Sometimes definitions are in paragraphs
+                text = current.get_text().strip()
+                if text and len(text) > 5:
+                    definition = text
+                    break
             current = current.find_next_sibling()
 
-        return definition if definition else None
+        if definition:
+            # Clean up the definition
+            definition = re.sub(r"\[.*?\]", "", definition)  # Remove references
+            definition = re.sub(r"\(.*?\)", "", definition)  # Remove parentheses
+            definition = re.sub(r"\s+", " ", definition).strip()
+            return definition[:80] if len(definition) > 80 else definition
+        
+        return None
     except Exception as e:
         print(f"Error getting definition for {word}: {e}")
         return None
@@ -303,9 +333,9 @@ def extract_common_kannada_words():
         if i % 50 == 0:
             print(f"  Processing word {i + 1}/{len(all_words)}: {word}")
 
-        # Get definition for first 100 words to save time
+        # Get definition for more words to have meaningful translations
         definition = None
-        if i < 100:
+        if i < 300:  # Get definitions for first 300 words
             definition = get_word_definition(word)
             if definition:
                 # Clean up the definition
@@ -314,7 +344,7 @@ def extract_common_kannada_words():
                 )  # Remove references
                 definition = re.sub(r"\s+", " ", definition).strip()
                 definition = definition[:100]  # Limit length
-            time.sleep(0.5)  # Be respectful to the server
+            time.sleep(0.3)  # Be respectful to the server
 
         entry = create_word_entry(word, definition)
         dictionary_entries.append(entry)

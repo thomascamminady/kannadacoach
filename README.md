@@ -104,11 +104,11 @@ Created by [Thomas Camminady](https://camminady.dev)
 
 This project was entirely created using **Claude Sonnet 4** in agent mode, showcasing the power of AI-assisted development for building complete, functional web applications. The AI handled:
 
-- Frontend development (HTML, CSS, JavaScript)
-- Responsive design and mobile optimization
-- Data extraction and processing (Python scripting)
-- Project structure and organization
-- Documentation and deployment preparation
+-   Frontend development (HTML, CSS, JavaScript)
+-   Responsive design and mobile optimization
+-   Data extraction and processing (Python scripting)
+-   Project structure and organization
+-   Documentation and deployment preparation
 
 ## 📄 License
 

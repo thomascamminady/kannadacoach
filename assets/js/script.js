@@ -7,7 +7,7 @@ let incorrectAttempts = 0;
 // Load dictionary from JSON file
 async function loadDictionary() {
     try {
-        const response = await fetch("data/dictionary.json");
+        const response = await fetch("data/enhanced_dictionary.json");
         words = await response.json();
         loadNewWord();
     } catch (error) {
