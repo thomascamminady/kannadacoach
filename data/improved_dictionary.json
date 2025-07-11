@@ -1,0 +1,112 @@
+[
+  {
+    "kn": "ಕನ್ನಡ",
+    "tr": "kannada",
+    "en": "Kannada (language)",
+    "segments": [
+      {
+        "kn": "ಕ",
+        "tr": "ka"
+      },
+      {
+        "kn": "ನ್ನ",
+        "tr": "nna"
+      },
+      {
+        "kn": "ಡ",
+        "tr": "da"
+      }
+    ]
+  },
+  {
+    "kn": "ನಮಸ್ಕಾರ",
+    "tr": "namasakaaara",
+    "en": "Hello / Greetings",
+    "segments": [
+      {
+        "kn": "ನ",
+        "tr": "na"
+      },
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಸ್",
+        "tr": "sa"
+      },
+      {
+        "kn": "ಕಾ",
+        "tr": "kaaa"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಗುಡುಗು",
+    "tr": "gaudaugau",
+    "en": "Thunder",
+    "segments": [
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      },
+      {
+        "kn": "ಡು",
+        "tr": "dau"
+      },
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಗು",
+    "tr": "magau",
+    "en": "Child",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      }
+    ]
+  },
+  {
+    "kn": "ಶಾಲೆ",
+    "tr": "shaaalae",
+    "en": "School",
+    "segments": [
+      {
+        "kn": "ಶಾ",
+        "tr": "shaaa"
+      },
+      {
+        "kn": "ಲೆ",
+        "tr": "lae"
+      }
+    ]
+  },
+  {
+    "kn": "ಅಜ್ಜ",
+    "tr": "ajja",
+    "en": "Grandfather",
+    "segments": [
+      {
+        "kn": "ಅ",
+        "tr": "a"
+      },
+      {
+        "kn": "ಜ್ಜ",
+        "tr": "jja"
+      }
+    ]
+  }
+]

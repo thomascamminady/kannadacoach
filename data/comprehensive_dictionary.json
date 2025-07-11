@@ -1,0 +1,1797 @@
+[
+  {
+    "kn": "ಕನ್ನಡ",
+    "tr": "kananada",
+    "en": "Kannada language",
+    "segments": [
+      {
+        "kn": "ಕ",
+        "tr": "ka"
+      },
+      {
+        "kn": "ನ್ನ",
+        "tr": "nana"
+      },
+      {
+        "kn": "ಡ",
+        "tr": "da"
+      }
+    ]
+  },
+  {
+    "kn": "ನಮಸ್ಕಾರ",
+    "tr": "namasakaaara",
+    "en": "greetings",
+    "segments": [
+      {
+        "kn": "ನ",
+        "tr": "na"
+      },
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಸ್",
+        "tr": "sa"
+      },
+      {
+        "kn": "ಕಾ",
+        "tr": "kaaa"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಧನ್ಯವಾದ",
+    "tr": "dhanayavaaada",
+    "en": "thank you",
+    "segments": [
+      {
+        "kn": "ಧ",
+        "tr": "dha"
+      },
+      {
+        "kn": "ನ್",
+        "tr": "na"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      },
+      {
+        "kn": "ವಾ",
+        "tr": "vaaa"
+      },
+      {
+        "kn": "ದ",
+        "tr": "da"
+      }
+    ]
+  },
+  {
+    "kn": "ಕ್ಷಮಿಸಿ",
+    "tr": "kashamaisai",
+    "en": "sorry",
+    "segments": [
+      {
+        "kn": "ಕ್",
+        "tr": "ka"
+      },
+      {
+        "kn": "ಷ",
+        "tr": "sha"
+      },
+      {
+        "kn": "ಮಿ",
+        "tr": "mai"
+      },
+      {
+        "kn": "ಸಿ",
+        "tr": "sai"
+      }
+    ]
+  },
+  {
+    "kn": "ಮನೆ",
+    "tr": "manae",
+    "en": "house",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ನೆ",
+        "tr": "nae"
+      }
+    ]
+  },
+  {
+    "kn": "ಆಹಾರ",
+    "tr": "aahaaara",
+    "en": "food",
+    "segments": [
+      {
+        "kn": "ಆ",
+        "tr": "aa"
+      },
+      {
+        "kn": "ಹಾ",
+        "tr": "haaa"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಜಗತ್ತು",
+    "tr": "jagatatau",
+    "en": "world",
+    "segments": [
+      {
+        "kn": "ಜ",
+        "tr": "ja"
+      },
+      {
+        "kn": "ಗ",
+        "tr": "ga"
+      },
+      {
+        "kn": "ತ್ತು",
+        "tr": "tatau"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಕ್ಕಳು",
+    "tr": "makakalau",
+    "en": "children",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಕ್ಕ",
+        "tr": "kaka"
+      },
+      {
+        "kn": "ಳು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಿತ್ರ",
+    "tr": "maitara",
+    "en": "friend",
+    "segments": [
+      {
+        "kn": "ಮಿ",
+        "tr": "mai"
+      },
+      {
+        "kn": "ತ್",
+        "tr": "ta"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಶಿಕ್ಷಕ",
+    "tr": "shaikashaka",
+    "en": "teacher",
+    "segments": [
+      {
+        "kn": "ಶಿ",
+        "tr": "shai"
+      },
+      {
+        "kn": "ಕ್",
+        "tr": "ka"
+      },
+      {
+        "kn": "ಷ",
+        "tr": "sha"
+      },
+      {
+        "kn": "ಕ",
+        "tr": "ka"
+      }
+    ]
+  },
+  {
+    "kn": "ಗುರು",
+    "tr": "gaurau",
+    "en": "teacher",
+    "segments": [
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ಪಾಠ",
+    "tr": "paaatha",
+    "en": "lesson",
+    "segments": [
+      {
+        "kn": "ಪಾ",
+        "tr": "paaa"
+      },
+      {
+        "kn": "ಠ",
+        "tr": "tha"
+      }
+    ]
+  },
+  {
+    "kn": "ಪತ್ರ",
+    "tr": "patara",
+    "en": "letter",
+    "segments": [
+      {
+        "kn": "ಪ",
+        "tr": "pa"
+      },
+      {
+        "kn": "ತ್",
+        "tr": "ta"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಪ್ರಿಯ",
+    "tr": "paraiya",
+    "en": "dear",
+    "segments": [
+      {
+        "kn": "ಪ್",
+        "tr": "pa"
+      },
+      {
+        "kn": "ರಿ",
+        "tr": "rai"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      }
+    ]
+  },
+  {
+    "kn": "ಸತ್ಯ",
+    "tr": "sataya",
+    "en": "truth",
+    "segments": [
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      },
+      {
+        "kn": "ತ್",
+        "tr": "ta"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      }
+    ]
+  },
+  {
+    "kn": "ಮತ್ತು",
+    "tr": "matatau",
+    "en": "and",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ತ್ತು",
+        "tr": "tatau"
+      }
+    ]
+  },
+  {
+    "kn": "ಅಥವಾ",
+    "tr": "athavaaa",
+    "en": "or",
+    "segments": [
+      {
+        "kn": "ಅ",
+        "tr": "a"
+      },
+      {
+        "kn": "ಥ",
+        "tr": "tha"
+      },
+      {
+        "kn": "ವಾ",
+        "tr": "vaaa"
+      }
+    ]
+  },
+  {
+    "kn": "ಈಗ",
+    "tr": "iiga",
+    "en": "now",
+    "segments": [
+      {
+        "kn": "ಈ",
+        "tr": "ii"
+      },
+      {
+        "kn": "ಗ",
+        "tr": "ga"
+      }
+    ]
+  },
+  {
+    "kn": "ಮುಂದೆ",
+    "tr": "maumdae",
+    "en": "next",
+    "segments": [
+      {
+        "kn": "ಮು",
+        "tr": "mau"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ದೆ",
+        "tr": "dae"
+      }
+    ]
+  },
+  {
+    "kn": "ಹಿಂದೆ",
+    "tr": "haimdae",
+    "en": "behind",
+    "segments": [
+      {
+        "kn": "ಹಿ",
+        "tr": "hai"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ದೆ",
+        "tr": "dae"
+      }
+    ]
+  },
+  {
+    "kn": "ಅಪ್ಪ",
+    "tr": "apapa",
+    "en": "father",
+    "segments": [
+      {
+        "kn": "ಅ",
+        "tr": "a"
+      },
+      {
+        "kn": "ಪ್ಪ",
+        "tr": "papa"
+      }
+    ]
+  },
+  {
+    "kn": "ಅಮ್ಮ",
+    "tr": "amama",
+    "en": "mother",
+    "segments": [
+      {
+        "kn": "ಅ",
+        "tr": "a"
+      },
+      {
+        "kn": "ಮ್ಮ",
+        "tr": "mama"
+      }
+    ]
+  },
+  {
+    "kn": "ಸಹೋದರ",
+    "tr": "sahaoodara",
+    "en": "brother",
+    "segments": [
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      },
+      {
+        "kn": "ಹೋ",
+        "tr": "haoo"
+      },
+      {
+        "kn": "ದ",
+        "tr": "da"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಸಹೋದರಿ",
+    "tr": "sahaoodarai",
+    "en": "sister",
+    "segments": [
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      },
+      {
+        "kn": "ಹೋ",
+        "tr": "haoo"
+      },
+      {
+        "kn": "ದ",
+        "tr": "da"
+      },
+      {
+        "kn": "ರಿ",
+        "tr": "rai"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಗ",
+    "tr": "maga",
+    "en": "son",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಗ",
+        "tr": "ga"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಗಳು",
+    "tr": "magalau",
+    "en": "daughter",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಗ",
+        "tr": "ga"
+      },
+      {
+        "kn": "ಳು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ಅಜ್ಜ",
+    "tr": "ajaja",
+    "en": "grandfather",
+    "segments": [
+      {
+        "kn": "ಅ",
+        "tr": "a"
+      },
+      {
+        "kn": "ಜ್ಜ",
+        "tr": "jaja"
+      }
+    ]
+  },
+  {
+    "kn": "ಅಜ್ಜಿ",
+    "tr": "ajajai",
+    "en": "grandmother",
+    "segments": [
+      {
+        "kn": "ಅ",
+        "tr": "a"
+      },
+      {
+        "kn": "ಜ್ಜಿ",
+        "tr": "jajai"
+      }
+    ]
+  },
+  {
+    "kn": "ಬಿಳಿ",
+    "tr": "bailai",
+    "en": "white",
+    "segments": [
+      {
+        "kn": "ಬಿ",
+        "tr": "bai"
+      },
+      {
+        "kn": "ಳಿ",
+        "tr": "lai"
+      }
+    ]
+  },
+  {
+    "kn": "ಕಪ್ಪು",
+    "tr": "kapapau",
+    "en": "black",
+    "segments": [
+      {
+        "kn": "ಕ",
+        "tr": "ka"
+      },
+      {
+        "kn": "ಪ್ಪು",
+        "tr": "papau"
+      }
+    ]
+  },
+  {
+    "kn": "ಕೆಂಪು",
+    "tr": "kaempau",
+    "en": "red",
+    "segments": [
+      {
+        "kn": "ಕೆ",
+        "tr": "kae"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ಪು",
+        "tr": "pau"
+      }
+    ]
+  },
+  {
+    "kn": "ಹಸಿರು",
+    "tr": "hasairau",
+    "en": "green",
+    "segments": [
+      {
+        "kn": "ಹ",
+        "tr": "ha"
+      },
+      {
+        "kn": "ಸಿ",
+        "tr": "sai"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ನೀಲಿ",
+    "tr": "naiilai",
+    "en": "blue",
+    "segments": [
+      {
+        "kn": "ನೀ",
+        "tr": "naii"
+      },
+      {
+        "kn": "ಲಿ",
+        "tr": "lai"
+      }
+    ]
+  },
+  {
+    "kn": "ಹಳದಿ",
+    "tr": "haladai",
+    "en": "yellow",
+    "segments": [
+      {
+        "kn": "ಹ",
+        "tr": "ha"
+      },
+      {
+        "kn": "ಳ",
+        "tr": "la"
+      },
+      {
+        "kn": "ದಿ",
+        "tr": "dai"
+      }
+    ]
+  },
+  {
+    "kn": "ಸೂರ್ಯ",
+    "tr": "sauuraya",
+    "en": "sun",
+    "segments": [
+      {
+        "kn": "ಸೂ",
+        "tr": "sauu"
+      },
+      {
+        "kn": "ರ್",
+        "tr": "ra"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      }
+    ]
+  },
+  {
+    "kn": "ಚಂದ್ರ",
+    "tr": "chamdara",
+    "en": "moon",
+    "segments": [
+      {
+        "kn": "ಚ",
+        "tr": "cha"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ದ್",
+        "tr": "da"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ನಕ್ಷತ್ರ",
+    "tr": "nakashatara",
+    "en": "star",
+    "segments": [
+      {
+        "kn": "ನ",
+        "tr": "na"
+      },
+      {
+        "kn": "ಕ್",
+        "tr": "ka"
+      },
+      {
+        "kn": "ಷ",
+        "tr": "sha"
+      },
+      {
+        "kn": "ತ್",
+        "tr": "ta"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಆಕಾಶ",
+    "tr": "aakaaasha",
+    "en": "sky",
+    "segments": [
+      {
+        "kn": "ಆ",
+        "tr": "aa"
+      },
+      {
+        "kn": "ಕಾ",
+        "tr": "kaaa"
+      },
+      {
+        "kn": "ಶ",
+        "tr": "sha"
+      }
+    ]
+  },
+  {
+    "kn": "ಭೂಮಿ",
+    "tr": "bhauumai",
+    "en": "earth",
+    "segments": [
+      {
+        "kn": "ಭೂ",
+        "tr": "bhauu"
+      },
+      {
+        "kn": "ಮಿ",
+        "tr": "mai"
+      }
+    ]
+  },
+  {
+    "kn": "ನೀರು",
+    "tr": "naiirau",
+    "en": "water",
+    "segments": [
+      {
+        "kn": "ನೀ",
+        "tr": "naii"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ಗಾಳಿ",
+    "tr": "gaaalai",
+    "en": "air",
+    "segments": [
+      {
+        "kn": "ಗಾ",
+        "tr": "gaaa"
+      },
+      {
+        "kn": "ಳಿ",
+        "tr": "lai"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಳೆ",
+    "tr": "malae",
+    "en": "rain",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಳೆ",
+        "tr": "lae"
+      }
+    ]
+  },
+  {
+    "kn": "ಹೂವು",
+    "tr": "hauuvau",
+    "en": "flower",
+    "segments": [
+      {
+        "kn": "ಹೂ",
+        "tr": "hauu"
+      },
+      {
+        "kn": "ವು",
+        "tr": "vau"
+      }
+    ]
+  },
+  {
+    "kn": "ಮರ",
+    "tr": "mara",
+    "en": "tree",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಹಣ್ಣು",
+    "tr": "hananau",
+    "en": "fruit",
+    "segments": [
+      {
+        "kn": "ಹ",
+        "tr": "ha"
+      },
+      {
+        "kn": "ಣ್ಣು",
+        "tr": "nanau"
+      }
+    ]
+  },
+  {
+    "kn": "ಎಲೆ",
+    "tr": "elae",
+    "en": "leaf",
+    "segments": [
+      {
+        "kn": "ಎ",
+        "tr": "e"
+      },
+      {
+        "kn": "ಲೆ",
+        "tr": "lae"
+      }
+    ]
+  },
+  {
+    "kn": "ತಲೆ",
+    "tr": "talae",
+    "en": "head",
+    "segments": [
+      {
+        "kn": "ತ",
+        "tr": "ta"
+      },
+      {
+        "kn": "ಲೆ",
+        "tr": "lae"
+      }
+    ]
+  },
+  {
+    "kn": "ಕೈ",
+    "tr": "kaai",
+    "en": "hand",
+    "segments": [
+      {
+        "kn": "ಕೈ",
+        "tr": "kaai"
+      }
+    ]
+  },
+  {
+    "kn": "ಕಾಲು",
+    "tr": "kaaalau",
+    "en": "leg",
+    "segments": [
+      {
+        "kn": "ಕಾ",
+        "tr": "kaaa"
+      },
+      {
+        "kn": "ಲು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ಕಣ್ಣು",
+    "tr": "kananau",
+    "en": "eye",
+    "segments": [
+      {
+        "kn": "ಕ",
+        "tr": "ka"
+      },
+      {
+        "kn": "ಣ್ಣು",
+        "tr": "nanau"
+      }
+    ]
+  },
+  {
+    "kn": "ಕಿವಿ",
+    "tr": "kaivai",
+    "en": "ear",
+    "segments": [
+      {
+        "kn": "ಕಿ",
+        "tr": "kai"
+      },
+      {
+        "kn": "ವಿ",
+        "tr": "vai"
+      }
+    ]
+  },
+  {
+    "kn": "ಮೂಗು",
+    "tr": "mauugau",
+    "en": "nose",
+    "segments": [
+      {
+        "kn": "ಮೂ",
+        "tr": "mauu"
+      },
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      }
+    ]
+  },
+  {
+    "kn": "ಬಾಯಿ",
+    "tr": "baaayai",
+    "en": "mouth",
+    "segments": [
+      {
+        "kn": "ಬಾ",
+        "tr": "baaa"
+      },
+      {
+        "kn": "ಯಿ",
+        "tr": "yai"
+      }
+    ]
+  },
+  {
+    "kn": "ಸಮಯ",
+    "tr": "samaya",
+    "en": "time",
+    "segments": [
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      },
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      }
+    ]
+  },
+  {
+    "kn": "ದಿನ",
+    "tr": "daina",
+    "en": "day",
+    "segments": [
+      {
+        "kn": "ದಿ",
+        "tr": "dai"
+      },
+      {
+        "kn": "ನ",
+        "tr": "na"
+      }
+    ]
+  },
+  {
+    "kn": "ರಾತ್ರಿ",
+    "tr": "raaatarai",
+    "en": "night",
+    "segments": [
+      {
+        "kn": "ರಾ",
+        "tr": "raaa"
+      },
+      {
+        "kn": "ತ್",
+        "tr": "ta"
+      },
+      {
+        "kn": "ರಿ",
+        "tr": "rai"
+      }
+    ]
+  },
+  {
+    "kn": "ಬೆಳಿಗ್ಗೆ",
+    "tr": "baelaigagae",
+    "en": "morning",
+    "segments": [
+      {
+        "kn": "ಬೆ",
+        "tr": "bae"
+      },
+      {
+        "kn": "ಳಿ",
+        "tr": "lai"
+      },
+      {
+        "kn": "ಗ್ಗೆ",
+        "tr": "gagae"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಧ್ಯಾಹ್ನ",
+    "tr": "madhayaaahana",
+    "en": "afternoon",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಧ್",
+        "tr": "dha"
+      },
+      {
+        "kn": "ಯಾ",
+        "tr": "yaaa"
+      },
+      {
+        "kn": "ಹ್",
+        "tr": "ha"
+      },
+      {
+        "kn": "ನ",
+        "tr": "na"
+      }
+    ]
+  },
+  {
+    "kn": "ಸಂಜೆ",
+    "tr": "samjae",
+    "en": "evening",
+    "segments": [
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ಜೆ",
+        "tr": "jae"
+      }
+    ]
+  },
+  {
+    "kn": "ವಾರ",
+    "tr": "vaaara",
+    "en": "week",
+    "segments": [
+      {
+        "kn": "ವಾ",
+        "tr": "vaaa"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ತಿಂಗಳು",
+    "tr": "taimgalau",
+    "en": "month",
+    "segments": [
+      {
+        "kn": "ತಿ",
+        "tr": "tai"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ಗ",
+        "tr": "ga"
+      },
+      {
+        "kn": "ಳು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ವರ್ಷ",
+    "tr": "varasha",
+    "en": "year",
+    "segments": [
+      {
+        "kn": "ವ",
+        "tr": "va"
+      },
+      {
+        "kn": "ರ್",
+        "tr": "ra"
+      },
+      {
+        "kn": "ಷ",
+        "tr": "sha"
+      }
+    ]
+  },
+  {
+    "kn": "ಒಂದು",
+    "tr": "omdau",
+    "en": "one",
+    "segments": [
+      {
+        "kn": "ಒ",
+        "tr": "o"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ದು",
+        "tr": "dau"
+      }
+    ]
+  },
+  {
+    "kn": "ಎರಡು",
+    "tr": "eradau",
+    "en": "two",
+    "segments": [
+      {
+        "kn": "ಎ",
+        "tr": "e"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      },
+      {
+        "kn": "ಡು",
+        "tr": "dau"
+      }
+    ]
+  },
+  {
+    "kn": "ಮೂರು",
+    "tr": "mauurau",
+    "en": "three",
+    "segments": [
+      {
+        "kn": "ಮೂ",
+        "tr": "mauu"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ನಾಲ್ಕು",
+    "tr": "naaalakau",
+    "en": "four",
+    "segments": [
+      {
+        "kn": "ನಾ",
+        "tr": "naaa"
+      },
+      {
+        "kn": "ಲ್",
+        "tr": "la"
+      },
+      {
+        "kn": "ಕು",
+        "tr": "kau"
+      }
+    ]
+  },
+  {
+    "kn": "ಐದು",
+    "tr": "ಐdau",
+    "en": "five",
+    "segments": [
+      {
+        "kn": "ಐ",
+        "tr": "ಐ"
+      },
+      {
+        "kn": "ದು",
+        "tr": "dau"
+      }
+    ]
+  },
+  {
+    "kn": "ಆರು",
+    "tr": "aarau",
+    "en": "six",
+    "segments": [
+      {
+        "kn": "ಆ",
+        "tr": "aa"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ಏಳು",
+    "tr": "eelau",
+    "en": "seven",
+    "segments": [
+      {
+        "kn": "ಏ",
+        "tr": "ee"
+      },
+      {
+        "kn": "ಳು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ಎಂಟು",
+    "tr": "emtau",
+    "en": "eight",
+    "segments": [
+      {
+        "kn": "ಎ",
+        "tr": "e"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ಟು",
+        "tr": "tau"
+      }
+    ]
+  },
+  {
+    "kn": "ಒಂಬತ್ತು",
+    "tr": "ombatatau",
+    "en": "nine",
+    "segments": [
+      {
+        "kn": "ಒ",
+        "tr": "o"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ಬ",
+        "tr": "ba"
+      },
+      {
+        "kn": "ತ್ತು",
+        "tr": "tatau"
+      }
+    ]
+  },
+  {
+    "kn": "ಹತ್ತು",
+    "tr": "hatatau",
+    "en": "ten",
+    "segments": [
+      {
+        "kn": "ಹ",
+        "tr": "ha"
+      },
+      {
+        "kn": "ತ್ತು",
+        "tr": "tatau"
+      }
+    ]
+  },
+  {
+    "kn": "ಚಿಕ್ಕ",
+    "tr": "chaikaka",
+    "en": "small",
+    "segments": [
+      {
+        "kn": "ಚಿ",
+        "tr": "chai"
+      },
+      {
+        "kn": "ಕ್ಕ",
+        "tr": "kaka"
+      }
+    ]
+  },
+  {
+    "kn": "ದೊಡ್ಡ",
+    "tr": "daodada",
+    "en": "big",
+    "segments": [
+      {
+        "kn": "ದೊ",
+        "tr": "dao"
+      },
+      {
+        "kn": "ಡ್ಡ",
+        "tr": "dada"
+      }
+    ]
+  },
+  {
+    "kn": "ಹೊಸ",
+    "tr": "haosa",
+    "en": "new",
+    "segments": [
+      {
+        "kn": "ಹೊ",
+        "tr": "hao"
+      },
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      }
+    ]
+  },
+  {
+    "kn": "ಹಳೆಯ",
+    "tr": "halaeya",
+    "en": "old",
+    "segments": [
+      {
+        "kn": "ಹ",
+        "tr": "ha"
+      },
+      {
+        "kn": "ಳೆ",
+        "tr": "lae"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      }
+    ]
+  },
+  {
+    "kn": "ಸುಂದರ",
+    "tr": "saumdara",
+    "en": "beautiful",
+    "segments": [
+      {
+        "kn": "ಸು",
+        "tr": "sau"
+      },
+      {
+        "kn": "ಂ",
+        "tr": "m"
+      },
+      {
+        "kn": "ದ",
+        "tr": "da"
+      },
+      {
+        "kn": "ರ",
+        "tr": "ra"
+      }
+    ]
+  },
+  {
+    "kn": "ಒಳ್ಳೆಯ",
+    "tr": "olalaeya",
+    "en": "good",
+    "segments": [
+      {
+        "kn": "ಒ",
+        "tr": "o"
+      },
+      {
+        "kn": "ಳ್ಳೆ",
+        "tr": "lalae"
+      },
+      {
+        "kn": "ಯ",
+        "tr": "ya"
+      }
+    ]
+  },
+  {
+    "kn": "ಕೆಟ್ಟ",
+    "tr": "kaetata",
+    "en": "bad",
+    "segments": [
+      {
+        "kn": "ಕೆ",
+        "tr": "kae"
+      },
+      {
+        "kn": "ಟ್ಟ",
+        "tr": "tata"
+      }
+    ]
+  },
+  {
+    "kn": "ಬಿಸಿ",
+    "tr": "baisai",
+    "en": "hot",
+    "segments": [
+      {
+        "kn": "ಬಿ",
+        "tr": "bai"
+      },
+      {
+        "kn": "ಸಿ",
+        "tr": "sai"
+      }
+    ]
+  },
+  {
+    "kn": "ತಣ್ಣಗಿರು",
+    "tr": "tananagairau",
+    "en": "cold",
+    "segments": [
+      {
+        "kn": "ತ",
+        "tr": "ta"
+      },
+      {
+        "kn": "ಣ್ಣ",
+        "tr": "nana"
+      },
+      {
+        "kn": "ಗಿ",
+        "tr": "gai"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ಬರು",
+    "tr": "barau",
+    "en": "come",
+    "segments": [
+      {
+        "kn": "ಬ",
+        "tr": "ba"
+      },
+      {
+        "kn": "ರು",
+        "tr": "rau"
+      }
+    ]
+  },
+  {
+    "kn": "ಹೋಗು",
+    "tr": "haoogau",
+    "en": "go",
+    "segments": [
+      {
+        "kn": "ಹೋ",
+        "tr": "haoo"
+      },
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      }
+    ]
+  },
+  {
+    "kn": "ತಿನ್ನು",
+    "tr": "tainanau",
+    "en": "eat",
+    "segments": [
+      {
+        "kn": "ತಿ",
+        "tr": "tai"
+      },
+      {
+        "kn": "ನ್ನು",
+        "tr": "nanau"
+      }
+    ]
+  },
+  {
+    "kn": "ಕುಡಿ",
+    "tr": "kaudai",
+    "en": "drink",
+    "segments": [
+      {
+        "kn": "ಕು",
+        "tr": "kau"
+      },
+      {
+        "kn": "ಡಿ",
+        "tr": "dai"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಾತನಾಡು",
+    "tr": "maaatanaaadau",
+    "en": "speak",
+    "segments": [
+      {
+        "kn": "ಮಾ",
+        "tr": "maaa"
+      },
+      {
+        "kn": "ತ",
+        "tr": "ta"
+      },
+      {
+        "kn": "ನಾ",
+        "tr": "naaa"
+      },
+      {
+        "kn": "ಡು",
+        "tr": "dau"
+      }
+    ]
+  },
+  {
+    "kn": "ಓದು",
+    "tr": "oodau",
+    "en": "read",
+    "segments": [
+      {
+        "kn": "ಓ",
+        "tr": "oo"
+      },
+      {
+        "kn": "ದು",
+        "tr": "dau"
+      }
+    ]
+  },
+  {
+    "kn": "ಬರೆ",
+    "tr": "barae",
+    "en": "write",
+    "segments": [
+      {
+        "kn": "ಬ",
+        "tr": "ba"
+      },
+      {
+        "kn": "ರೆ",
+        "tr": "rae"
+      }
+    ]
+  },
+  {
+    "kn": "ನೋಡು",
+    "tr": "naoodau",
+    "en": "see",
+    "segments": [
+      {
+        "kn": "ನೋ",
+        "tr": "naoo"
+      },
+      {
+        "kn": "ಡು",
+        "tr": "dau"
+      }
+    ]
+  },
+  {
+    "kn": "ಕೇಳು",
+    "tr": "kaeelau",
+    "en": "listen",
+    "segments": [
+      {
+        "kn": "ಕೇ",
+        "tr": "kaee"
+      },
+      {
+        "kn": "ಳು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ಮಲಗು",
+    "tr": "malagau",
+    "en": "sleep",
+    "segments": [
+      {
+        "kn": "ಮ",
+        "tr": "ma"
+      },
+      {
+        "kn": "ಲ",
+        "tr": "la"
+      },
+      {
+        "kn": "ಗು",
+        "tr": "gau"
+      }
+    ]
+  },
+  {
+    "kn": "ಎದ್ದೇಳು",
+    "tr": "edadaeelau",
+    "en": "wake up",
+    "segments": [
+      {
+        "kn": "ಎ",
+        "tr": "e"
+      },
+      {
+        "kn": "ದ್ದೇ",
+        "tr": "dadaee"
+      },
+      {
+        "kn": "ಳು",
+        "tr": "lau"
+      }
+    ]
+  },
+  {
+    "kn": "ಕೆಲಸ",
+    "tr": "kaelasa",
+    "en": "work",
+    "segments": [
+      {
+        "kn": "ಕೆ",
+        "tr": "kae"
+      },
+      {
+        "kn": "ಲ",
+        "tr": "la"
+      },
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      }
+    ]
+  },
+  {
+    "kn": "ಆಟ",
+    "tr": "aata",
+    "en": "play",
+    "segments": [
+      {
+        "kn": "ಆ",
+        "tr": "aa"
+      },
+      {
+        "kn": "ಟ",
+        "tr": "ta"
+      }
+    ]
+  },
+  {
+    "kn": "ಹೇಗಿದ್ದೀರಿ",
+    "tr": "haeegaidadaiirai",
+    "en": "how are you",
+    "segments": [
+      {
+        "kn": "ಹೇ",
+        "tr": "haee"
+      },
+      {
+        "kn": "ಗಿ",
+        "tr": "gai"
+      },
+      {
+        "kn": "ದ್ದೀ",
+        "tr": "dadaii"
+      },
+      {
+        "kn": "ರಿ",
+        "tr": "rai"
+      }
+    ]
+  },
+  {
+    "kn": "ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+    "tr": "chaenanaaagaidadaeenae",
+    "en": "I am fine",
+    "segments": [
+      {
+        "kn": "ಚೆ",
+        "tr": "chae"
+      },
+      {
+        "kn": "ನ್ನಾ",
+        "tr": "nanaaa"
+      },
+      {
+        "kn": "ಗಿ",
+        "tr": "gai"
+      },
+      {
+        "kn": "ದ್ದೇ",
+        "tr": "dadaee"
+      },
+      {
+        "kn": "ನೆ",
+        "tr": "nae"
+      }
+    ]
+  },
+  {
+    "kn": "ಕ್ಷಮಿಸಿ",
+    "tr": "kashamaisai",
+    "en": "excuse me",
+    "segments": [
+      {
+        "kn": "ಕ್",
+        "tr": "ka"
+      },
+      {
+        "kn": "ಷ",
+        "tr": "sha"
+      },
+      {
+        "kn": "ಮಿ",
+        "tr": "mai"
+      },
+      {
+        "kn": "ಸಿ",
+        "tr": "sai"
+      }
+    ]
+  },
+  {
+    "kn": "ಗೊತ್ತಿಲ್ಲ",
+    "tr": "gaotatailala",
+    "en": "don't know",
+    "segments": [
+      {
+        "kn": "ಗೊ",
+        "tr": "gao"
+      },
+      {
+        "kn": "ತ್ತಿ",
+        "tr": "tatai"
+      },
+      {
+        "kn": "ಲ್ಲ",
+        "tr": "lala"
+      }
+    ]
+  },
+  {
+    "kn": "ಸರಿ",
+    "tr": "sarai",
+    "en": "okay",
+    "segments": [
+      {
+        "kn": "ಸ",
+        "tr": "sa"
+      },
+      {
+        "kn": "ರಿ",
+        "tr": "rai"
+      }
+    ]
+  },
+  {
+    "kn": "ಇಲ್ಲ",
+    "tr": "ilala",
+    "en": "no",
+    "segments": [
+      {
+        "kn": "ಇ",
+        "tr": "i"
+      },
+      {
+        "kn": "ಲ್ಲ",
+        "tr": "lala"
+      }
+    ]
+  },
+  {
+    "kn": "ಹೌದು",
+    "tr": "haaudau",
+    "en": "yes",
+    "segments": [
+      {
+        "kn": "ಹೌ",
+        "tr": "haau"
+      },
+      {
+        "kn": "ದು",
+        "tr": "dau"
+      }
+    ]
+  }
+]

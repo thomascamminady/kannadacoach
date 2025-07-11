@@ -1,6 +1,6 @@
 # Learn Kannada
 
-A web-based Kannada transliteration learning app that helps users practice typing Kannada words using English characters.
+A web4. After completing a word, the English meaning is displayed 5. Click the **Help** button for detailed instructions 6. Click the **ABC** button to view the Kannada alphabet reference 7. Visit the **GitHub** link to access the source codeased Kannada transliteration learning app that helps users practice typing Kannada words using English characters.
 
 ## 🌟 Features
 
@@ -9,7 +9,10 @@ A web-based Kannada transliteration learning app that helps users practice typin
 -   **Smart Hints**: After 4 incorrect attempts, the correct answer is shown
 -   **English Meanings**: Display word meanings upon successful completion
 -   **Responsive Design**: Works seamlessly on desktop and mobile devices
--   **Large Dictionary**: 627+ common Kannada words with accurate transliterations
+-   **Large Dictionary**: 100+ common Kannada words with accurate transliterations
+-   **Proper Segmentation**: Correctly handles compound consonants (e.g., ಜಗತ್ತು → ja-ga-tatau)
+-   **Alphabet Reference**: Built-in Kannada alphabet guide with transliterations
+-   **Help System**: Comprehensive usage instructions and tips
 
 ## 🎯 How to Use
 
@@ -32,9 +35,11 @@ kannadacoach/
 │       └── script.js       # Application logic and interactions
 ├── data/
 │   ├── dictionary.json     # Small curated word list
-│   └── expanded_dictionary.json  # Extended word list (627+ words)
+│   ├── expanded_dictionary.json  # Extended word list (legacy)
+│   └── comprehensive_dictionary.json  # Main dictionary with proper segmentation
 ├── scripts/
 │   ├── extract_words.py    # Python script to scrape Kannada words
+│   ├── create_comprehensive_dictionary.py  # Script to create proper dictionary
 │   └── requirements.txt    # Python dependencies
 └── README.md              # This file
 ```

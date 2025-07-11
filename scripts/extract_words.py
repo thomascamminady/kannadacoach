@@ -232,13 +232,17 @@ def get_word_definition(word):
                     text = li.get_text().strip()
                     if text and len(text) > 5 and not text.startswith("("):
                         definitions.append(text)
-            
+
             if definitions:
                 # Return the first reasonable definition
                 definition = definitions[0]
                 # Clean up the definition
-                definition = re.sub(r"\[.*?\]", "", definition)  # Remove references
-                definition = re.sub(r"\(.*?\)", "", definition)  # Remove parentheses
+                definition = re.sub(
+                    r"\[.*?\]", "", definition
+                )  # Remove references
+                definition = re.sub(
+                    r"\(.*?\)", "", definition
+                )  # Remove parentheses
                 definition = re.sub(r"\s+", " ", definition).strip()
                 return definition[:80] if len(definition) > 80 else definition
             return None
@@ -264,10 +268,12 @@ def get_word_definition(word):
         if definition:
             # Clean up the definition
             definition = re.sub(r"\[.*?\]", "", definition)  # Remove references
-            definition = re.sub(r"\(.*?\)", "", definition)  # Remove parentheses
+            definition = re.sub(
+                r"\(.*?\)", "", definition
+            )  # Remove parentheses
             definition = re.sub(r"\s+", " ", definition).strip()
             return definition[:80] if len(definition) > 80 else definition
-        
+
         return None
     except Exception as e:
         print(f"Error getting definition for {word}: {e}")

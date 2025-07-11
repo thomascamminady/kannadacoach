@@ -40,6 +40,29 @@
                 <span>Help</span>
             </div>
 
+            <div
+                class="footer-item"
+                id="alphabet-icon"
+                onclick="showAlphabet()"
+            >
+                <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                >
+                    <path
+                        d="M3 7v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2z"
+                    ></path>
+                    <polyline points="8,10 12,14 16,10"></polyline>
+                </svg>
+                <span>ABC</span>
+            </div>
+
             <div class="footer-item">
                 <a
                     href="https://github.com/thomascamminady/kannadacoach.git"
@@ -134,6 +157,119 @@
                             transliteration skills!</em
                         >
                     </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Alphabet modal -->
+        <div id="alphabet-modal" class="modal" onclick="hideAlphabet()">
+            <div
+                class="modal-content alphabet-content"
+                onclick="event.stopPropagation()"
+            >
+                <div class="modal-header">
+                    <h2>Kannada Alphabet Reference</h2>
+                    <span class="close" onclick="hideAlphabet()">&times;</span>
+                </div>
+                <div class="modal-body alphabet-grid">
+                    <div class="alphabet-section">
+                        <h3>Vowels (ಸ್ವರಗಳು)</h3>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಅ (a)</span>
+                            <span class="letter-item">ಆ (aa)</span>
+                            <span class="letter-item">ಇ (i)</span>
+                            <span class="letter-item">ಈ (ii)</span>
+                            <span class="letter-item">ಉ (u)</span>
+                            <span class="letter-item">ಊ (uu)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಎ (e)</span>
+                            <span class="letter-item">ಏ (ee)</span>
+                            <span class="letter-item">ಒ (o)</span>
+                            <span class="letter-item">ಓ (oo)</span>
+                            <span class="letter-item">ಔ (au)</span>
+                        </div>
+                    </div>
+
+                    <div class="alphabet-section">
+                        <h3>Consonants (ವ್ಯಂಜನಗಳು)</h3>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಕ (ka)</span>
+                            <span class="letter-item">ಖ (kha)</span>
+                            <span class="letter-item">ಗ (ga)</span>
+                            <span class="letter-item">ಘ (gha)</span>
+                            <span class="letter-item">ಙ (nga)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಚ (cha)</span>
+                            <span class="letter-item">ಛ (chha)</span>
+                            <span class="letter-item">ಜ (ja)</span>
+                            <span class="letter-item">ಝ (jha)</span>
+                            <span class="letter-item">ಞ (nja)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಟ (ta)</span>
+                            <span class="letter-item">ಠ (tha)</span>
+                            <span class="letter-item">ಡ (da)</span>
+                            <span class="letter-item">ಢ (dha)</span>
+                            <span class="letter-item">ಣ (na)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ತ (ta)</span>
+                            <span class="letter-item">ಥ (tha)</span>
+                            <span class="letter-item">ದ (da)</span>
+                            <span class="letter-item">ಧ (dha)</span>
+                            <span class="letter-item">ನ (na)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಪ (pa)</span>
+                            <span class="letter-item">ಫ (pha)</span>
+                            <span class="letter-item">ಬ (ba)</span>
+                            <span class="letter-item">ಭ (bha)</span>
+                            <span class="letter-item">ಮ (ma)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಯ (ya)</span>
+                            <span class="letter-item">ರ (ra)</span>
+                            <span class="letter-item">ಲ (la)</span>
+                            <span class="letter-item">ವ (va)</span>
+                            <span class="letter-item">ಶ (sha)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಷ (sha)</span>
+                            <span class="letter-item">ಸ (sa)</span>
+                            <span class="letter-item">ಹ (ha)</span>
+                            <span class="letter-item">ಳ (la)</span>
+                            <span class="letter-item">ೞ (zha)</span>
+                        </div>
+                    </div>
+
+                    <div class="alphabet-section">
+                        <h3>Special Characters</h3>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಂ (m)</span>
+                            <span class="letter-item">ಃ (h)</span>
+                            <span class="letter-item">್ (virama)</span>
+                        </div>
+                    </div>
+
+                    <div class="alphabet-section">
+                        <h3>Common Combinations</h3>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ಕ್ಕ (kka)</span>
+                            <span class="letter-item">ಗ್ಗ (gga)</span>
+                            <span class="letter-item">ಚ್ಚ (ccha)</span>
+                            <span class="letter-item">ಜ್ಜ (jja)</span>
+                            <span class="letter-item">ತ್ತ (tta)</span>
+                        </div>
+                        <div class="alphabet-row">
+                            <span class="letter-item">ನ್ನ (nna)</span>
+                            <span class="letter-item">ಪ್ಪ (ppa)</span>
+                            <span class="letter-item">ಬ್ಬ (bba)</span>
+                            <span class="letter-item">ಮ್ಮ (mma)</span>
+                            <span class="letter-item">ಲ್ಲ (lla)</span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

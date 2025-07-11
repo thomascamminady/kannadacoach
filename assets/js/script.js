@@ -7,7 +7,7 @@ let incorrectAttempts = 0;
 // Load dictionary from JSON file
 async function loadDictionary() {
     try {
-        const response = await fetch("data/enhanced_dictionary.json");
+        const response = await fetch("data/comprehensive_dictionary.json");
         words = await response.json();
         loadNewWord();
     } catch (error) {
@@ -168,13 +168,34 @@ function hideHelp() {
     document.body.style.overflow = "auto";
 }
 
+// Alphabet modal functions
+function showAlphabet() {
+    const modal = document.getElementById("alphabet-modal");
+    modal.style.display = "flex";
+    modal.classList.add("show");
+    // Prevent body scrolling when modal is open
+    document.body.style.overflow = "hidden";
+}
+
+function hideAlphabet() {
+    const modal = document.getElementById("alphabet-modal");
+    modal.style.display = "none";
+    modal.classList.remove("show");
+    document.body.style.overflow = "auto";
+}
+
 // Close modal on Escape key
 document.addEventListener("keydown", function (event) {
     if (event.key === "Escape") {
-        const modal = document.getElementById("help-modal");
-        if (modal.classList.contains("show")) {
+        const helpModal = document.getElementById("help-modal");
+        const alphabetModal = document.getElementById("alphabet-modal");
+
+        if (helpModal.classList.contains("show")) {
             event.preventDefault();
             hideHelp();
+        } else if (alphabetModal.classList.contains("show")) {
+            event.preventDefault();
+            hideAlphabet();
         }
     }
 });
