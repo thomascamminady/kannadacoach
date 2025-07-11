@@ -47,26 +47,26 @@
   },
   {
     "kn": "ಗುಡುಗು",
-    "tr": "gaudaugau",
+    "tr": "gudugu",
     "en": "Thunder",
     "segments": [
       {
         "kn": "ಗು",
-        "tr": "gau"
+        "tr": "gu"
       },
       {
         "kn": "ಡು",
-        "tr": "dau"
+        "tr": "du"
       },
       {
         "kn": "ಗು",
-        "tr": "gau"
+        "tr": "gu"
       }
     ]
   },
   {
     "kn": "ಮಗು",
-    "tr": "magau",
+    "tr": "magu",
     "en": "Child",
     "segments": [
       {
@@ -75,7 +75,7 @@
       },
       {
         "kn": "ಗು",
-        "tr": "gau"
+        "tr": "gu"
       }
     ]
   },
