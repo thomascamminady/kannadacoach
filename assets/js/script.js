@@ -15,13 +15,57 @@ let typedSegments = [];
 let skippedSegments = [];
 let incorrectAttempts = 0;
 
+// Cached DOM elements
+const elements = {
+    loadingIndicator: null,
+    kannadaWord: null,
+    meaningDisplay: null,
+    hintDisplay: null,
+    inputBox: null,
+    helpModal: null,
+    alphabetModal: null,
+    themeIcon: null,
+    themeText: null
+};
+
+// Initialize cached DOM elements
+function initializeDOMElements() {
+    elements.loadingIndicator = document.getElementById('loading-indicator');
+    elements.kannadaWord = document.getElementById('kannada-word');
+    elements.meaningDisplay = document.getElementById('meaning-display');
+    elements.hintDisplay = document.getElementById('hint-display');
+    elements.inputBox = document.getElementById('input-box');
+    elements.helpModal = document.getElementById('help-modal');
+    elements.alphabetModal = document.getElementById('alphabet-modal');
+    elements.themeIcon = document.getElementById('theme-icon');
+    elements.themeText = document.getElementById('theme-text');
+    
+    // Add event listeners after DOM elements are cached
+    addEventListeners();
+}
+
+// Add event listeners
+function addEventListeners() {
+    // Close modal on Escape key
+    document.addEventListener("keydown", function (event) {
+        if (event.key === "Escape") {
+            if (elements.helpModal.classList.contains("show")) {
+                event.preventDefault();
+                hideHelp();
+            } else if (elements.alphabetModal.classList.contains("show")) {
+                event.preventDefault();
+                hideAlphabet();
+            }
+        }
+    });
+}
+
 // Load dictionary from JSON file
 async function loadDictionary() {
-    const loadingIndicator = document.getElementById('loading-indicator');
     try {
         // Show loading indicator
-        loadingIndicator.style.display = 'flex';
-        loadingIndicator.classList.remove('hidden');
+        elements.loadingIndicator.style.display = 'flex';
+        elements.loadingIndicator.classList.remove('hidden');
         
         const response = await fetch("data/dictionary.json");
         if (!response.ok) {
@@ -33,9 +77,9 @@ async function loadDictionary() {
         }
         
         // Hide loading indicator with a smooth transition
-        loadingIndicator.classList.add('hidden');
+        elements.loadingIndicator.classList.add('hidden');
         setTimeout(() => {
-            loadingIndicator.style.display = 'none';
+            elements.loadingIndicator.style.display = 'none';
         }, 300);
         
         loadNewWord();
@@ -43,12 +87,12 @@ async function loadDictionary() {
         console.error("Error loading dictionary:", error);
         
         // Hide loading indicator on error
-        loadingIndicator.classList.add('hidden');
+        elements.loadingIndicator.classList.add('hidden');
         setTimeout(() => {
-            loadingIndicator.style.display = 'none';
+            elements.loadingIndicator.style.display = 'none';
         }, 300);
         
-        document.getElementById("kannada-word").innerHTML = 
+        elements.kannadaWord.innerHTML = 
             '<div style="color: var(--incorrect-color); text-align: center; padding: 20px;">Failed to load dictionary. Please refresh the page.</div>';
     }
 }
@@ -64,41 +108,37 @@ function loadNewWord() {
     typedSegments = [];
     skippedSegments = [];
     incorrectAttempts = 0;
-    document.getElementById("input-box").value = "";
+    elements.inputBox.value = "";
     hideMeaning();
     hideHint();
     updateKannadaDisplay();
 }
 
 function showMeaning() {
-    const meaningElement = document.getElementById("meaning-display");
-    meaningElement.textContent = currentWord.en;
-    meaningElement.classList.add("show", "completed");
+    elements.meaningDisplay.textContent = currentWord.en;
+    elements.meaningDisplay.classList.add("show", "completed");
 }
 
 function hideMeaning() {
-    const meaningElement = document.getElementById("meaning-display");
-    meaningElement.classList.remove("show", "completed");
-    meaningElement.textContent = "";
+    elements.meaningDisplay.classList.remove("show", "completed");
+    elements.meaningDisplay.textContent = "";
 }
 
 function showHint() {
-    const hintElement = document.getElementById("hint-display");
     const expectedSegment = currentWord.segments[currentCharIndex].tr;
-    hintElement.textContent = `Answer: ${expectedSegment}`;
-    hintElement.classList.add("show");
+    elements.hintDisplay.textContent = `Answer: ${expectedSegment}`;
+    elements.hintDisplay.classList.add("show");
 }
 
 function hideHint() {
-    const hintElement = document.getElementById("hint-display");
-    hintElement.classList.remove("show");
-    hintElement.textContent = "";
+    elements.hintDisplay.classList.remove("show");
+    elements.hintDisplay.textContent = "";
 }
 
 function moveToNextChar() {
     incorrectAttempts = 0;
     currentCharIndex++;
-    document.getElementById("input-box").value = "";
+    elements.inputBox.value = "";
     hideHint();
     updateKannadaDisplay();
 
@@ -126,8 +166,7 @@ function handleKey(event) {
 }
 
 function validateCurrentInput() {
-    const inputBox = document.getElementById("input-box");
-    const currentSegment = inputBox.value.trim();
+    const currentSegment = elements.inputBox.value.trim();
 
     // Validation checks
     if (!currentSegment) return; // Don't process empty input
@@ -202,56 +241,36 @@ function updateKannadaDisplay() {
         }
     }
 
-    document.getElementById("kannada-word").innerHTML = kannadaHTML;
+    elements.kannadaWord.innerHTML = kannadaHTML;
 }
 
 // Help modal functions
 function showHelp() {
-    const modal = document.getElementById("help-modal");
-    modal.style.display = "flex";
-    modal.classList.add("show");
+    elements.helpModal.style.display = "flex";
+    elements.helpModal.classList.add("show");
     // Prevent body scrolling when modal is open
     document.body.style.overflow = "hidden";
 }
 
 function hideHelp() {
-    const modal = document.getElementById("help-modal");
-    modal.style.display = "none";
-    modal.classList.remove("show");
+    elements.helpModal.style.display = "none";
+    elements.helpModal.classList.remove("show");
     document.body.style.overflow = "auto";
 }
 
 // Alphabet modal functions
 function showAlphabet() {
-    const modal = document.getElementById("alphabet-modal");
-    modal.style.display = "flex";
-    modal.classList.add("show");
+    elements.alphabetModal.style.display = "flex";
+    elements.alphabetModal.classList.add("show");
     // Prevent body scrolling when modal is open
     document.body.style.overflow = "hidden";
 }
 
 function hideAlphabet() {
-    const modal = document.getElementById("alphabet-modal");
-    modal.style.display = "none";
-    modal.classList.remove("show");
+    elements.alphabetModal.style.display = "none";
+    elements.alphabetModal.classList.remove("show");
     document.body.style.overflow = "auto";
 }
-
-// Close modal on Escape key
-document.addEventListener("keydown", function (event) {
-    if (event.key === "Escape") {
-        const helpModal = document.getElementById("help-modal");
-        const alphabetModal = document.getElementById("alphabet-modal");
-
-        if (helpModal.classList.contains("show")) {
-            event.preventDefault();
-            hideHelp();
-        } else if (alphabetModal.classList.contains("show")) {
-            event.preventDefault();
-            hideAlphabet();
-        }
-    }
-});
 
 // Theme toggle functionality
 function toggleTheme() {
@@ -265,18 +284,15 @@ function toggleTheme() {
 }
 
 function updateThemeButton(theme) {
-    const themeIcon = document.getElementById("theme-icon");
-    const themeText = document.getElementById("theme-text");
-
     if (theme === "dark") {
         // In dark mode, show moon icon and "Light" text (what it will switch to)
-        themeIcon.innerHTML = `
+        elements.themeIcon.innerHTML = `
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
         `;
-        themeText.textContent = "Light";
+        elements.themeText.textContent = "Light";
     } else {
         // In light mode, show sun icon and "Dark" text (what it will switch to)
-        themeIcon.innerHTML = `
+        elements.themeIcon.innerHTML = `
             <circle cx="12" cy="12" r="5"></circle>
             <line x1="12" y1="1" x2="12" y2="3"></line>
             <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -287,7 +303,7 @@ function updateThemeButton(theme) {
             <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
             <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
         `;
-        themeText.textContent = "Dark";
+        elements.themeText.textContent = "Dark";
     }
 }
 
@@ -304,6 +320,7 @@ function initializeTheme() {
 }
 
 // Initialize app
+initializeDOMElements();
 initializeTheme();
 loadDictionary();
 
