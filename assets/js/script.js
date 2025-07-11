@@ -13,7 +13,9 @@ let currentWord = {};
 let currentCharIndex = 0;
 let typedSegments = [];
 let skippedSegments = [];
-let incorrectAttempts = 0;
+let incorrectAttempts = [];
+let completedWords = [];
+let historyModal = null;
 
 // Cached DOM elements
 const elements = {
@@ -24,6 +26,7 @@ const elements = {
     inputBox: null,
     helpModal: null,
     alphabetModal: null,
+    historyModal: null,
     themeIcon: null,
     themeText: null,
 };
@@ -40,6 +43,7 @@ function initializeDOMElements() {
     elements.inputBox = document.getElementById("input-box");
     elements.helpModal = document.getElementById("help-modal");
     elements.alphabetModal = document.getElementById("alphabet-modal");
+    elements.historyModal = document.getElementById("history-modal");
     elements.themeIcon = document.getElementById("theme-icon");
     elements.themeText = document.getElementById("theme-text");
 
@@ -139,6 +143,13 @@ function loadNewWord() {
 function showMeaning() {
     elements.meaningDisplay.textContent = currentWord.en;
     elements.meaningDisplay.classList.add("show", "completed");
+
+    // Add completed word to history
+    addToHistory({
+        kannada: currentWord.segments.map((seg) => seg.ka).join(""),
+        transliteration: currentWord.segments.map((seg) => seg.tr).join(""),
+        meaning: currentWord.en,
+    });
 }
 
 /**
@@ -419,3 +430,144 @@ function flashCurrentCharacter(type) {
         }, CONFIG.FLASH_DURATION);
     }
 }
+
+/**
+ * Initialize history modal and load saved history
+ */
+function initializeHistory() {
+    historyModal = elements.historyModal;
+    loadHistoryFromStorage();
+}
+
+/**
+ * Load history from localStorage
+ */
+function loadHistoryFromStorage() {
+    try {
+        const savedHistory = localStorage.getItem("kannadaCoachHistory");
+        if (savedHistory) {
+            completedWords = JSON.parse(savedHistory);
+        }
+    } catch (error) {
+        console.error("Error loading history:", error);
+        completedWords = [];
+    }
+}
+
+/**
+ * Save history to localStorage
+ */
+function saveHistoryToStorage() {
+    try {
+        localStorage.setItem(
+            "kannadaCoachHistory",
+            JSON.stringify(completedWords)
+        );
+    } catch (error) {
+        console.error("Error saving history:", error);
+    }
+}
+
+/**
+ * Add a completed word to history
+ * @param {Object} wordData - The completed word data
+ */
+function addToHistory(wordData) {
+    const historyItem = {
+        kannada: wordData.kannada,
+        transliteration: wordData.transliteration,
+        meaning: wordData.meaning,
+    };
+
+    // Check if this word is already in history to avoid duplicates
+    const existingIndex = completedWords.findIndex(
+        (item) => item.kannada === historyItem.kannada
+    );
+
+    if (existingIndex === -1) {
+        // Add to beginning of array (most recent first)
+        completedWords.unshift(historyItem);
+
+        // Keep only the last 100 entries to prevent excessive storage
+        if (completedWords.length > 100) {
+            completedWords = completedWords.slice(0, 100);
+        }
+
+        saveHistoryToStorage();
+    }
+}
+
+/**
+ * Show history modal
+ */
+function showHistory() {
+    if (!historyModal) {
+        initializeHistory();
+    }
+
+    updateHistoryDisplay();
+    historyModal.classList.add("show");
+    historyModal.style.display = "flex";
+}
+
+/**
+ * Hide history modal
+ */
+function hideHistory() {
+    if (historyModal) {
+        historyModal.classList.remove("show");
+        historyModal.style.display = "none";
+    }
+}
+
+/**
+ * Update the history display with current data
+ */
+function updateHistoryDisplay() {
+    const totalCompleted = document.getElementById("total-completed");
+    const historyList = document.getElementById("history-list");
+
+    // Update total count
+    totalCompleted.textContent = completedWords.length;
+
+    // Clear previous content
+    historyList.innerHTML = "";
+
+    if (completedWords.length === 0) {
+        historyList.innerHTML =
+            '<p class="no-history">No words completed yet. Start practicing to see your progress!</p>';
+        return;
+    }
+
+    // Create history items
+    completedWords.forEach((item, index) => {
+        const historyItem = document.createElement("div");
+        historyItem.className = "history-item";
+        historyItem.innerHTML = `
+            <div class="history-kannada">${item.kannada}</div>
+            <div class="history-transliteration">${item.transliteration}</div>
+            <div class="history-meaning">${item.meaning}</div>
+        `;
+        historyList.appendChild(historyItem);
+    });
+}
+
+/**
+ * Clear all history
+ */
+function clearHistory() {
+    if (
+        confirm(
+            "Are you sure you want to clear all history? This action cannot be undone."
+        )
+    ) {
+        completedWords = [];
+        saveHistoryToStorage();
+        updateHistoryDisplay();
+    }
+}
+
+// Initialize history when the page loads
+document.addEventListener("DOMContentLoaded", function () {
+    initializeHistory();
+});

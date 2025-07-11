@@ -102,6 +102,32 @@
                 <span>ABC</span>
             </button>
 
+            <!-- <button
+                class="nav-button"
+                id="history-icon"
+                onclick="showHistory()"
+                aria-label="Show completed words history"
+            >
+                <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    aria-hidden="true"
+                >
+                    <path
+                        d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"
+                    ></path>
+                    <path d="M3 3v5h5"></path>
+                    <path d="M12 7v5l4 2"></path>
+                </svg>
+                <span>History</span>
+            </button> -->
+
             <button
                 class="nav-button"
                 onclick="window.open('https://github.com/thomascamminady/kannadacoach.git', '_blank')"
@@ -349,6 +375,39 @@
                             <span class="letter-item">ಮ್ಮ (mma)</span>
                             <span class="letter-item">ಲ್ಲ (lla)</span>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- History modal -->
+        <div id="history-modal" class="modal" onclick="hideHistory()">
+            <div
+                class="modal-content history-content"
+                onclick="event.stopPropagation()"
+            >
+                <div class="modal-header">
+                    <h2>Completed Words History</h2>
+                    <span class="close" onclick="hideHistory()">&times;</span>
+                </div>
+                <div class="modal-body">
+                    <div id="history-stats" class="history-stats">
+                        <p>
+                            Total words completed:
+                            <span id="total-completed">0</span>
+                        </p>
+                        <button
+                            class="clear-history-btn"
+                            onclick="clearHistory()"
+                        >
+                            Clear History
+                        </button>
+                    </div>
+                    <div id="history-list" class="history-list">
+                        <p class="no-history">
+                            No words completed yet. Start practicing to see your
+                            progress!
+                        </p>
                     </div>
                 </div>
             </div>
