@@ -100,36 +100,40 @@ function validateCurrentInput() {
     const inputBox = document.getElementById("input-box");
     const currentSegment = inputBox.value.trim();
 
-    if (currentSegment && currentCharIndex < currentWord.segments.length) {
-        const expectedSegment = currentWord.segments[currentCharIndex].tr;
+    // Validation checks
+    if (!currentSegment) return; // Don't process empty input
+    if (!currentWord || !currentWord.segments) return; // Safety check for word
+    if (currentCharIndex >= currentWord.segments.length) return; // Bounds check
 
-        if (currentSegment === expectedSegment) {
-            // Correct input - flash character green
-            flashCurrentCharacter("correct");
-            typedSegments[currentCharIndex] = currentSegment;
+    const expectedSegment = currentWord.segments[currentCharIndex].tr;
+    if (!expectedSegment) return; // Safety check for segment
+
+    if (currentSegment === expectedSegment) {
+        // Correct input - flash character green
+        flashCurrentCharacter("correct");
+        typedSegments[currentCharIndex] = currentSegment;
+        setTimeout(() => {
+            moveToNextChar();
+        }, 200);
+    } else {
+        // Incorrect input
+        incorrectAttempts++;
+
+        if (incorrectAttempts >= 4) {
+            // Show correct answer and move on
+            showHint();
+            skippedSegments[currentCharIndex] = true;
             setTimeout(() => {
                 moveToNextChar();
-            }, 200);
+            }, 1200);
         } else {
-            // Incorrect input
-            incorrectAttempts++;
-
-            if (incorrectAttempts >= 4) {
-                // Show correct answer and move on
-                showHint();
-                skippedSegments[currentCharIndex] = true;
-                setTimeout(() => {
-                    moveToNextChar();
-                }, 1200);
-            } else {
-                // Flash character and input red, then clear
-                flashCurrentCharacter("incorrect");
-                inputBox.classList.add("error");
-                setTimeout(() => {
-                    inputBox.classList.remove("error");
-                    inputBox.value = "";
-                }, 300);
-            }
+            // Flash character and input red, then clear
+            flashCurrentCharacter("incorrect");
+            inputBox.classList.add("error");
+            setTimeout(() => {
+                inputBox.classList.remove("error");
+                inputBox.value = "";
+            }, 300);
         }
     }
 }
