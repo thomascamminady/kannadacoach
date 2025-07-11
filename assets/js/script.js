@@ -2,6 +2,7 @@ let words = [];
 let currentWord = {};
 let currentCharIndex = 0;
 let typedSegments = [];
+let skippedSegments = [];
 let incorrectAttempts = 0;
 
 // Load dictionary from JSON file
@@ -24,6 +25,7 @@ function loadNewWord() {
     currentWord = getRandomWord();
     currentCharIndex = 0;
     typedSegments = [];
+    skippedSegments = [];
     incorrectAttempts = 0;
     document.getElementById("input-box").value = "";
     hideMeaning();
@@ -94,9 +96,12 @@ function validateCurrentInput() {
         const expectedSegment = currentWord.segments[currentCharIndex].tr;
 
         if (currentSegment === expectedSegment) {
-            // Correct input
+            // Correct input - flash character green
+            flashCurrentCharacter("correct");
             typedSegments[currentCharIndex] = currentSegment;
-            moveToNextChar();
+            setTimeout(() => {
+                moveToNextChar();
+            }, 200);
         } else {
             // Incorrect input
             incorrectAttempts++;
@@ -104,19 +109,18 @@ function validateCurrentInput() {
             if (incorrectAttempts >= 4) {
                 // Show correct answer and move on
                 showHint();
-                typedSegments[currentCharIndex] = expectedSegment;
+                skippedSegments[currentCharIndex] = true;
                 setTimeout(() => {
                     moveToNextChar();
                 }, 1200);
             } else {
-                // Flash red and clear
-                inputBox.style.borderColor = "#dc322f";
-                inputBox.style.backgroundColor = "rgba(220, 50, 47, 0.1)";
+                // Flash character and input red, then clear
+                flashCurrentCharacter("incorrect");
+                inputBox.classList.add("error");
                 setTimeout(() => {
-                    inputBox.style.borderColor = "";
-                    inputBox.style.backgroundColor = "";
+                    inputBox.classList.remove("error");
                     inputBox.value = "";
-                }, 500);
+                }, 300);
             }
         }
     }
@@ -129,13 +133,21 @@ function updateKannadaDisplay() {
         const segment = currentWord.segments[i];
 
         if (i < currentCharIndex) {
-            // Character has been typed correctly
-            kannadaHTML += `<div class='kannada-char-container'>
-                <span class='kannada-typed-correct'>${segment.kn}</span>
-                <span class='transliteration'>${
-                    typedSegments[i] || segment.tr
-                }</span>
-            </div>`;
+            if (skippedSegments[i]) {
+                // Character was skipped after 4 wrong attempts
+                kannadaHTML += `<div class='kannada-char-container'>
+                    <span class='kannada-skipped-char'>${segment.kn}</span>
+                    <span class='transliteration'>${segment.tr}</span>
+                </div>`;
+            } else {
+                // Character has been typed correctly
+                kannadaHTML += `<div class='kannada-char-container'>
+                    <span class='kannada-typed-correct'>${segment.kn}</span>
+                    <span class='transliteration'>${
+                        typedSegments[i] || segment.tr
+                    }</span>
+                </div>`;
+            }
         } else if (i === currentCharIndex) {
             // Current character position
             kannadaHTML += `<div class='kannada-char-container'>
@@ -200,5 +212,72 @@ document.addEventListener("keydown", function (event) {
     }
 });
 
+// Theme toggle functionality
+function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    const newTheme = currentTheme === "dark" ? "light" : "dark";
+
+    document.documentElement.setAttribute("data-theme", newTheme);
+    localStorage.setItem("theme", newTheme);
+
+    updateThemeButton(newTheme);
+}
+
+function updateThemeButton(theme) {
+    const themeIcon = document.getElementById("theme-icon");
+    const themeText = document.getElementById("theme-text");
+
+    if (theme === "dark") {
+        // In dark mode, show moon icon and "Light" text (what it will switch to)
+        themeIcon.innerHTML = `
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        `;
+        themeText.textContent = "Light";
+    } else {
+        // In light mode, show sun icon and "Dark" text (what it will switch to)
+        themeIcon.innerHTML = `
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+        `;
+        themeText.textContent = "Dark";
+    }
+}
+
+// Initialize theme on page load
+function initializeTheme() {
+    const savedTheme = localStorage.getItem("theme");
+    const prefersDark = window.matchMedia(
+        "(prefers-color-scheme: dark)"
+    ).matches;
+    const theme = savedTheme || (prefersDark ? "dark" : "light");
+
+    document.documentElement.setAttribute("data-theme", theme);
+    updateThemeButton(theme);
+}
+
 // Initialize app
+initializeTheme();
 loadDictionary();
+initializeTheme();
+
+function flashCurrentCharacter(type) {
+    const currentChar = document.querySelector(".kannada-current-char");
+    if (currentChar) {
+        const originalClass = currentChar.className;
+        if (type === "correct") {
+            currentChar.classList.add("flash-correct");
+        } else {
+            currentChar.classList.add("flash-incorrect");
+        }
+        setTimeout(() => {
+            currentChar.className = originalClass;
+        }, 200);
+    }
+}
