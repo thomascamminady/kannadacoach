@@ -374,40 +374,9 @@ def create_simple_transliteration(kannada_text):
     return "".join(result)
 
 
-def create_better_segments(kannada_word, expected_transliteration):
-    """Create better segments by properly handling combining characters like anusvara."""
-    # Handle anusvara properly by grouping characters into syllables
-    segments = []
-    i = 0
-    chars = list(kannada_word)
-    
-    while i < len(chars):
-        current_segment = ""
-        current_tr = ""
-        
-        # Start building a syllable
-        if i < len(chars):
-            current_segment += chars[i]
-            i += 1
-            
-            # Keep adding combining characters (vowel modifiers, anusvara, visarga, etc.)
-            while i < len(chars) and chars[i] in ["ಾ", "ಿ", "ೀ", "ು", "ೂ", "ೆ", "ೇ", "ೈ", "ೊ", "ೋ", "ೌ", "ಂ", "ಃ", "್"]:
-                current_segment += chars[i]
-                i += 1
-        
-        # Create transliteration for this segment
-        if current_segment:
-            current_tr = create_simple_transliteration(current_segment)
-            segments.append({
-                "kn": current_segment,
-                "tr": current_tr
-            })
-    
-    return segments
-
-
 def create_simple_segments(kannada_word):
     """Create simple segments for basic words."""
+    # This is a placeholder - in real implementation, we'd use the complex segmentation
     segments = []
     current_segment = ""
 
@@ -440,17 +409,11 @@ def create_comprehensive_dictionary():
     dictionary = []
 
     for kannada, transliteration, english in KANNADA_WORDS:
-        # Use better segmentation for words with anusvara or other combining characters
-        if any(char in kannada for char in ["ಂ", "ಃ", "್"]):
-            segments = create_better_segments(kannada, transliteration)
-        else:
-            segments = create_simple_segments(kannada)
-        
         entry = {
             "kn": kannada,
             "tr": transliteration,
             "en": english,
-            "segments": segments,
+            "segments": create_simple_segments(kannada),
         }
         dictionary.append(entry)
 
