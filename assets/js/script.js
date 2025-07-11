@@ -4,7 +4,7 @@ const CONFIG = {
     FLASH_DURATION: 200,
     HINT_DISPLAY_DURATION: 1200,
     MEANING_DISPLAY_DURATION: 1500,
-    ERROR_FLASH_DURATION: 300
+    ERROR_FLASH_DURATION: 300,
 };
 
 // Global state variables
@@ -25,7 +25,7 @@ const elements = {
     helpModal: null,
     alphabetModal: null,
     themeIcon: null,
-    themeText: null
+    themeText: null,
 };
 
 /**
@@ -33,16 +33,16 @@ const elements = {
  * Called once when the app loads to cache frequently accessed DOM elements
  */
 function initializeDOMElements() {
-    elements.loadingIndicator = document.getElementById('loading-indicator');
-    elements.kannadaWord = document.getElementById('kannada-word');
-    elements.meaningDisplay = document.getElementById('meaning-display');
-    elements.hintDisplay = document.getElementById('hint-display');
-    elements.inputBox = document.getElementById('input-box');
-    elements.helpModal = document.getElementById('help-modal');
-    elements.alphabetModal = document.getElementById('alphabet-modal');
-    elements.themeIcon = document.getElementById('theme-icon');
-    elements.themeText = document.getElementById('theme-text');
-    
+    elements.loadingIndicator = document.getElementById("loading-indicator");
+    elements.kannadaWord = document.getElementById("kannada-word");
+    elements.meaningDisplay = document.getElementById("meaning-display");
+    elements.hintDisplay = document.getElementById("hint-display");
+    elements.inputBox = document.getElementById("input-box");
+    elements.helpModal = document.getElementById("help-modal");
+    elements.alphabetModal = document.getElementById("alphabet-modal");
+    elements.themeIcon = document.getElementById("theme-icon");
+    elements.themeText = document.getElementById("theme-text");
+
     // Add event listeners after DOM elements are cached
     addEventListeners();
 }
@@ -74,9 +74,9 @@ function addEventListeners() {
 async function loadDictionary() {
     try {
         // Show loading indicator
-        elements.loadingIndicator.style.display = 'flex';
-        elements.loadingIndicator.classList.remove('hidden');
-        
+        elements.loadingIndicator.style.display = "flex";
+        elements.loadingIndicator.classList.remove("hidden");
+
         const response = await fetch("data/dictionary.json");
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}: ${response.statusText}`);
@@ -85,24 +85,24 @@ async function loadDictionary() {
         if (!words || words.length === 0) {
             throw new Error("Dictionary is empty or invalid");
         }
-        
+
         // Hide loading indicator with a smooth transition
-        elements.loadingIndicator.classList.add('hidden');
+        elements.loadingIndicator.classList.add("hidden");
         setTimeout(() => {
-            elements.loadingIndicator.style.display = 'none';
+            elements.loadingIndicator.style.display = "none";
         }, 300);
-        
+
         loadNewWord();
     } catch (error) {
         console.error("Error loading dictionary:", error);
-        
+
         // Hide loading indicator on error
-        elements.loadingIndicator.classList.add('hidden');
+        elements.loadingIndicator.classList.add("hidden");
         setTimeout(() => {
-            elements.loadingIndicator.style.display = 'none';
+            elements.loadingIndicator.style.display = "none";
         }, 300);
-        
-        elements.kannadaWord.innerHTML = 
+
+        elements.kannadaWord.innerHTML =
             '<div style="color: var(--incorrect-color); text-align: center; padding: 20px;">Failed to load dictionary. Please refresh the page.</div>';
     }
 }
